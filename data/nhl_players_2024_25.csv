@@ -1,0 +1,854 @@
+id,headshot,firstName,lastName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,heightInCentimeters,weightInKilograms,birthDate,birthCity,birthCountry,birthStateProvince,team,player_name
+8479994,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479994.png,Jaret,Anderson-Dolan,28.0,C,L,71,200,180,91,1999-09-12,{'default': 'Calgary'},CAN,{'default': 'AB'},WPG,Jaret Anderson-Dolan
+8478891,https://assets.nhle.com/mugs/nhl/20242025/WPG/8478891.png,Mason,Appleton,22.0,C,R,74,194,188,88,1996-01-15,{'default': 'Green Bay'},USA,{'default': 'WI'},WPG,Mason Appleton
+8480289,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480289.png,Morgan,Barron,36.0,C,L,76,220,193,100,1998-12-02,{'default': 'Halifax'},CAN,{'default': 'NS'},WPG,Morgan Barron
+8478398,https://assets.nhle.com/mugs/nhl/20242025/WPG/8478398.png,Kyle,Connor,81.0,L,L,73,183,185,83,1996-12-09,{'default': 'Shelby Township'},USA,{'default': 'MI'},WPG,Kyle Connor
+8477940,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477940.png,Nikolaj,Ehlers,27.0,L,L,72,172,183,78,1996-02-14,"{'default': 'Aalborg', 'fi': 'Ålborg', 'sv': 'Ålborg'}",DNK,,WPG,Nikolaj Ehlers
+8484135,https://assets.nhle.com/mugs/nhl/20242025/WPG/8484135.png,Parker,Ford,73.0,C,R,69,181,175,82,2000-07-20,{'default': 'Wakefield'},USA,{'default': 'RI'},WPG,Parker Ford
+8481019,https://assets.nhle.com/mugs/nhl/20242025/WPG/8481019.png,David,Gustafsson,19.0,C,L,74,196,188,89,2000-04-11,{'default': 'Tingsryd'},SWE,,WPG,David Gustafsson
+8480113,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480113.png,Alex,Iafallo,9.0,L,L,72,201,183,91,1993-12-21,{'default': 'Eden'},USA,{'default': 'NY'},WPG,Alex Iafallo
+8480845,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480845.png,Rasmus,Kupari,15.0,C,R,74,201,188,91,2000-03-15,{'default': 'Kotka'},FIN,,WPG,Rasmus Kupari
+8476392,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476392.png,Adam,Lowry,17.0,C,L,77,210,196,95,1993-03-29,{'default': 'St. Louis'},USA,{'default': 'MO'},WPG,Adam Lowry
+8476480,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476480.png,Vladislav,Namestnikov,7.0,C,L,72,181,183,82,1992-11-22,"{'default': 'Zhukovskiy', 'cs': 'Žukovskij', 'fi': 'Zhukovski', 'sk': 'Žukovskij'}",RUS,,WPG,Vladislav Namestnikov
+8475799,https://assets.nhle.com/mugs/nhl/20242025/WPG/8475799.png,Nino,Niederreiter,62.0,R,L,74,218,188,99,1992-09-08,"{'default': 'Chur', 'fr': 'Coire'}",CHE,,WPG,Nino Niederreiter
+8482149,https://assets.nhle.com/mugs/nhl/20242025/WPG/8482149.png,Cole,Perfetti,91.0,C,L,71,185,180,84,2002-01-01,{'default': 'Whitby'},CAN,{'default': 'ON'},WPG,Cole Perfetti
+8476460,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476460.png,Mark,Scheifele,55.0,C,R,75,207,191,94,1993-03-15,{'default': 'Kitchener'},CAN,{'default': 'ON'},WPG,Mark Scheifele
+8479972,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479972.png,Mason,Shaw,23.0,C,L,70,184,178,83,1998-11-03,{'default': 'Lloydminster'},CAN,{'default': 'AB'},WPG,Mason Shaw
+8479293,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479293.png,Brandon,Tanev,73.0,L,L,72,189,183,86,1991-12-31,{'default': 'Toronto'},CAN,{'default': 'ON'},WPG,Brandon Tanev
+8476952,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476952.png,Dominic,Toninato,21.0,C,L,74,201,188,91,1994-03-09,{'default': 'Duluth'},USA,{'default': 'MN'},WPG,Dominic Toninato
+8480014,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480014.png,Gabriel,Vilardi,13.0,C,R,75,216,191,98,1999-08-16,{'default': 'Kingston'},CAN,{'default': 'ON'},WPG,Gabriel Vilardi
+8484242,https://assets.nhle.com/mugs/nhl/20242025/WPG/8484242.png,Brayden,Yager,29.0,C,R,71,180,180,82,2005-01-03,{'default': 'Saskatoon'},CAN,{'default': 'SK'},WPG,Brayden Yager
+8479639,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479639.png,Dylan,Coghlan,52.0,D,R,74,208,188,94,1998-02-19,{'default': 'Duncan'},CAN,{'default': 'BC'},WPG,Dylan Coghlan
+8476331,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476331.png,Dylan,DeMelo,2.0,D,R,73,194,185,88,1993-05-01,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},WPG,Dylan DeMelo
+8477938,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477938.png,Haydn,Fleury,24.0,D,L,76,207,193,94,1996-07-08,{'default': 'Carlyle'},CAN,{'default': 'SK'},WPG,Haydn Fleury
+8481572,https://assets.nhle.com/mugs/nhl/20242025/WPG/8481572.png,Ville,Heinola,14.0,D,L,72,181,183,82,2001-03-02,{'default': 'Honkajoki'},FIN,,WPG,Ville Heinola
+8476525,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476525.png,Colin,Miller,6.0,D,R,73,200,185,91,1992-10-29,"{'default': 'Sault Ste. Marie', 'fr': 'Sault-Sainte-Marie'}",CAN,{'default': 'ON'},WPG,Colin Miller
+8477504,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477504.png,Josh,Morrissey,44.0,D,L,72,195,183,88,1995-03-28,{'default': 'Calgary'},CAN,{'default': 'AB'},WPG,Josh Morrissey
+8482192,https://assets.nhle.com/mugs/nhl/20242025/WPG/8482192.png,Isaak,Phillips,,D,L,75,205,191,93,2001-09-28,{'default': 'Barrie'},CAN,{'default': 'ON'},WPG,Isaak Phillips
+8480145,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480145.png,Neal,Pionk,4.0,D,R,72,190,183,86,1995-07-29,{'default': 'Omaha'},USA,{'default': 'NE'},WPG,Neal Pionk
+8483510,https://assets.nhle.com/mugs/nhl/20242025/WPG/8483510.png,Elias,Salomonsson,57.0,D,R,72,172,183,78,2004-08-31,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,WPG,Elias Salomonsson
+8480049,https://assets.nhle.com/mugs/nhl/20242025/WPG/8480049.png,Dylan,Samberg,54.0,D,L,76,216,193,98,1999-01-24,{'default': 'Saginaw'},USA,{'default': 'MN'},WPG,Dylan Samberg
+8474568,https://assets.nhle.com/mugs/nhl/20242025/WPG/8474568.png,Luke,Schenn,5.0,D,R,74,225,188,102,1989-11-02,{'default': 'Saskatoon'},CAN,{'default': 'SK'},WPG,Luke Schenn
+8479378,https://assets.nhle.com/mugs/nhl/20242025/WPG/8479378.png,Logan,Stanley,64.0,D,L,79,231,201,105,1998-05-26,{'default': 'Waterloo'},CAN,{'default': 'ON'},WPG,Logan Stanley
+8477480,https://assets.nhle.com/mugs/nhl/20242025/WPG/8477480.png,Eric,Comrie,1.0,G,L,73,190,185,86,1995-07-06,{'default': 'Edmonton'},CAN,{'default': 'AB'},WPG,Eric Comrie
+8476904,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476904.png,Chris,Driedger,60.0,G,L,76,210,193,95,1994-05-18,{'default': 'Winnipeg'},CAN,{'default': 'MB'},WPG,Chris Driedger
+8476945,https://assets.nhle.com/mugs/nhl/20242025/WPG/8476945.png,Connor,Hellebuyck,37.0,G,L,76,207,193,94,1993-05-19,{'default': 'Commerce'},USA,{'default': 'MI'},WPG,Connor Hellebuyck
+8473563,https://assets.nhle.com/mugs/nhl/20242025/WSH/8473563.png,Nicklas,Backstrom,19.0,C,L,73,202,185,92,1987-11-23,{'default': 'Gavle'},SWE,,WSH,Nicklas Backstrom
+8478463,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478463.png,Anthony,Beauvillier,72.0,L,L,71,180,180,82,1997-06-08,{'default': 'Sorel-Tracy'},CAN,{'default': 'QC'},WSH,Anthony Beauvillier
+8475343,https://assets.nhle.com/mugs/nhl/20242025/WSH/8475343.png,Nic,Dowd,26.0,C,R,74,190,188,86,1990-05-27,{'default': 'Huntsville'},USA,{'default': 'AL'},WSH,Nic Dowd
+8479400,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479400.png,Pierre-Luc,Dubois,80.0,L,L,76,220,193,100,1998-06-24,{'default': 'Ste-Agathe-des-Monts'},CAN,{'default': 'QC'},WSH,Pierre-Luc Dubois
+8479520,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479520.png,Brandon,Duhaime,22.0,R,L,74,210,188,95,1997-05-22,{'default': 'Coral Springs'},USA,{'default': 'FL'},WSH,Brandon Duhaime
+8474189,https://assets.nhle.com/mugs/nhl/20242025/WSH/8474189.png,Lars,Eller,20.0,C,L,74,208,188,94,1989-05-08,"{'default': 'Rodovre', 'fi': 'Rødovre', 'sv': 'Rødovre'}",DNK,,WSH,Lars Eller
+8483573,https://assets.nhle.com/mugs/nhl/20242025/WSH/8483573.png,Ethen,Frank,53.0,C,R,71,188,180,85,1998-02-05,{'default': 'Aurora'},USA,{'default': 'CO'},WSH,Ethen Frank
+8484186,https://assets.nhle.com/mugs/nhl/20242025/WSH/8484186.png,Ryan,Leonard,9.0,R,R,72,192,183,87,2005-01-21,{'default': 'Northampton'},USA,{'default': 'MA'},WSH,Ryan Leonard
+8478233,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478233.png,Andrew,Mangiapane,88.0,L,L,70,183,178,83,1996-04-04,{'default': 'Toronto'},CAN,{'default': 'ON'},WSH,Andrew Mangiapane
+8481580,https://assets.nhle.com/mugs/nhl/20242025/WSH/8481580.png,Connor,McMichael,24.0,C,L,72,180,183,82,2001-01-15,{'default': 'Ajax'},CAN,{'default': 'ON'},WSH,Connor McMichael
+8477947,https://assets.nhle.com/mugs/nhl/20242025/WSH/8477947.png,Sonny,Milano,15.0,L,L,72,194,183,88,1996-05-12,{'default': 'Massapequa'},USA,{'default': 'NY'},WSH,Sonny Milano
+8471698,https://assets.nhle.com/mugs/nhl/20242025/WSH/8471698.png,T.J.,Oshie,77.0,R,R,72,187,183,85,1986-12-23,{'default': 'Everett'},USA,{'default': 'WA'},WSH,T.J. Oshie
+8471214,https://assets.nhle.com/mugs/nhl/20242025/WSH/8471214.png,Alex,Ovechkin,8.0,L,R,75,238,191,108,1985-09-17,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,WSH,Alex Ovechkin
+8481656,https://assets.nhle.com/mugs/nhl/20242025/WSH/8481656.png,Aliaksei,Protas,21.0,C,L,78,247,198,112,2001-01-06,{'default': 'Vitebsk'},BLR,,WSH,Aliaksei Protas
+8479390,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479390.png,Taylor,Raddysh,16.0,R,R,75,200,191,91,1998-02-18,{'default': 'Caledon'},CAN,{'default': 'ON'},WSH,Taylor Raddysh
+8478440,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478440.png,Dylan,Strome,17.0,C,L,75,196,191,89,1997-03-07,{'default': 'Mississauga'},CAN,{'default': 'ON'},WSH,Dylan Strome
+8476880,https://assets.nhle.com/mugs/nhl/20242025/WSH/8476880.png,Tom,Wilson,43.0,R,R,76,225,193,102,1994-03-29,{'default': 'Toronto'},CAN,{'default': 'ON'},WSH,Tom Wilson
+8480823,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480823.png,Alexander,Alexeyev,27.0,D,L,76,229,193,104,1999-11-15,"{'default': 'St. Petersburg', 'cs': 'Petrohrad', 'fi': 'Pietari', 'fr': 'Saint-Pétersbourg', 'sk': 'Petrohrad'}",RUS,,WSH,Alexander Alexeyev
+8474590,https://assets.nhle.com/mugs/nhl/20242025/WSH/8474590.png,John,Carlson,74.0,D,R,75,220,191,100,1990-01-10,{'default': 'Natick'},USA,{'default': 'MA'},WSH,John Carlson
+8479345,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479345.png,Jakob,Chychrun,6.0,D,L,74,216,188,98,1998-03-31,{'default': 'Boca Raton'},USA,{'default': 'FL'},WSH,Jakob Chychrun
+8480796,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480796.png,Martin,Fehérváry,42.0,D,L,74,203,188,92,1999-10-06,{'default': 'Bratislava'},SVK,,WSH,Martin Fehérváry
+8475795,https://assets.nhle.com/mugs/nhl/20242025/WSH/8475795.png,Dylan,McIlrath,52.0,D,R,77,240,196,109,1992-04-20,{'default': 'Winnipeg'},CAN,{'default': 'MB'},WSH,Dylan McIlrath
+8478911,https://assets.nhle.com/mugs/nhl/20242025/WSH/8478911.png,Matt,Roy,3.0,D,R,74,212,188,96,1995-03-01,{'default': 'Detroit'},USA,{'default': 'MI'},WSH,Matt Roy
+8480873,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480873.png,Rasmus,Sandin,38.0,D,L,71,189,180,86,2000-03-07,{'default': 'Uppsala'},SWE,,WSH,Rasmus Sandin
+8477845,https://assets.nhle.com/mugs/nhl/20242025/WSH/8477845.png,Trevor,van Riemsdyk,57.0,D,R,75,197,191,89,1991-07-24,{'default': 'Middletown'},USA,{'default': 'NJ'},WSH,Trevor van Riemsdyk
+8479292,https://assets.nhle.com/mugs/nhl/20242025/WSH/8479292.png,Charlie,Lindgren,79.0,G,R,74,190,188,86,1993-12-18,{'default': 'Lakeville'},USA,{'default': 'MN'},WSH,Charlie Lindgren
+8480313,https://assets.nhle.com/mugs/nhl/20242025/WSH/8480313.png,Logan,Thompson,48.0,G,R,76,207,193,94,1997-02-25,{'default': 'Calgary'},CAN,{'default': 'AB'},WSH,Logan Thompson
+8477964,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477964.png,Ivan,Barbashev,49.0,C,L,72,203,183,92,1995-12-14,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,VGK,Ivan Barbashev
+8481604,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481604.png,Pavel,Dorofeyev,16.0,L,L,73,194,185,88,2000-10-26,"{'default': 'Nizhny Tagil', 'cs': 'Nižnij Tagil', 'fi': 'Nizhni Tagil', 'sk': 'Nižnij Tagil'}",RUS,,VGK,Pavel Dorofeyev
+8478403,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478403.png,Jack,Eichel,9.0,C,R,74,206,188,93,1996-10-28,{'default': 'North Chelmsford'},USA,{'default': 'MA'},VGK,Jack Eichel
+8476881,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476881.png,Tomas,Hertl,48.0,C,L,75,220,191,100,1993-11-12,{'default': 'Praha'},CZE,,VGK,Tomas Hertl
+8482125,https://assets.nhle.com/mugs/nhl/20242025/VGK/8482125.png,Alexander,Holtz,26.0,R,R,72,198,183,90,2002-01-23,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,VGK,Alexander Holtz
+8479353,https://assets.nhle.com/mugs/nhl/20242025/VGK/8479353.png,Brett,Howden,21.0,C,L,74,201,188,91,1998-03-29,{'default': 'Calgary'},CAN,{'default': 'AB'},VGK,Brett Howden
+8476448,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476448.png,William,Karlsson,71.0,C,L,72,190,183,86,1993-01-08,"{'default': 'Marsta', 'cs': 'Märsta', 'fi': 'Märsta', 'sk': 'Märsta', 'sv': 'Märsta'}",SWE,,VGK,William Karlsson
+8478434,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478434.png,Keegan,Kolesar,55.0,R,R,74,216,188,98,1997-04-08,{'default': 'Brandon'},CAN,{'default': 'MB'},VGK,Keegan Kolesar
+8479550,https://assets.nhle.com/mugs/nhl/20242025/VGK/8479550.png,Tanner,Laczynski,28.0,C,R,73,205,185,93,1997-06-01,{'default': 'Minooka'},USA,{'default': 'IL'},VGK,Tanner Laczynski
+8481534,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481534.png,Raphael,Lavoie,36.0,C,R,76,215,193,98,2000-09-25,{'default': 'Chambly'},CAN,{'default': 'QC'},VGK,Raphael Lavoie
+8478109,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478109.png,Victor,Olofsson,95.0,R,L,71,180,180,82,1995-07-18,"{'default': 'Ornskoldsvik', 'cs': 'Örnsköldsvik', 'fi': 'Örnsköldsvik', 'sk': 'Örnsköldsvik', 'sv': 'Örnsköldsvik'}",SWE,,VGK,Victor Olofsson
+8476871,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476871.png,Tanner,Pearson,70.0,L,L,73,207,185,94,1992-08-10,{'default': 'Kitchener'},CAN,{'default': 'ON'},VGK,Tanner Pearson
+8480007,https://assets.nhle.com/mugs/nhl/20242025/VGK/8480007.png,Jonas,Rondbjerg,46.0,R,L,74,204,188,93,1999-03-31,{'default': 'Horsholm'},DNK,,VGK,Jonas Rondbjerg
+8478462,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478462.png,Nicolas,Roy,10.0,C,R,76,201,193,91,1997-02-05,{'default': 'Amos'},CAN,{'default': 'QC'},VGK,Nicolas Roy
+8476438,https://assets.nhle.com/mugs/nhl/20242025/VGK/8476438.png,Brandon,Saad,20.0,L,L,73,215,185,98,1992-10-27,{'default': 'Pittsburgh'},USA,{'default': 'PA'},VGK,Brandon Saad
+8481655,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481655.png,Cole,Schwindt,22.0,R,R,74,203,188,92,2001-04-25,{'default': 'Kitchener'},CAN,{'default': 'ON'},VGK,Cole Schwindt
+8475191,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475191.png,Reilly,Smith,19.0,R,L,73,185,185,84,1991-04-01,{'default': 'Mimico'},CAN,{'default': 'ON'},VGK,Reilly Smith
+8475913,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475913.png,Mark,Stone,61.0,R,R,75,210,191,95,1992-05-13,{'default': 'Winnipeg'},CAN,{'default': 'MB'},VGK,Mark Stone
+8482141,https://assets.nhle.com/mugs/nhl/20242025/VGK/8482141.png,Lukas,Cormier,51.0,D,L,71,190,180,86,2002-03-27,{'default': 'Sainte-Marie-de-Kent'},CAN,{'default': 'NB'},VGK,Lukas Cormier
+8477462,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477462.png,Robert,Hagg,18.0,D,L,74,210,188,95,1995-02-08,{'default': 'Uppsala'},SWE,,VGK,Robert Hagg
+8479980,https://assets.nhle.com/mugs/nhl/20242025/VGK/8479980.png,Nicolas,Hague,14.0,D,L,78,245,198,111,1998-12-05,{'default': 'Kitchener'},CAN,{'default': 'ON'},VGK,Nicolas Hague
+8478396,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478396.png,Noah,Hanifin,15.0,D,L,75,206,191,93,1997-01-25,{'default': 'Boston'},USA,{'default': 'MA'},VGK,Noah Hanifin
+8477018,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477018.png,Ben,Hutton,17.0,D,L,75,209,191,95,1993-04-20,{'default': 'Brockville'},CAN,{'default': 'ON'},VGK,Ben Hutton
+8481527,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481527.png,Kaedan,Korczak,6.0,D,R,75,203,191,92,2001-01-29,{'default': 'Yorkton'},CAN,{'default': 'SK'},VGK,Kaedan Korczak
+8478062,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478062.png,Dysin,Mayo,65.0,D,R,72,190,183,86,1996-08-17,{'default': 'Victoria'},CAN,{'default': 'BC'},VGK,Dysin Mayo
+8475188,https://assets.nhle.com/mugs/nhl/20242025/VGK/8475188.png,Brayden,McNabb,3.0,D,L,76,215,193,98,1991-01-21,{'default': 'Davidson'},CAN,{'default': 'SK'},VGK,Brayden McNabb
+8474565,https://assets.nhle.com/mugs/nhl/20242025/VGK/8474565.png,Alex,Pietrangelo,7.0,D,R,75,215,191,98,1990-01-18,{'default': 'King City'},CAN,{'default': 'ON'},VGK,Alex Pietrangelo
+8477447,https://assets.nhle.com/mugs/nhl/20242025/VGK/8477447.png,Shea,Theodore,27.0,D,L,74,197,188,89,1995-08-03,{'default': 'Aldergrove'},CAN,{'default': 'BC'},VGK,Shea Theodore
+8480727,https://assets.nhle.com/mugs/nhl/20242025/VGK/8480727.png,Zach,Whitecloud,2.0,D,R,74,210,188,95,1996-11-28,{'default': 'Brandon'},CAN,{'default': 'MB'},VGK,Zach Whitecloud
+8478499,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478499.png,Adin,Hill,33.0,G,L,76,215,193,98,1996-05-11,{'default': 'Comox'},CAN,{'default': 'BC'},VGK,Adin Hill
+8482761,https://assets.nhle.com/mugs/nhl/20242025/VGK/8482761.png,Carl,Lindbom,30.0,G,L,72,165,183,75,2003-05-20,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,VGK,Carl Lindbom
+8478492,https://assets.nhle.com/mugs/nhl/20242025/VGK/8478492.png,Ilya,Samsonov,35.0,G,L,75,208,191,94,1997-02-22,{'default': 'Magnitogorsk'},RUS,,VGK,Ilya Samsonov
+8481033,https://assets.nhle.com/mugs/nhl/20242025/VGK/8481033.png,Akira,Schmid,40.0,G,L,77,190,196,86,2000-05-12,"{'default': 'Bern', 'fr': 'Berne'}",CHE,,VGK,Akira Schmid
+8481720,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481720.png,Nick,Abruzzese,26.0,C,L,71,183,180,83,1999-06-04,{'default': 'Slate Hill'},USA,{'default': 'NY'},TOR,Nick Abruzzese
+8477503,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477503.png,Max,Domi,11.0,C,L,70,209,178,95,1995-03-02,{'default': 'Winnipeg'},CAN,{'default': 'MB'},TOR,Max Domi
+8482130,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482130.png,Roni,Hirvonen,33.0,C,L,70,178,178,81,2002-01-10,"{'default': 'Espoo', 'sv': 'Esbo'}",FIN,,TOR,Roni Hirvonen
+8480995,https://assets.nhle.com/mugs/nhl/20242025/TOR/8480995.png,Pontus,Holmberg,29.0,R,L,72,201,183,91,1999-03-09,"{'default': 'Vasteras', 'cs': 'Västeras', 'fi': 'Västerås', 'sk': 'Västeras', 'sv': 'Västerås'}",SWE,,TOR,Pontus Holmberg
+8475714,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475714.png,Calle,Jarnkrok,19.0,C,R,72,191,183,87,1991-09-25,{'default': 'Gavle'},SWE,,TOR,Calle Jarnkrok
+8481147,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481147.png,Reese,Johnson,71.0,C,R,73,193,185,88,1998-07-10,{'default': 'Regina'},CAN,{'default': 'SK'},TOR,Reese Johnson
+8480144,https://assets.nhle.com/mugs/nhl/20242025/TOR/8480144.png,David,Kampf,64.0,C,L,74,193,188,88,1995-01-12,{'default': 'Chomutov'},CZE,,TOR,David Kampf
+8482720,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482720.png,Matthew,Knies,23.0,L,L,75,227,191,103,2002-10-17,{'default': 'Phoenix'},USA,{'default': 'AZ'},TOR,Matthew Knies
+8476872,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476872.png,Scott,Laughton,24.0,L,L,73,191,185,87,1994-05-30,{'default': 'Oakville'},CAN,{'default': 'ON'},TOR,Scott Laughton
+8478904,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478904.png,Steven,Lorentz,18.0,C,L,76,216,193,98,1996-04-13,{'default': 'Kitchener'},CAN,{'default': 'ON'},TOR,Steven Lorentz
+8478483,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478483.png,Mitch,Marner,16.0,R,R,72,180,183,82,1997-05-05,{'default': 'Markham'},CAN,{'default': 'ON'},TOR,Mitch Marner
+8479318,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479318.png,Auston,Matthews,34.0,C,L,75,217,191,98,1997-09-17,{'default': 'San Ramon'},USA,{'default': 'CA'},TOR,Auston Matthews
+8482259,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482259.png,Bobby,McMann,74.0,C,L,74,215,188,98,1996-06-15,{'default': 'Wainwright'},CAN,{'default': 'AB'},TOR,Bobby McMann
+8479423,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479423.png,Alex,Nylander,92.0,L,R,73,205,185,93,1998-03-02,{'default': 'Calgary'},CAN,{'default': 'AB'},TOR,Alex Nylander
+8477939,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477939.png,William,Nylander,88.0,R,R,72,202,183,92,1996-05-01,{'default': 'Calgary'},CAN,{'default': 'AB'},TOR,William Nylander
+8474157,https://assets.nhle.com/mugs/nhl/20242025/TOR/8474157.png,Max,Pacioretty,67.0,L,L,74,217,188,98,1988-11-20,{'default': 'New Canaan'},USA,{'default': 'CT'},TOR,Max Pacioretty
+8484901,https://assets.nhle.com/mugs/nhl/20242025/TOR/8484901.png,Jacob,Quillan,61.0,C,L,73,204,185,93,2002-02-02,{'default': 'Dartmouth'},CAN,{'default': 'NS'},TOR,Jacob Quillan
+8471817,https://assets.nhle.com/mugs/nhl/20242025/TOR/8471817.png,Ryan,Reaves,75.0,R,R,74,225,188,102,1987-01-20,{'default': 'Winnipeg'},CAN,{'default': 'MB'},TOR,Ryan Reaves
+8481582,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481582.png,Nicholas,Robertson,89.0,L,L,69,178,175,81,2001-09-11,{'default': 'Pasadena'},USA,{'default': 'CA'},TOR,Nicholas Robertson
+8482634,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482634.png,Alex,Steeves,46.0,C,L,72,202,183,92,1999-12-10,{'default': 'Saint Paul'},USA,{'default': 'MN'},TOR,Alex Steeves
+8475166,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475166.png,John,Tavares,91.0,C,L,73,211,185,96,1990-09-20,{'default': 'Mississauga'},CAN,{'default': 'ON'},TOR,John Tavares
+8476988,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476988.png,Matt,Benning,55.0,D,R,73,203,185,92,1994-05-25,{'default': 'Edmonton'},CAN,{'default': 'AB'},TOR,Matt Benning
+8481122,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481122.png,Simon,Benoit,2.0,D,L,76,211,193,96,1998-09-19,{'default': 'Laval'},CAN,{'default': 'QC'},TOR,Simon Benoit
+8478443,https://assets.nhle.com/mugs/nhl/20242025/TOR/8478443.png,Brandon,Carlo,25.0,D,R,77,220,196,100,1996-11-26,{'default': 'Colorado Springs'},USA,{'default': 'CO'},TOR,Brandon Carlo
+8475171,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475171.png,Oliver,Ekman-Larsson,95.0,D,L,74,192,188,87,1991-07-17,{'default': 'Karlskrona'},SWE,,TOR,Oliver Ekman-Larsson
+8475825,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475825.png,Jani,Hakanpää,28.0,D,R,79,225,201,102,1992-03-31,"{'default': 'Kirkkonummi', 'sv': 'Kyrkslätt'}",FIN,,TOR,Jani Hakanpää
+8481614,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481614.png,Mikko,Kokkonen,84.0,D,L,72,200,183,91,2001-01-18,"{'default': 'Mikkeli', 'sv': 'Sankt Michel'}",FIN,,TOR,Mikko Kokkonen
+8476931,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476931.png,Jake,McCabe,22.0,D,L,73,212,185,96,1993-10-12,{'default': 'Eau Claire'},USA,{'default': 'WI'},TOR,Jake McCabe
+8477541,https://assets.nhle.com/mugs/nhl/20242025/TOR/8477541.png,Dakota,Mermis,36.0,D,L,72,197,183,89,1994-01-05,{'default': 'Alton'},USA,{'default': 'IL'},TOR,Dakota Mermis
+8479026,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479026.png,Philippe,Myers,51.0,D,R,77,219,196,99,1997-01-25,{'default': 'Moncton'},CAN,{'default': 'NB'},TOR,Philippe Myers
+8482158,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482158.png,Topi,Niemela,47.0,D,R,72,179,183,81,2002-03-25,"{'default': 'Oulu', 'sv': 'Uleåborg'}",FIN,,TOR,Topi Niemela
+8476853,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476853.png,Morgan,Rielly,44.0,D,L,73,225,185,102,1994-03-09,{'default': 'Vancouver'},CAN,{'default': 'BC'},TOR,Morgan Rielly
+8483546,https://assets.nhle.com/mugs/nhl/20242025/TOR/8483546.png,Marshall,Rifai,83.0,D,L,74,213,188,97,1998-03-16,{'default': 'Beaconsfield'},CAN,{'default': 'QC'},TOR,Marshall Rifai
+8475690,https://assets.nhle.com/mugs/nhl/20242025/TOR/8475690.png,Chris,Tanev,8.0,D,R,75,199,191,90,1989-12-20,{'default': 'Toronto'},CAN,{'default': 'ON'},TOR,Chris Tanev
+8482174,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482174.png,William,Villeneuve,76.0,D,R,74,183,188,83,2002-03-20,{'default': 'Sherbrooke'},CAN,{'default': 'QC'},TOR,William Villeneuve
+8481570,https://assets.nhle.com/mugs/nhl/20242025/TOR/8481570.png,Cade,Webber,52.0,D,L,79,212,201,96,2001-01-05,{'default': 'Worcester'},USA,{'default': 'MA'},TOR,Cade Webber
+8482515,https://assets.nhle.com/mugs/nhl/20242025/TOR/8482515.png,Artur,Akhtyamov,70.0,G,L,74,170,188,77,2001-10-31,"{'default': 'Kazan', 'cs': 'Kazaň', 'sk': 'Kazaň'}",RUS,,TOR,Artur Akhtyamov
+8483710,https://assets.nhle.com/mugs/nhl/20242025/TOR/8483710.png,Dennis,Hildeby,35.0,G,L,79,224,201,102,2001-08-19,{'default': 'Jarfalla'},SWE,,TOR,Dennis Hildeby
+8476899,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476899.png,Matt,Murray,30.0,G,L,77,220,196,100,1994-05-25,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},TOR,Matt Murray
+8476932,https://assets.nhle.com/mugs/nhl/20242025/TOR/8476932.png,Anthony,Stolarz,41.0,G,L,78,243,198,110,1994-01-20,{'default': 'Edison'},USA,{'default': 'NJ'},TOR,Anthony Stolarz
+8479361,https://assets.nhle.com/mugs/nhl/20242025/TOR/8479361.png,Joseph,Woll,60.0,G,L,75,206,191,93,1998-07-12,{'default': 'Dardenne Prairie'},USA,{'default': 'MO'},TOR,Joseph Woll
+8473994,https://assets.nhle.com/mugs/nhl/20242025/DAL/8473994.png,Jamie,Benn,14.0,L,L,75,206,191,93,1989-07-18,{'default': 'Victoria'},CAN,{'default': 'BC'},DAL,Jamie Benn
+8476278,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476278.png,Colin,Blackwell,15.0,C,R,68,190,173,86,1993-03-28,{'default': 'North Andover'},USA,{'default': 'MA'},DAL,Colin Blackwell
+8482145,https://assets.nhle.com/mugs/nhl/20242025/DAL/8482145.png,Mavrik,Bourque,22.0,C,R,71,181,180,82,2002-01-08,{'default': 'Plessisville'},CAN,{'default': 'QC'},DAL,Mavrik Bourque
+8480840,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480840.png,Oskar,Bäck,10.0,C,L,76,202,193,92,2000-03-12,{'default': 'Karlstad'},SWE,,DAL,Oskar Bäck
+8474149,https://assets.nhle.com/mugs/nhl/20242025/DAL/8474149.png,Evgenii,Dadonov,63.0,R,L,71,188,180,85,1989-03-12,"{'default': 'Chelyabinsk', 'cs': 'Čeljabinsk', 'fi': 'Tsheljabinsk', 'sk': 'Čeljabinsk'}",RUS,,DAL,Evgenii Dadonov
+8475168,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475168.png,Matt,Duchene,95.0,C,L,71,212,180,96,1991-01-16,{'default': 'Haliburton'},CAN,{'default': 'ON'},DAL,Matt Duchene
+8475798,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475798.png,Mikael,Granlund,64.0,C,L,70,185,178,84,1992-02-26,"{'default': 'Oulu', 'sv': 'Uleåborg'}",FIN,,DAL,Mikael Granlund
+8478449,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478449.png,Roope,Hintz,24.0,C,L,75,213,191,97,1996-11-17,{'default': 'Nokia'},FIN,,DAL,Roope Hintz
+8482740,https://assets.nhle.com/mugs/nhl/20242025/DAL/8482740.png,Wyatt,Johnston,53.0,C,R,73,185,185,84,2003-05-14,{'default': 'Toronto'},CAN,{'default': 'ON'},DAL,Wyatt Johnston
+8478975,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478975.png,Mason,Marchment,27.0,L,L,77,212,196,96,1995-06-18,{'default': 'Uxbridge'},CAN,{'default': 'ON'},DAL,Mason Marchment
+8478420,https://assets.nhle.com/mugs/nhl/20242025/DAL/8478420.png,Mikko,Rantanen,96.0,R,L,76,215,193,98,1996-10-29,"{'default': 'Nousiainen', 'sv': 'Nousis'}",FIN,,DAL,Mikko Rantanen
+8480027,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480027.png,Jason,Robertson,21.0,L,L,75,207,191,94,1999-07-22,{'default': 'Arcadia'},USA,{'default': 'CA'},DAL,Jason Robertson
+8475794,https://assets.nhle.com/mugs/nhl/20242025/DAL/8475794.png,Tyler,Seguin,91.0,C,R,74,201,188,91,1992-01-31,{'default': 'Brampton'},CAN,{'default': 'ON'},DAL,Tyler Seguin
+8479351,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479351.png,Sam,Steel,18.0,C,L,72,189,183,86,1998-02-03,{'default': 'Ardrossan'},CAN,{'default': 'AB'},DAL,Sam Steel
+8483425,https://assets.nhle.com/mugs/nhl/20242025/DAL/8483425.png,Lian,Bichsel,6.0,D,L,79,231,201,105,2004-05-18,{'default': 'Olten'},CHE,,DAL,Lian Bichsel
+8476879,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476879.png,Cody,Ceci,44.0,D,R,75,210,191,95,1993-12-21,{'default': 'Ottawa'},CAN,{'default': 'ON'},DAL,Cody Ceci
+8476856,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476856.png,Mathew,Dumba,3.0,D,R,73,185,185,84,1994-07-25,{'default': 'Regina'},CAN,{'default': 'SK'},DAL,Mathew Dumba
+8481581,https://assets.nhle.com/mugs/nhl/20242025/DAL/8481581.png,Thomas,Harley,55.0,D,L,75,211,191,96,2001-08-19,{'default': 'Syracuse'},USA,{'default': 'NY'},DAL,Thomas Harley
+8480036,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480036.png,Miro,Heiskanen,4.0,D,L,74,197,188,89,1999-07-18,"{'default': 'Espoo', 'sv': 'Esbo'}",FIN,,DAL,Miro Heiskanen
+8476902,https://assets.nhle.com/mugs/nhl/20242025/DAL/8476902.png,Esa,Lindell,23.0,D,L,75,217,191,98,1994-05-23,"{'default': 'Vantaa', 'sv': 'Vanda'}",FIN,,DAL,Esa Lindell
+8480878,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480878.png,Nils,Lundkvist,5.0,D,R,73,191,185,87,2000-07-27,"{'default': 'Pitea', 'fi': 'Piteå', 'sv': 'Piteå'}",SWE,,DAL,Nils Lundkvist
+8480950,https://assets.nhle.com/mugs/nhl/20242025/DAL/8480950.png,Ilya,Lyubushkin,46.0,D,R,74,200,188,91,1994-04-06,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,DAL,Ilya Lyubushkin
+8474090,https://assets.nhle.com/mugs/nhl/20242025/DAL/8474090.png,Brendan,Smith,2.0,D,L,74,200,188,91,1989-02-08,{'default': 'Mimico'},CAN,{'default': 'ON'},DAL,Brendan Smith
+8479193,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479193.png,Casey,DeSmith,1.0,G,L,72,180,183,82,1991-08-13,{'default': 'Rochester'},USA,{'default': 'NH'},DAL,Casey DeSmith
+8479979,https://assets.nhle.com/mugs/nhl/20242025/DAL/8479979.png,Jake,Oettinger,29.0,G,L,78,224,198,102,1998-12-18,{'default': 'Lakeville'},USA,{'default': 'MN'},DAL,Jake Oettinger
+8482124,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482124.png,Quinton,Byfield,55.0,R,L,77,225,196,102,2002-08-19,{'default': 'Newmarket'},CAN,{'default': 'ON'},LAK,Quinton Byfield
+8476479,https://assets.nhle.com/mugs/nhl/20242025/LAK/8476479.png,Phillip,Danault,24.0,C,L,73,200,185,91,1993-02-24,{'default': 'Victoriaville'},CAN,{'default': 'QC'},LAK,Phillip Danault
+8477942,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477942.png,Kevin,Fiala,22.0,L,L,72,205,183,93,1996-07-22,{'default': 'St. Gallen'},CHE,,LAK,Kevin Fiala
+8477998,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477998.png,Warren,Foegele,37.0,L,L,74,204,188,93,1996-04-01,{'default': 'Markham'},CAN,{'default': 'ON'},LAK,Warren Foegele
+8482726,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482726.png,Samuel,Helenius,79.0,C,L,78,201,198,91,2002-11-26,{'default': 'Dallas'},USA,{'default': 'TX'},LAK,Samuel Helenius
+8479661,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479661.png,Tanner,Jeannot,10.0,L,L,74,220,188,100,1997-05-29,{'default': 'Estevan'},CAN,{'default': 'SK'},LAK,Tanner Jeannot
+8477960,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477960.png,Adrian,Kempe,9.0,R,L,74,200,188,91,1996-09-13,{'default': 'Kramfors'},SWE,,LAK,Adrian Kempe
+8471685,https://assets.nhle.com/mugs/nhl/20242025/LAK/8471685.png,Anze,Kopitar,11.0,C,L,75,225,191,102,1987-08-24,{'default': 'Jesenice'},SVN,,LAK,Anze Kopitar
+8483808,https://assets.nhle.com/mugs/nhl/20242025/LAK/8483808.png,Andrei,Kuzmenko,96.0,L,R,71,194,180,88,1996-02-04,"{'default': 'Yakutsk', 'cs': 'Jakutsk', 'fi': 'Jakutsk', 'sk': 'Jakutsk'}",RUS,,LAK,Andrei Kuzmenko
+8482155,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482155.png,Alex,Laferriere,14.0,R,R,73,205,185,93,2001-10-28,{'default': 'Chatham'},USA,{'default': 'NJ'},LAK,Alex Laferriere
+8473453,https://assets.nhle.com/mugs/nhl/20242025/LAK/8473453.png,Trevor,Lewis,61.0,C,R,73,205,185,93,1987-01-08,{'default': 'Salt Lake City'},USA,{'default': 'UT'},LAK,Trevor Lewis
+8482408,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482408.png,Jeff,Malott,39.0,L,L,77,208,196,94,1996-08-07,{'default': 'Burlington'},CAN,{'default': 'ON'},LAK,Jeff Malott
+8479675,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479675.png,Trevor,Moore,12.0,L,L,71,195,180,88,1995-03-31,{'default': 'Thousand Oaks'},USA,{'default': 'CA'},LAK,Trevor Moore
+8482748,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482748.png,Francesco,Pinelli,73.0,C,L,72,185,183,84,2003-04-11,{'default': 'Hamilton'},CAN,{'default': 'ON'},LAK,Francesco Pinelli
+8480021,https://assets.nhle.com/mugs/nhl/20242025/LAK/8480021.png,Jack,Studnicka,53.0,C,R,73,187,185,85,1999-02-18,{'default': 'Windsor'},CAN,{'default': 'ON'},LAK,Jack Studnicka
+8480851,https://assets.nhle.com/mugs/nhl/20242025/LAK/8480851.png,Akil,Thomas,26.0,C,R,72,195,183,88,2000-01-02,{'default': 'Toronto'},CAN,{'default': 'ON'},LAK,Akil Thomas
+8481532,https://assets.nhle.com/mugs/nhl/20242025/LAK/8481532.png,Alex,Turcotte,15.0,C,L,71,185,180,84,2001-02-26,{'default': 'Elk Grove'},USA,{'default': 'IL'},LAK,Alex Turcotte
+8483406,https://assets.nhle.com/mugs/nhl/20242025/LAK/8483406.png,Taylor,Ward,52.0,R,R,74,207,188,94,1998-03-31,{'default': 'Kelowna'},CAN,{'default': 'BC'},LAK,Taylor Ward
+8479998,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479998.png,Mikey,Anderson,44.0,D,L,72,195,183,88,1999-05-25,{'default': 'Roseville'},USA,{'default': 'MN'},LAK,Mikey Anderson
+8477335,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477335.png,Kyle,Burroughs,7.0,D,R,72,193,183,88,1995-07-12,{'default': 'Vancouver'},CAN,{'default': 'BC'},LAK,Kyle Burroughs
+8482730,https://assets.nhle.com/mugs/nhl/20242025/LAK/8482730.png,Brandt,Clarke,92.0,D,R,74,200,188,91,2003-02-09,{'default': 'Nepean'},CAN,{'default': 'ON'},LAK,Brandt Clarke
+8474563,https://assets.nhle.com/mugs/nhl/20242025/LAK/8474563.png,Drew,Doughty,8.0,D,R,73,210,185,95,1989-12-08,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},LAK,Drew Doughty
+8476441,https://assets.nhle.com/mugs/nhl/20242025/LAK/8476441.png,Joel,Edmundson,6.0,D,L,77,221,196,100,1993-06-28,{'default': 'Brandon'},CAN,{'default': 'MB'},LAK,Joel Edmundson
+8478882,https://assets.nhle.com/mugs/nhl/20242025/LAK/8478882.png,Vladislav,Gavrikov,84.0,D,L,75,220,191,100,1995-11-21,"{'default': 'Yaroslavl', 'cs': 'Jaroslavl', 'fi': 'Jaroslavl', 'sk': 'Jaroslavl'}",RUS,,LAK,Vladislav Gavrikov
+8478452,https://assets.nhle.com/mugs/nhl/20242025/LAK/8478452.png,Caleb,Jones,82.0,D,L,73,194,185,88,1997-06-06,{'default': 'Arlington'},USA,{'default': 'TX'},LAK,Caleb Jones
+8479421,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479421.png,Jacob,Moverare,43.0,D,L,75,210,191,95,1998-08-31,"{'default': 'Ostersund', 'fi': 'Östersund', 'sv': 'Östersund'}",SWE,,LAK,Jacob Moverare
+8481606,https://assets.nhle.com/mugs/nhl/20242025/LAK/8481606.png,Jordan,Spence,21.0,D,R,71,180,180,82,2001-02-24,{'default': 'Manly'},AUS,,LAK,Jordan Spence
+8477831,https://assets.nhle.com/mugs/nhl/20242025/LAK/8477831.png,Pheonix,Copley,29.0,G,L,76,205,193,93,1992-01-18,{'default': 'North Pole'},USA,{'default': 'AK'},LAK,Pheonix Copley
+8484857,https://assets.nhle.com/mugs/nhl/20242025/LAK/8484857.png,Carter,George,40.0,G,L,73,196,185,89,2006-05-20,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},LAK,Carter George
+8475311,https://assets.nhle.com/mugs/nhl/20242025/LAK/8475311.png,Darcy,Kuemper,35.0,G,L,77,215,196,98,1990-05-05,{'default': 'Saskatoon'},CAN,{'default': 'SK'},LAK,Darcy Kuemper
+8479496,https://assets.nhle.com/mugs/nhl/20242025/LAK/8479496.png,David,Rittich,31.0,G,L,76,205,193,93,1992-08-19,{'default': 'Jihlava'},CZE,,LAK,David Rittich
+8474715,https://assets.nhle.com/mugs/nhl/20242025/TBL/8474715.png,Cam,Atkinson,13.0,R,R,68,178,173,81,1989-06-05,{'default': 'Riverside'},USA,{'default': 'CT'},TBL,Cam Atkinson
+8477416,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477416.png,Oliver,Bjorkstrand,22.0,R,R,72,175,183,79,1995-04-10,{'default': 'Herning'},DNK,,TBL,Oliver Bjorkstrand
+8482070,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482070.png,Mitchell,Chaffee,41.0,R,R,73,204,185,93,1998-01-26,{'default': 'Grand Rapids'},USA,{'default': 'MI'},TBL,Mitchell Chaffee
+8478519,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478519.png,Anthony,Cirelli,71.0,C,L,73,191,185,87,1997-07-15,{'default': 'Etobicoke'},CAN,{'default': 'ON'},TBL,Anthony Cirelli
+8476878,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476878.png,Zemgus,Girgensons,28.0,C,L,75,192,191,87,1994-01-05,"{'default': 'Riga', 'fi': 'Riika'}",LVA,,TBL,Zemgus Girgensons
+8476822,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476822.png,Luke,Glendening,11.0,C,R,71,190,180,86,1989-04-28,{'default': 'Grand Rapids'},USA,{'default': 'MI'},TBL,Luke Glendening
+8482201,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482201.png,Gage,Goncalves,93.0,C,L,73,184,185,83,2001-01-16,{'default': 'Mission'},CAN,{'default': 'BC'},TBL,Gage Goncalves
+8476826,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476826.png,Yanni,Gourde,37.0,C,L,69,174,175,79,1991-12-15,{'default': 'Saint-Narcisse'},CAN,{'default': 'QC'},TBL,Yanni Gourde
+8477404,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477404.png,Jake,Guentzel,59.0,C,L,71,178,180,81,1994-10-06,{'default': 'Omaha'},USA,{'default': 'NE'},TBL,Jake Guentzel
+8479542,https://assets.nhle.com/mugs/nhl/20242025/TBL/8479542.png,Brandon,Hagel,38.0,L,L,74,180,188,82,1998-08-27,{'default': 'Saskatoon'},CAN,{'default': 'SK'},TBL,Brandon Hagel
+8476453,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476453.png,Nikita,Kucherov,86.0,R,L,72,180,183,82,1993-06-17,"{'default': 'Maykop', 'cs': 'Majkop', 'fi': 'Majkop', 'sk': 'Majkop'}",RUS,,TBL,Nikita Kucherov
+8477426,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477426.png,Nick,Paul,20.0,L,L,76,230,193,104,1995-03-20,{'default': 'Mississauga'},CAN,{'default': 'ON'},TBL,Nick Paul
+8478010,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478010.png,Brayden,Point,21.0,C,R,71,175,180,79,1996-03-13,{'default': 'Calgary'},CAN,{'default': 'AB'},TBL,Brayden Point
+8478416,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478416.png,Erik,Cernak,81.0,D,R,76,230,193,104,1997-05-28,"{'default': 'Kosice', 'cs': 'Košice', 'fi': 'Košice', 'sk': 'Košice'}",SVK,,TBL,Erik Cernak
+8475167,https://assets.nhle.com/mugs/nhl/20242025/TBL/8475167.png,Victor,Hedman,77.0,D,L,79,245,201,111,1990-12-18,"{'default': 'Ornskoldsvik', 'cs': 'Örnsköldsvik', 'fi': 'Örnsköldsvik', 'sk': 'Örnsköldsvik', 'sv': 'Örnsköldsvik'}",SWE,,TBL,Victor Hedman
+8482929,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482929.png,Emil,Lilleberg,78.0,D,L,75,208,191,94,2001-02-02,{'default': 'Sarpsborg'},NOR,,TBL,Emil Lilleberg
+8474151,https://assets.nhle.com/mugs/nhl/20242025/TBL/8474151.png,Ryan,McDonagh,27.0,D,L,74,219,188,99,1989-06-13,{'default': 'St. Paul'},USA,{'default': 'MN'},TBL,Ryan McDonagh
+8482655,https://assets.nhle.com/mugs/nhl/20242025/TBL/8482655.png,J.J.,Moser,90.0,D,L,74,181,188,82,2000-06-06,{'default': 'Biel'},CHE,,TBL,J.J. Moser
+8480246,https://assets.nhle.com/mugs/nhl/20242025/TBL/8480246.png,Nick,Perbix,48.0,D,R,76,206,193,93,1998-06-15,{'default': 'Elk River'},USA,{'default': 'MN'},TBL,Nick Perbix
+8478178,https://assets.nhle.com/mugs/nhl/20242025/TBL/8478178.png,Darren,Raddysh,43.0,D,R,73,202,185,92,1996-02-28,{'default': 'Toronto'},CAN,{'default': 'ON'},TBL,Darren Raddysh
+8477992,https://assets.nhle.com/mugs/nhl/20242025/TBL/8477992.png,Jonas,Johansson,31.0,G,L,77,218,196,99,1995-09-19,{'default': 'Gavle'},SWE,,TBL,Jonas Johansson
+8476883,https://assets.nhle.com/mugs/nhl/20242025/TBL/8476883.png,Andrei,Vasilevskiy,88.0,G,L,76,228,193,103,1994-07-25,"{'default': 'Tyumen', 'cs': 'Ťumeň', 'fi': 'Tjumen', 'sk': 'Ťumeň', 'sv': 'Tumen'}",RUS,,TBL,Andrei Vasilevskiy
+8479525,https://assets.nhle.com/mugs/nhl/20242025/COL/8479525.png,Ross,Colton,20.0,C,L,72,194,183,88,1996-09-11,{'default': 'Robbinsville'},USA,{'default': 'NJ'},COL,Ross Colton
+8475745,https://assets.nhle.com/mugs/nhl/20242025/COL/8475745.png,Charlie,Coyle,10.0,C,R,75,215,191,98,1992-03-02,{'default': 'East Weymouth'},USA,{'default': 'MA'},COL,Charlie Coyle
+8477494,https://assets.nhle.com/mugs/nhl/20242025/COL/8477494.png,Jonathan,Drouin,27.0,L,L,71,198,180,90,1995-03-28,{'default': 'Ste-Agathe'},CAN,{'default': 'QC'},COL,Jonathan Drouin
+8480835,https://assets.nhle.com/mugs/nhl/20242025/COL/8480835.png,Jack,Drury,18.0,C,L,71,186,180,84,2000-02-03,{'default': 'New York'},USA,{'default': 'NY'},COL,Jack Drury
+8480448,https://assets.nhle.com/mugs/nhl/20242025/COL/8480448.png,Parker,Kelly,17.0,C,L,73,185,185,84,1999-05-14,{'default': 'Camrose'},CAN,{'default': 'AB'},COL,Parker Kelly
+8481641,https://assets.nhle.com/mugs/nhl/20242025/COL/8481641.png,Joel,Kiviranta,94.0,L,L,71,185,180,84,1996-03-23,"{'default': 'Vantaa', 'sv': 'Vanda'}",FIN,,COL,Joel Kiviranta
+8476455,https://assets.nhle.com/mugs/nhl/20242025/COL/8476455.png,Gabriel,Landeskog,92.0,L,L,73,215,185,98,1992-11-23,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,COL,Gabriel Landeskog
+8477476,https://assets.nhle.com/mugs/nhl/20242025/COL/8477476.png,Artturi,Lehkonen,62.0,L,L,71,179,180,81,1995-07-04,"{'default': 'Piikkio', 'cs': 'Piikkiö', 'fi': 'Piikkiö', 'sk': 'Piikkiö', 'sv': 'Piikkiö'}",FIN,,COL,Artturi Lehkonen
+8477492,https://assets.nhle.com/mugs/nhl/20242025/COL/8477492.png,Nathan,MacKinnon,29.0,C,R,72,200,183,91,1995-09-01,{'default': 'Halifax'},CAN,{'default': 'NS'},COL,Nathan MacKinnon
+8480039,https://assets.nhle.com/mugs/nhl/20242025/COL/8480039.png,Martin,Necas,88.0,C,R,75,195,191,88,1999-01-15,{'default': 'Nove Mesto na Morave'},CZE,,COL,Martin Necas
+8475754,https://assets.nhle.com/mugs/nhl/20242025/COL/8475754.png,Brock,Nelson,11.0,C,L,76,205,193,93,1991-10-15,{'default': 'Warroad'},USA,{'default': 'MN'},COL,Brock Nelson
+8477501,https://assets.nhle.com/mugs/nhl/20242025/COL/8477501.png,Valeri,Nichushkin,13.0,R,L,76,210,193,95,1995-03-04,"{'default': 'Chelyabinsk', 'cs': 'Čeljabinsk', 'fi': 'Tsheljabinsk', 'sk': 'Čeljabinsk'}",RUS,,COL,Valeri Nichushkin
+8481186,https://assets.nhle.com/mugs/nhl/20242025/COL/8481186.png,Logan,O'Connor,25.0,R,R,72,175,183,79,1996-08-14,{'default': 'Missouri City'},USA,{'default': 'TX'},COL,Logan O'Connor
+8476918,https://assets.nhle.com/mugs/nhl/20242025/COL/8476918.png,Jimmy,Vesey,26.0,L,L,74,203,188,92,1993-05-26,{'default': 'Boston'},USA,{'default': 'MA'},COL,Jimmy Vesey
+8477425,https://assets.nhle.com/mugs/nhl/20242025/COL/8477425.png,Miles,Wood,28.0,L,L,74,195,188,88,1995-09-13,{'default': 'Buffalo'},USA,{'default': 'NY'},COL,Miles Wood
+8479398,https://assets.nhle.com/mugs/nhl/20242025/COL/8479398.png,Samuel,Girard,49.0,D,L,70,170,178,77,1998-05-12,{'default': 'Roberval'},CAN,{'default': 'QC'},COL,Samuel Girard
+8473446,https://assets.nhle.com/mugs/nhl/20242025/COL/8473446.png,Erik,Johnson,6.0,D,R,76,225,193,102,1988-03-21,{'default': 'Bloomington'},USA,{'default': 'MN'},COL,Erik Johnson
+8479324,https://assets.nhle.com/mugs/nhl/20242025/COL/8479324.png,Ryan,Lindgren,55.0,D,L,72,194,183,88,1998-02-11,{'default': 'Burnsville'},USA,{'default': 'MN'},COL,Ryan Lindgren
+8480069,https://assets.nhle.com/mugs/nhl/20242025/COL/8480069.png,Cale,Makar,8.0,D,R,72,187,183,85,1998-10-30,{'default': 'Calgary'},CAN,{'default': 'AB'},COL,Cale Makar
+8484258,https://assets.nhle.com/mugs/nhl/20242025/COL/8484258.png,Sam,Malinski,70.0,D,R,71,190,180,86,1998-07-27,{'default': 'Lakeville'},USA,{'default': 'MN'},COL,Sam Malinski
+8476312,https://assets.nhle.com/mugs/nhl/20242025/COL/8476312.png,Josh,Manson,42.0,D,R,75,218,191,99,1991-10-07,{'default': 'Hinsdale'},USA,{'default': 'IL'},COL,Josh Manson
+8479387,https://assets.nhle.com/mugs/nhl/20242025/COL/8479387.png,Keaton,Middleton,67.0,D,L,78,240,198,109,1998-02-10,{'default': 'Edmonton'},CAN,{'default': 'AB'},COL,Keaton Middleton
+8478038,https://assets.nhle.com/mugs/nhl/20242025/COL/8478038.png,Devon,Toews,7.0,D,L,73,191,185,87,1994-02-21,{'default': 'Abbotsford'},CAN,{'default': 'BC'},COL,Devon Toews
+8478406,https://assets.nhle.com/mugs/nhl/20242025/COL/8478406.png,Mackenzie,Blackwood,39.0,G,L,76,225,193,102,1996-12-09,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},COL,Mackenzie Blackwood
+8475809,https://assets.nhle.com/mugs/nhl/20242025/COL/8475809.png,Scott,Wedgewood,41.0,G,L,74,201,188,91,1992-08-14,{'default': 'Brampton'},CAN,{'default': 'ON'},COL,Scott Wedgewood
+8478042,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478042.png,Viktor,Arvidsson,33.0,L,R,70,185,178,84,1993-04-08,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,EDM,Viktor Arvidsson
+8477015,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477015.png,Connor,Brown,28.0,R,R,72,184,183,83,1994-01-14,{'default': 'Toronto'},CAN,{'default': 'ON'},EDM,Connor Brown
+8477934,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477934.png,Leon,Draisaitl,29.0,C,L,74,209,188,95,1995-10-27,"{'default': 'Cologne', 'cs': 'Kolín nad Rýnem', 'de': 'Köln', 'fi': 'Köln', 'sk': 'Kolín n. R.', 'sv': 'Köln'}",DEU,,EDM,Leon Draisaitl
+8479365,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479365.png,Trent,Frederic,21.0,C,L,75,221,191,100,1998-02-11,{'default': 'St. Louis'},USA,{'default': 'MO'},EDM,Trent Frederic
+8480468,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480468.png,James,Hamblin,52.0,L,L,70,185,178,84,1999-04-27,{'default': 'Edmonton'},CAN,{'default': 'AB'},EDM,James Hamblin
+8474641,https://assets.nhle.com/mugs/nhl/20242025/EDM/8474641.png,Adam,Henrique,19.0,C,L,72,195,183,88,1990-02-06,{'default': 'Brantford'},CAN,{'default': 'ON'},EDM,Adam Henrique
+8475786,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475786.png,Zach,Hyman,18.0,L,R,73,206,185,93,1992-06-09,{'default': 'Toronto'},CAN,{'default': 'ON'},EDM,Zach Hyman
+8477406,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477406.png,Mattias,Janmark,13.0,C,L,74,205,188,93,1992-12-08,{'default': 'Danderyd'},SWE,,EDM,Mattias Janmark
+8479368,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479368.png,Max,Jones,46.0,L,L,75,216,191,98,1998-02-17,{'default': 'Rochester'},USA,{'default': 'MI'},EDM,Max Jones
+8475169,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475169.png,Evander,Kane,91.0,L,L,74,218,188,99,1991-08-02,{'default': 'Vancouver'},CAN,{'default': 'BC'},EDM,Evander Kane
+8477953,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477953.png,Kasperi,Kapanen,42.0,R,R,73,194,185,88,1996-07-23,{'default': 'Kuopio'},FIN,,EDM,Kasperi Kapanen
+8478402,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478402.png,Connor,McDavid,97.0,C,L,73,194,185,88,1997-01-13,{'default': 'Richmond Hill'},CAN,{'default': 'ON'},EDM,Connor McDavid
+8476454,https://assets.nhle.com/mugs/nhl/20242025/EDM/8476454.png,Ryan,Nugent-Hopkins,93.0,C,L,73,192,185,87,1993-04-12,{'default': 'Burnaby'},CAN,{'default': 'BC'},EDM,Ryan Nugent-Hopkins
+8470621,https://assets.nhle.com/mugs/nhl/20242025/EDM/8470621.png,Corey,Perry,90.0,R,R,75,208,191,94,1985-05-16,{'default': 'Peterborough'},CAN,{'default': 'ON'},EDM,Corey Perry
+8481491,https://assets.nhle.com/mugs/nhl/20242025/EDM/8481491.png,Noah,Philp,48.0,C,R,75,198,191,90,1998-08-31,{'default': 'Canmore'},CAN,{'default': 'AB'},EDM,Noah Philp
+8481617,https://assets.nhle.com/mugs/nhl/20242025/EDM/8481617.png,Vasily,Podkolzin,92.0,R,L,73,190,185,86,2001-06-24,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,EDM,Vasily Podkolzin
+8478585,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478585.png,Derek,Ryan,10.0,C,R,70,185,178,84,1986-12-29,{'default': 'Spokane'},USA,{'default': 'WA'},EDM,Derek Ryan
+8483512,https://assets.nhle.com/mugs/nhl/20242025/EDM/8483512.png,Matt,Savoie,22.0,C,R,69,179,175,81,2004-01-01,"{'default': 'St. Albert', 'fr': 'St-Albert'}",CAN,{'default': 'AB'},EDM,Matt Savoie
+8475784,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475784.png,Jeff,Skinner,53.0,C,L,71,200,180,91,1992-05-16,{'default': 'Toronto'},CAN,{'default': 'ON'},EDM,Jeff Skinner
+8480803,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480803.png,Evan,Bouchard,2.0,D,R,75,192,191,87,1999-10-20,{'default': 'Oakville'},CAN,{'default': 'ON'},EDM,Evan Bouchard
+8477384,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477384.png,Joshua,Brown,44.0,D,R,77,220,196,100,1994-01-21,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},EDM,Joshua Brown
+8479341,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479341.png,Cam,Dineen,85.0,D,L,71,188,180,85,1998-06-19,{'default': 'Toms River'},USA,{'default': 'NJ'},EDM,Cam Dineen
+8475218,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475218.png,Mattias,Ekholm,14.0,D,L,77,225,196,102,1990-05-24,"{'default': 'Borlange', 'cs': 'Borlänge', 'fi': 'Borlänge', 'sk': 'Borlänge', 'sv': 'Borlänge'}",SWE,,EDM,Mattias Ekholm
+8480834,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480834.png,Ty,Emberson,49.0,D,R,74,193,188,88,2000-05-23,{'default': 'Eau Claire'},USA,{'default': 'WI'},EDM,Ty Emberson
+8475906,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475906.png,John,Klingberg,36.0,D,R,74,185,188,84,1992-08-14,"{'default': 'Gothenburg', 'cs': 'Göteborg', 'de': 'Göteborg', 'fi': 'Göteborg', 'fr': 'Göteborg', 'sk': 'Göteborg', 'sv': 'Göteborg'}",SWE,,EDM,John Klingberg
+8476967,https://assets.nhle.com/mugs/nhl/20242025/EDM/8476967.png,Brett,Kulak,27.0,D,L,74,192,188,87,1994-01-06,{'default': 'Edmonton'},CAN,{'default': 'AB'},EDM,Brett Kulak
+8477498,https://assets.nhle.com/mugs/nhl/20242025/EDM/8477498.png,Darnell,Nurse,25.0,D,L,76,215,193,98,1995-02-04,{'default': 'Hamilton'},CAN,{'default': 'ON'},EDM,Darnell Nurse
+8479442,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479442.png,Troy,Stecher,51.0,D,R,70,184,178,83,1994-04-07,{'default': 'Richmond'},CAN,{'default': 'BC'},EDM,Troy Stecher
+8478013,https://assets.nhle.com/mugs/nhl/20242025/EDM/8478013.png,Jake,Walman,96.0,D,L,73,218,185,99,1996-02-20,{'default': 'Toronto'},CAN,{'default': 'ON'},EDM,Jake Walman
+8475717,https://assets.nhle.com/mugs/nhl/20242025/EDM/8475717.png,Calvin,Pickard,30.0,G,L,73,206,185,93,1992-04-15,{'default': 'Moncton'},CAN,{'default': 'NB'},EDM,Calvin Pickard
+8480885,https://assets.nhle.com/mugs/nhl/20242025/EDM/8480885.png,Olivier,Rodrigue,35.0,G,L,73,158,185,72,2000-07-06,{'default': 'Chicoutimi'},CAN,{'default': 'QC'},EDM,Olivier Rodrigue
+8479973,https://assets.nhle.com/mugs/nhl/20242025/EDM/8479973.png,Stuart,Skinner,74.0,G,L,76,230,193,104,1998-11-01,{'default': 'Edmonton'},CAN,{'default': 'AB'},EDM,Stuart Skinner
+8478427,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478427.png,Sebastian,Aho,20.0,C,L,72,180,183,82,1997-07-26,"{'default': 'Rauma', 'sv': 'Raumo'}",FIN,,CAR,Sebastian Aho
+8482809,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482809.png,Jackson,Blake,53.0,R,R,71,178,180,81,2003-08-03,{'default': 'Fargo'},USA,{'default': 'ND'},CAR,Jackson Blake
+8477478,https://assets.nhle.com/mugs/nhl/20242025/CAR/8477478.png,William,Carrier,28.0,L,L,74,220,188,100,1994-12-20,{'default': 'LaSalle'},CAN,{'default': 'QC'},CAR,William Carrier
+8475791,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475791.png,Taylor,Hall,71.0,L,L,73,210,185,95,1991-11-14,{'default': 'Calgary'},CAN,{'default': 'AB'},CAR,Taylor Hall
+8484929,https://assets.nhle.com/mugs/nhl/20242025/CAR/8484929.png,Juha,Jaaska,54.0,L,L,72,210,183,95,1998-02-09,"{'default': 'Helsinki', 'cs': 'Helsinky', 'sk': 'Helsinky', 'sv': 'Helsingfors'}",FIN,,CAR,Juha Jaaska
+8476873,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476873.png,Mark,Jankowski,77.0,C,L,76,212,193,96,1994-09-13,{'default': 'Hamilton'},CAN,{'default': 'ON'},CAR,Mark Jankowski
+8482093,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482093.png,Seth,Jarvis,24.0,C,R,70,184,178,83,2002-02-01,{'default': 'Winnipeg'},CAN,{'default': 'MB'},CAR,Seth Jarvis
+8479370,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479370.png,Tyson,Jost,27.0,C,L,71,187,180,85,1998-03-14,"{'default': 'St. Albert', 'fr': 'St-Albert'}",CAN,{'default': 'AB'},CAR,Tyson Jost
+8480829,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480829.png,Jesperi,Kotkaniemi,82.0,C,L,75,203,191,92,2000-07-06,"{'default': 'Pori', 'sv': 'Björneborg'}",FIN,,CAR,Jesperi Kotkaniemi
+8476921,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476921.png,Jordan,Martinook,48.0,L,L,73,208,185,94,1992-07-25,{'default': 'Brandon'},CAN,{'default': 'MB'},CAR,Jordan Martinook
+8480762,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480762.png,Eric,Robinson,50.0,L,L,74,211,188,96,1995-06-14,{'default': 'Bellmawr'},USA,{'default': 'NJ'},CAR,Eric Robinson
+8478458,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478458.png,Jack,Roslovic,96.0,C,R,73,198,185,90,1997-01-29,{'default': 'Columbus'},USA,{'default': 'OH'},CAR,Jack Roslovic
+8473533,https://assets.nhle.com/mugs/nhl/20242025/CAR/8473533.png,Jordan,Staal,11.0,C,L,76,220,193,100,1988-09-10,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},CAR,Jordan Staal
+8482702,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482702.png,Logan,Stankoven,22.0,C,R,68,165,173,75,2003-02-26,{'default': 'Kamloops'},CAN,{'default': 'BC'},CAR,Logan Stankoven
+8480830,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480830.png,Andrei,Svechnikov,37.0,R,L,75,199,191,90,2000-03-26,{'default': 'Barnaul'},RUS,,CAR,Andrei Svechnikov
+8470613,https://assets.nhle.com/mugs/nhl/20242025/CAR/8470613.png,Brent,Burns,8.0,D,R,77,228,196,103,1985-03-09,{'default': 'Barrie'},CAN,{'default': 'ON'},CAR,Brent Burns
+8478970,https://assets.nhle.com/mugs/nhl/20242025/CAR/8478970.png,Jalen,Chatfield,5.0,D,R,73,199,185,90,1996-05-15,{'default': 'Ypsilanti'},USA,{'default': 'MI'},CAR,Jalen Chatfield
+8476906,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476906.png,Shayne,Gostisbehere,4.0,D,L,71,183,180,83,1993-04-20,{'default': 'Pembroke Pines'},USA,{'default': 'FL'},CAR,Shayne Gostisbehere
+8482666,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482666.png,Scott,Morrow,56.0,D,R,74,210,188,95,2002-11-01,{'default': 'Darien'},USA,{'default': 'CT'},CAR,Scott Morrow
+8482100,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482100.png,Alexander,Nikishin,21.0,D,L,76,216,193,98,2001-10-02,{'default': 'Orel'},RUS,,CAR,Alexander Nikishin
+8475200,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475200.png,Dmitry,Orlov,7.0,D,L,71,214,180,97,1991-07-23,"{'default': 'Novokuznetsk', 'cs': 'Novokuzněck', 'sk': 'Novokuzněck'}",RUS,,CAR,Dmitry Orlov
+8476958,https://assets.nhle.com/mugs/nhl/20242025/CAR/8476958.png,Jaccob,Slavin,74.0,D,L,75,207,191,94,1994-05-01,{'default': 'Denver'},USA,{'default': 'CO'},CAR,Jaccob Slavin
+8480883,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480883.png,Ty,Smith,42.0,D,L,71,180,180,82,2000-03-24,{'default': 'Lloydminster'},CAN,{'default': 'AB'},CAR,Ty Smith
+8479388,https://assets.nhle.com/mugs/nhl/20242025/CAR/8479388.png,Riley,Stillman,61.0,D,L,74,207,188,94,1998-03-09,{'default': 'Peterborough'},CAN,{'default': 'ON'},CAR,Riley Stillman
+8480336,https://assets.nhle.com/mugs/nhl/20242025/CAR/8480336.png,Sean,Walker,26.0,D,R,71,191,180,87,1994-11-13,{'default': 'Keswick'},CAN,{'default': 'ON'},CAR,Sean Walker
+8475883,https://assets.nhle.com/mugs/nhl/20242025/CAR/8475883.png,Frederik,Andersen,31.0,G,L,76,229,193,104,1989-10-02,{'default': 'Herning'},DNK,,CAR,Frederik Andersen
+8481611,https://assets.nhle.com/mugs/nhl/20242025/CAR/8481611.png,Pyotr,Kochetkov,52.0,G,L,75,193,191,88,1999-06-25,{'default': 'Penza'},RUS,,CAR,Pyotr Kochetkov
+8482895,https://assets.nhle.com/mugs/nhl/20242025/CAR/8482895.png,Nikita,Quapp,,G,L,75,187,191,85,2003-01-25,{'default': 'Ravensburg'},DEU,,CAR,Nikita Quapp
+8477493,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477493.png,Aleksander,Barkov,16.0,C,L,75,214,191,97,1995-09-02,"{'default': 'Tampere', 'sv': 'Tammerfors'}",FIN,,FLA,Aleksander Barkov
+8477935,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477935.png,Sam,Bennett,9.0,C,L,73,193,185,88,1996-06-20,{'default': 'Holland Landing'},CAN,{'default': 'ON'},FLA,Sam Bennett
+8480003,https://assets.nhle.com/mugs/nhl/20242025/FLA/8480003.png,Jesper,Boqvist,70.0,C,L,73,190,185,86,1998-10-30,{'default': 'Falun'},SWE,,FLA,Jesper Boqvist
+8479981,https://assets.nhle.com/mugs/nhl/20242025/FLA/8479981.png,Jonah,Gadjovich,12.0,L,L,75,211,191,96,1998-10-12,{'default': 'Whitby'},CAN,{'default': 'ON'},FLA,Jonah Gadjovich
+8478421,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478421.png,A.J.,Greer,10.0,L,L,75,209,191,95,1996-12-14,{'default': 'Joliette'},CAN,{'default': 'QC'},FLA,A.J. Greer
+8482113,https://assets.nhle.com/mugs/nhl/20242025/FLA/8482113.png,Anton,Lundell,15.0,C,L,73,196,185,89,2001-10-03,"{'default': 'Espoo', 'sv': 'Esbo'}",FIN,,FLA,Anton Lundell
+8480185,https://assets.nhle.com/mugs/nhl/20242025/FLA/8480185.png,Eetu,Luostarinen,27.0,C,L,75,191,191,87,1998-09-02,"{'default': 'Siilinjarvi', 'cs': 'Siilinjärvi', 'fi': 'Siilinjärvi', 'sk': 'Siilinjärvi', 'sv': 'Siilinjärvi'}",FIN,,FLA,Eetu Luostarinen
+8473419,https://assets.nhle.com/mugs/nhl/20242025/FLA/8473419.png,Brad,Marchand,63.0,C,L,69,180,175,82,1988-05-11,{'default': 'Halifax'},CAN,{'default': 'NS'},FLA,Brad Marchand
+8477931,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477931.png,Tomas,Nosek,92.0,L,L,75,199,191,90,1992-09-01,{'default': 'Pardubice'},CZE,,FLA,Tomas Nosek
+8477933,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477933.png,Sam,Reinhart,13.0,C,R,73,196,185,89,1995-11-06,{'default': 'West Vancouver'},CAN,{'default': 'BC'},FLA,Sam Reinhart
+8478542,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478542.png,Evan,Rodrigues,17.0,C,R,71,182,180,83,1993-07-28,{'default': 'Toronto'},CAN,{'default': 'ON'},FLA,Evan Rodrigues
+8482713,https://assets.nhle.com/mugs/nhl/20242025/FLA/8482713.png,Mackie,Samoskevich,25.0,R,R,71,180,180,82,2002-11-15,{'default': 'Newtown'},USA,{'default': 'CT'},FLA,Mackie Samoskevich
+8481477,https://assets.nhle.com/mugs/nhl/20242025/FLA/8481477.png,Nico,Sturm,8.0,C,L,75,209,191,95,1995-05-03,{'default': 'Augsburg'},DEU,,FLA,Nico Sturm
+8479314,https://assets.nhle.com/mugs/nhl/20242025/FLA/8479314.png,Matthew,Tkachuk,19.0,L,L,74,202,188,92,1997-12-11,{'default': 'Scottsdale'},USA,{'default': 'AZ'},FLA,Matthew Tkachuk
+8477409,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477409.png,Carter,Verhaeghe,23.0,C,L,74,183,188,83,1995-08-14,{'default': 'Toronto'},CAN,{'default': 'ON'},FLA,Carter Verhaeghe
+8484304,https://assets.nhle.com/mugs/nhl/20242025/FLA/8484304.png,Uvis,Balinskis,26.0,D,L,72,196,183,89,1996-08-01,{'default': 'Ventspils'},LVA,,FLA,Uvis Balinskis
+8477932,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477932.png,Aaron,Ekblad,5.0,D,R,76,220,193,100,1996-02-07,{'default': 'Windsor'},CAN,{'default': 'ON'},FLA,Aaron Ekblad
+8478055,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478055.png,Gustav,Forsling,42.0,D,L,73,199,185,90,1996-06-12,"{'default': 'Linkoping', 'cs': 'Linköping', 'de': 'Linköping', 'fi': 'Linköping', 'fr': 'Linköping', 'sk': 'Linköping', 'sv': 'Linköping'}",SWE,,FLA,Gustav Forsling
+8477495,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477495.png,Seth,Jones,3.0,D,R,76,213,193,97,1994-10-03,{'default': 'Arlington'},USA,{'default': 'TX'},FLA,Seth Jones
+8475179,https://assets.nhle.com/mugs/nhl/20242025/FLA/8475179.png,Dmitry,Kulikov,7.0,D,L,73,212,185,96,1990-10-29,"{'default': 'Lipetsk', 'cs': 'Lipeck', 'sk': 'Lipeck'}",RUS,,FLA,Dmitry Kulikov
+8477034,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477034.png,Jaycob,Megna,6.0,D,L,78,214,198,97,1992-12-10,{'default': 'Plantation'},USA,{'default': 'FL'},FLA,Jaycob Megna
+8478859,https://assets.nhle.com/mugs/nhl/20242025/FLA/8478859.png,Niko,Mikkola,77.0,D,L,78,204,198,93,1996-04-27,"{'default': 'Kiiminki', 'sv': 'Kiminge'}",FIN,,FLA,Niko Mikkola
+8477220,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477220.png,Nate,Schmidt,88.0,D,L,72,197,183,89,1991-07-16,{'default': 'St. Cloud'},USA,{'default': 'MN'},FLA,Nate Schmidt
+8475683,https://assets.nhle.com/mugs/nhl/20242025/FLA/8475683.png,Sergei,Bobrovsky,72.0,G,L,74,180,188,82,1988-09-20,"{'default': 'Novokuznetsk', 'cs': 'Novokuzněck', 'sk': 'Novokuzněck'}",RUS,,FLA,Sergei Bobrovsky
+8477970,https://assets.nhle.com/mugs/nhl/20242025/FLA/8477970.png,Vitek,Vanecek,41.0,G,L,74,184,188,83,1996-01-09,"{'default': 'Havlickuv Brod', 'cs': 'Havlíčkův Brod', 'fi': 'Havlíčkův Brod', 'sk': 'Havlíčkův Brod'}",CZE,,FLA,Vitek Vanecek
+8478020,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478020.png,Michael,Amadio,22.0,R,R,73,199,185,90,1996-05-13,"{'default': 'Sault Ste. Marie', 'fr': 'Sault-Sainte-Marie'}",CAN,{'default': 'ON'},OTT,Michael Amadio
+8480208,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480208.png,Drake,Batherson,19.0,R,R,75,200,191,91,1998-04-27,{'default': 'Fort Wayne'},USA,{'default': 'IN'},OTT,Drake Batherson
+8483579,https://assets.nhle.com/mugs/nhl/20242025/OTT/8483579.png,Wyatt,Bongiovanni,49.0,L,L,72,193,183,88,1999-07-24,{'default': 'Birmingham'},USA,{'default': 'MI'},OTT,Wyatt Bongiovanni
+8482674,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482674.png,Tyler,Boucher,54.0,R,R,74,216,188,98,2003-01-16,{'default': 'Scottsdale'},USA,{'default': 'AZ'},OTT,Tyler Boucher
+8476393,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476393.png,Nick,Cousins,21.0,C,L,71,186,180,84,1993-07-20,{'default': 'Belleville'},CAN,{'default': 'ON'},OTT,Nick Cousins
+8481528,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481528.png,Dylan,Cozens,24.0,C,R,75,207,191,94,2001-02-09,{'default': 'Whitehorse'},CAN,{'default': 'YT'},OTT,Dylan Cozens
+8481065,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481065.png,Angus,Crookshank,59.0,L,L,70,183,178,83,1999-10-02,{'default': 'North Vancouver'},CAN,{'default': 'BC'},OTT,Angus Crookshank
+8478874,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478874.png,Adam,Gaudette,81.0,R,R,73,187,185,85,1996-10-03,{'default': 'Braintree'},USA,{'default': 'MA'},OTT,Adam Gaudette
+8473512,https://assets.nhle.com/mugs/nhl/20242025/OTT/8473512.png,Claude,Giroux,28.0,R,R,71,188,180,85,1988-01-12,{'default': 'Hearst'},CAN,{'default': 'ON'},OTT,Claude Giroux
+8482092,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482092.png,Ridly,Greig,71.0,C,L,72,188,183,85,2002-08-08,{'default': 'Lethbridge'},CAN,{'default': 'AB'},OTT,Ridly Greig
+8483676,https://assets.nhle.com/mugs/nhl/20242025/OTT/8483676.png,Stephen,Halliday,83.0,C,L,76,212,193,96,2002-07-02,{'default': 'Ajax'},CAN,{'default': 'ON'},OTT,Stephen Halliday
+8478146,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478146.png,Matthew,Highmore,15.0,C,L,71,186,180,84,1996-02-27,{'default': 'Halifax'},CAN,{'default': 'NS'},OTT,Matthew Highmore
+8478173,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478173.png,Hayden,Hodgson,42.0,R,R,74,221,188,100,1996-03-02,{'default': 'Windsor'},CAN,{'default': 'ON'},OTT,Hayden Hodgson
+8480890,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480890.png,Jan,Jenik,14.0,C,L,74,199,188,90,2000-09-15,{'default': 'Nymburk'},CZE,,OTT,Jan Jenik
+8479772,https://assets.nhle.com/mugs/nhl/20242025/OTT/8479772.png,Zack,MacEwen,17.0,R,R,76,227,193,103,1996-07-08,{'default': 'Charlottetown'},CAN,{'default': 'PE'},OTT,Zack MacEwen
+8474102,https://assets.nhle.com/mugs/nhl/20242025/OTT/8474102.png,David,Perron,57.0,L,R,72,198,183,90,1988-05-28,{'default': 'Sherbrooke'},CAN,{'default': 'QC'},OTT,David Perron
+8479516,https://assets.nhle.com/mugs/nhl/20242025/OTT/8479516.png,Garrett,Pilon,45.0,C,R,72,192,183,87,1998-04-13,{'default': 'Mineola'},USA,{'default': 'NY'},OTT,Garrett Pilon
+8481596,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481596.png,Shane,Pinto,12.0,C,R,75,204,191,93,2000-11-12,{'default': 'Franklin Square'},USA,{'default': 'NY'},OTT,Shane Pinto
+8481133,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481133.png,Cole,Reinhardt,51.0,L,L,73,207,185,94,2000-02-01,{'default': 'Calgary'},CAN,{'default': 'AB'},OTT,Cole Reinhardt
+8482116,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482116.png,Tim,Stützle,18.0,C,L,72,192,183,87,2002-01-15,{'default': 'Viersen'},DEU,,OTT,Tim Stützle
+8480801,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480801.png,Brady,Tkachuk,7.0,L,L,76,225,193,102,1999-09-16,{'default': 'Scottsdale'},USA,{'default': 'AZ'},OTT,Brady Tkachuk
+8480188,https://assets.nhle.com/mugs/nhl/20242025/OTT/8480188.png,Fabian,Zetterlund,20.0,L,R,71,220,180,100,1999-08-25,{'default': 'Karlstad'},SWE,,OTT,Fabian Zetterlund
+8478469,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478469.png,Thomas,Chabot,72.0,D,L,73,203,185,92,1997-01-30,{'default': 'Sainte-Marie'},CAN,{'default': 'QC'},OTT,Thomas Chabot
+8478502,https://assets.nhle.com/mugs/nhl/20242025/OTT/8478502.png,Dennis,Gilbert,6.0,D,L,74,216,188,98,1996-10-30,{'default': 'Buffalo'},USA,{'default': 'NY'},OTT,Dennis Gilbert
+8483683,https://assets.nhle.com/mugs/nhl/20242025/OTT/8483683.png,Tomas,Hamara,98.0,D,L,72,194,183,88,2004-03-09,"{'default': 'Prague', 'cs': 'Praha', 'de': 'Prag', 'fi': 'Praha', 'sk': 'Praha', 'sv': 'Prag'}",CZE,,OTT,Tomas Hamara
+8474612,https://assets.nhle.com/mugs/nhl/20242025/OTT/8474612.png,Travis,Hamonic,23.0,D,R,72,195,183,88,1990-08-16,"{'default': 'St. Malo', 'fr': 'St-Malo'}",CAN,{'default': 'MB'},OTT,Travis Hamonic
+8475324,https://assets.nhle.com/mugs/nhl/20242025/OTT/8475324.png,Nick,Jensen,3.0,D,R,72,196,183,89,1990-09-21,{'default': 'Rogers'},USA,{'default': 'MN'},OTT,Nick Jensen
+8482095,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482095.png,Tyler,Kleven,43.0,D,L,77,221,196,100,2002-01-10,{'default': 'Fargo'},USA,{'default': 'ND'},OTT,Tyler Kleven
+8484321,https://assets.nhle.com/mugs/nhl/20242025/OTT/8484321.png,Nikolas,Matinpalo,33.0,D,R,75,211,191,96,1998-10-05,"{'default': 'Espoo', 'sv': 'Esbo'}",FIN,,OTT,Nikolas Matinpalo
+8482105,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482105.png,Jake,Sanderson,85.0,D,L,74,204,188,93,2002-07-08,{'default': 'Whitefish'},USA,{'default': 'MT'},OTT,Jake Sanderson
+8482131,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482131.png,Donovan,Sebrango,37.0,D,L,74,221,188,100,2002-01-12,{'default': 'Ottawa'},CAN,{'default': 'ON'},OTT,Donovan Sebrango
+8484759,https://assets.nhle.com/mugs/nhl/20242025/OTT/8484759.png,Carter,Yakemchuk,58.0,D,R,75,209,191,95,2005-09-29,{'default': 'Fort McMurray'},CAN,{'default': 'AB'},OTT,Carter Yakemchuk
+8482245,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482245.png,Artem,Zub,2.0,D,R,75,200,191,91,1995-10-03,"{'default': 'Khabarovsk', 'cs': 'Chabarovsk', 'fi': 'Habarovsk', 'sk': 'Chabarovsk'}",RUS,,OTT,Artem Zub
+8476341,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476341.png,Anton,Forsberg,31.0,G,L,75,198,191,90,1992-11-27,{'default': 'Härnösand'},SWE,,OTT,Anton Forsberg
+8482447,https://assets.nhle.com/mugs/nhl/20242025/OTT/8482447.png,Leevi,Meriläinen,1.0,G,L,75,186,191,84,2002-08-13,"{'default': 'Oulu', 'sv': 'Uleåborg'}",FIN,,OTT,Leevi Meriläinen
+8481544,https://assets.nhle.com/mugs/nhl/20242025/OTT/8481544.png,Mads,Sogaard,40.0,G,L,79,217,201,98,2000-12-13,"{'default': 'Aalborg', 'fi': 'Ålborg', 'sv': 'Ålborg'}",DNK,,OTT,Mads Sogaard
+8476999,https://assets.nhle.com/mugs/nhl/20242025/OTT/8476999.png,Linus,Ullmark,35.0,G,L,76,215,193,98,1993-07-31,{'default': 'Lugnvik'},SWE,,OTT,Linus Ullmark
+8481557,https://assets.nhle.com/mugs/nhl/20242025/MIN/8481557.png,Matt,Boldy,12.0,L,L,74,201,188,91,2001-04-05,{'default': 'Milford'},USA,{'default': 'MA'},MIN,Matt Boldy
+8476329,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476329.png,Travis,Boyd,72.0,C,R,72,190,183,86,1993-09-14,{'default': 'Hopkins'},USA,{'default': 'MN'},MIN,Travis Boyd
+8479638,https://assets.nhle.com/mugs/nhl/20242025/MIN/8479638.png,Justin,Brazeau,15.0,R,R,78,227,198,103,1998-02-02,{'default': 'New Liskeard'},CAN,{'default': 'ON'},MIN,Justin Brazeau
+8478493,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478493.png,Joel,Eriksson Ek,14.0,C,L,75,207,191,94,1997-01-29,{'default': 'Karlstad'},SWE,,MIN,Joel Eriksson Ek
+8475220,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475220.png,Marcus,Foligno,17.0,L,L,75,226,191,103,1991-08-10,{'default': 'Buffalo'},USA,{'default': 'NY'},MIN,Marcus Foligno
+8477919,https://assets.nhle.com/mugs/nhl/20242025/MIN/8477919.png,Frederick,Gaudreau,89.0,C,R,72,184,183,83,1993-05-01,{'default': 'Bromont'},CAN,{'default': 'QC'},MIN,Frederick Gaudreau
+8476867,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476867.png,Brendan,Gaunce,21.0,C,L,75,219,191,99,1994-03-25,{'default': 'Sudbury'},CAN,{'default': 'ON'},MIN,Brendan Gaunce
+8483452,https://assets.nhle.com/mugs/nhl/20242025/MIN/8483452.png,Hunter,Haight,43.0,C,R,70,173,178,78,2004-04-04,{'default': 'Strathroy'},CAN,{'default': 'ON'},MIN,Hunter Haight
+8477451,https://assets.nhle.com/mugs/nhl/20242025/MIN/8477451.png,Ryan,Hartman,38.0,R,R,72,197,183,89,1994-09-20,{'default': 'Hilton Head Island'},USA,{'default': 'SC'},MIN,Ryan Hartman
+8476994,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476994.png,Vinnie,Hinostroza,18.0,C,R,70,183,178,83,1994-04-03,{'default': 'Chicago'},USA,{'default': 'IL'},MIN,Vinnie Hinostroza
+8475149,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475149.png,Marcus,Johansson,90.0,L,L,73,203,185,92,1990-10-06,{'default': 'Landskrona'},SWE,,MIN,Marcus Johansson
+8480259,https://assets.nhle.com/mugs/nhl/20242025/MIN/8480259.png,Ben,Jones,39.0,C,L,72,187,183,85,1999-02-26,{'default': 'Waterloo'},CAN,{'default': 'ON'},MIN,Ben Jones
+8478864,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478864.png,Kirill,Kaprizov,97.0,L,L,70,202,178,92,1997-04-26,"{'default': 'Novokuznetsk', 'cs': 'Novokuzněck', 'sk': 'Novokuzněck'}",RUS,,MIN,Kirill Kaprizov
+8474679,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474679.png,Gustav,Nyquist,41.0,C,L,71,180,180,82,1989-09-01,{'default': 'Halmstad'},SWE,,MIN,Gustav Nyquist
+8483499,https://assets.nhle.com/mugs/nhl/20242025/MIN/8483499.png,Liam,Ohgren,28.0,L,L,72,187,183,85,2004-01-28,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,MIN,Liam Ohgren
+8482079,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482079.png,Marco,Rossi,23.0,C,L,69,182,175,83,2001-09-23,{'default': 'Feldkirch'},AUT,,MIN,Marco Rossi
+8476913,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476913.png,Devin,Shore,19.0,C,L,73,206,185,93,1994-07-19,{'default': 'Ajax'},CAN,{'default': 'ON'},MIN,Devin Shore
+8478508,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478508.png,Yakov,Trenin,13.0,C,L,74,201,188,91,1997-01-13,"{'default': 'Chelyabinsk', 'cs': 'Čeljabinsk', 'fi': 'Tsheljabinsk', 'sk': 'Čeljabinsk'}",RUS,,MIN,Yakov Trenin
+8475692,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475692.png,Mats,Zuccarello,36.0,R,L,68,181,173,82,1987-09-01,{'default': 'Oslo'},NOR,,MIN,Mats Zuccarello
+8474567,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474567.png,Zach,Bogosian,24.0,D,R,75,231,191,105,1990-07-15,{'default': 'Massena'},USA,{'default': 'NY'},MIN,Zach Bogosian
+8476463,https://assets.nhle.com/mugs/nhl/20242025/MIN/8476463.png,Jonas,Brodin,25.0,D,L,74,196,188,89,1993-07-12,{'default': 'Karlstad'},SWE,,MIN,Jonas Brodin
+8484798,https://assets.nhle.com/mugs/nhl/20242025/MIN/8484798.png,Zeev,Buium,8.0,D,L,72,183,183,83,2005-12-07,{'default': 'San Diego'},USA,{'default': 'CA'},MIN,Zeev Buium
+8480990,https://assets.nhle.com/mugs/nhl/20242025/MIN/8480990.png,Declan,Chisholm,47.0,D,L,73,190,185,86,2000-01-12,{'default': 'Bowmanville'},CAN,{'default': 'ON'},MIN,Declan Chisholm
+8480075,https://assets.nhle.com/mugs/nhl/20242025/MIN/8480075.png,Cameron,Crotty,34.0,D,R,75,182,191,83,1999-05-05,{'default': 'Ottawa'},CAN,{'default': 'ON'},MIN,Cameron Crotty
+8482122,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482122.png,Brock,Faber,7.0,D,R,73,200,185,91,2002-08-22,{'default': 'Maple Grove'},USA,{'default': 'MN'},MIN,Brock Faber
+8482781,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482781.png,Carson,Lambos,71.0,D,L,73,197,185,89,2003-01-14,{'default': 'Winnipeg'},CAN,{'default': 'MB'},MIN,Carson Lambos
+8475750,https://assets.nhle.com/mugs/nhl/20242025/MIN/8475750.png,Jon,Merrill,4.0,D,L,75,204,191,93,1992-02-03,{'default': 'Oklahoma City'},USA,{'default': 'OK'},MIN,Jon Merrill
+8478136,https://assets.nhle.com/mugs/nhl/20242025/MIN/8478136.png,Jake,Middleton,5.0,D,L,75,219,191,99,1996-01-02,{'default': 'Wainwright'},CAN,{'default': 'AB'},MIN,Jake Middleton
+8474716,https://assets.nhle.com/mugs/nhl/20242025/MIN/8474716.png,Jared,Spurgeon,46.0,D,R,69,166,175,75,1989-11-29,{'default': 'Edmonton'},CAN,{'default': 'AB'},MIN,Jared Spurgeon
+8470594,https://assets.nhle.com/mugs/nhl/20242025/MIN/8470594.png,Marc-Andre,Fleury,29.0,G,L,74,185,188,84,1984-11-28,{'default': 'Sorel'},CAN,{'default': 'QC'},MIN,Marc-Andre Fleury
+8479406,https://assets.nhle.com/mugs/nhl/20242025/MIN/8479406.png,Filip,Gustavsson,32.0,G,L,74,184,188,83,1998-06-07,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,MIN,Filip Gustavsson
+8482661,https://assets.nhle.com/mugs/nhl/20242025/MIN/8482661.png,Jesper,Wallstedt,30.0,G,L,75,214,191,97,2002-11-14,"{'default': 'Vasteras', 'cs': 'Västeras', 'fi': 'Västerås', 'sk': 'Västeras', 'sv': 'Västerås'}",SWE,,MIN,Jesper Wallstedt
+8482737,https://assets.nhle.com/mugs/nhl/20242025/STL/8482737.png,Zack,Bolduc,76.0,R,L,72,187,183,85,2003-02-24,{'default': 'Trois-Rivières'},CAN,{'default': 'QC'},STL,Zack Bolduc
+8477402,https://assets.nhle.com/mugs/nhl/20242025/STL/8477402.png,Pavel,Buchnevich,89.0,L,L,73,196,185,89,1995-04-17,"{'default': 'Cherepovets', 'cs': 'Čerepovec', 'fi': 'Tsherepovets', 'fr': 'Tcherepovets', 'sk': 'Čerepovec'}",RUS,,STL,Pavel Buchnevich
+8476889,https://assets.nhle.com/mugs/nhl/20242025/STL/8476889.png,Radek,Faksa,12.0,C,L,75,215,191,98,1994-01-09,"{'default': 'Vitkov', 'cs': 'Vítkov', 'fi': 'Vítkov', 'sk': 'Vítkov'}",CZE,,STL,Radek Faksa
+8482077,https://assets.nhle.com/mugs/nhl/20242025/STL/8482077.png,Dylan,Holloway,81.0,L,L,73,206,185,93,2001-09-23,{'default': 'Calgary'},CAN,{'default': 'AB'},STL,Dylan Holloway
+8478472,https://assets.nhle.com/mugs/nhl/20242025/STL/8478472.png,Mathieu,Joseph,71.0,R,L,73,186,185,84,1997-02-09,{'default': 'Laval'},CAN,{'default': 'QC'},STL,Mathieu Joseph
+8479385,https://assets.nhle.com/mugs/nhl/20242025/STL/8479385.png,Jordan,Kyrou,25.0,R,R,73,196,185,89,1998-05-05,{'default': 'Toronto'},CAN,{'default': 'ON'},STL,Jordan Kyrou
+8482089,https://assets.nhle.com/mugs/nhl/20242025/STL/8482089.png,Jake,Neighbours,63.0,L,L,72,201,183,91,2002-03-29,{'default': 'Calgary'},CAN,{'default': 'AB'},STL,Jake Neighbours
+8475170,https://assets.nhle.com/mugs/nhl/20242025/STL/8475170.png,Brayden,Schenn,10.0,C,L,73,199,185,90,1991-08-22,{'default': 'Saskatoon'},CAN,{'default': 'SK'},STL,Brayden Schenn
+8483516,https://assets.nhle.com/mugs/nhl/20242025/STL/8483516.png,Jimmy,Snuggerud,21.0,R,R,73,186,185,84,2004-06-01,{'default': 'Minneapolis'},USA,{'default': 'MN'},STL,Jimmy Snuggerud
+8476897,https://assets.nhle.com/mugs/nhl/20242025/STL/8476897.png,Oskar,Sundqvist,70.0,C,R,75,220,191,100,1994-03-23,{'default': 'Boden'},SWE,,STL,Oskar Sundqvist
+8480074,https://assets.nhle.com/mugs/nhl/20242025/STL/8480074.png,Alexandre,Texier,9.0,L,L,73,201,185,91,1999-09-13,"{'default': ""Saint-Martin-d'Hères""}",FRA,,STL,Alexandre Texier
+8480023,https://assets.nhle.com/mugs/nhl/20242025/STL/8480023.png,Robert,Thomas,18.0,C,R,72,207,183,94,1999-07-02,{'default': 'Aurora'},CAN,{'default': 'ON'},STL,Robert Thomas
+8480281,https://assets.nhle.com/mugs/nhl/20242025/STL/8480281.png,Alexey,Toropchenko,13.0,R,L,78,222,198,101,1999-06-25,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,STL,Alexey Toropchenko
+8477573,https://assets.nhle.com/mugs/nhl/20242025/STL/8477573.png,Nathan,Walker,26.0,L,L,69,187,175,85,1994-02-07,{'default': 'Cardiff'},GBR,,STL,Nathan Walker
+8481598,https://assets.nhle.com/mugs/nhl/20242025/STL/8481598.png,Philip,Broberg,6.0,D,L,76,212,193,96,2001-06-25,"{'default': 'Orebro', 'cs': 'Örebro', 'fi': 'Örebro', 'sk': 'Örebro', 'sv': 'Örebro'}",SWE,,STL,Philip Broberg
+8475753,https://assets.nhle.com/mugs/nhl/20242025/STL/8475753.png,Justin,Faulk,72.0,D,R,72,214,183,97,1992-03-20,{'default': 'South St. Paul'},USA,{'default': 'MN'},STL,Justin Faulk
+8475764,https://assets.nhle.com/mugs/nhl/20242025/STL/8475764.png,Cam,Fowler,17.0,D,L,74,210,188,95,1991-12-05,{'default': 'Windsor'},CAN,{'default': 'ON'},STL,Cam Fowler
+8482516,https://assets.nhle.com/mugs/nhl/20242025/STL/8482516.png,Matthew,Kessel,51.0,D,R,74,205,188,93,2000-06-23,{'default': 'Bloomfield Hills'},USA,{'default': 'MI'},STL,Matthew Kessel
+8475181,https://assets.nhle.com/mugs/nhl/20242025/STL/8475181.png,Nick,Leddy,4.0,D,L,72,205,183,93,1991-03-20,{'default': 'Eden Prairie'},USA,{'default': 'MN'},STL,Nick Leddy
+8476892,https://assets.nhle.com/mugs/nhl/20242025/STL/8476892.png,Colton,Parayko,55.0,D,R,78,228,198,103,1993-05-12,"{'default': 'St. Albert', 'fr': 'St-Albert'}",CAN,{'default': 'AB'},STL,Colton Parayko
+8470600,https://assets.nhle.com/mugs/nhl/20242025/STL/8470600.png,Ryan,Suter,22.0,D,L,73,201,185,91,1985-01-21,{'default': 'Madison'},USA,{'default': 'WI'},STL,Ryan Suter
+8481006,https://assets.nhle.com/mugs/nhl/20242025/STL/8481006.png,Tyler,Tucker,75.0,D,L,73,204,185,93,2000-03-01,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},STL,Tyler Tucker
+8476412,https://assets.nhle.com/mugs/nhl/20242025/STL/8476412.png,Jordan,Binnington,50.0,G,L,74,172,188,78,1993-07-11,{'default': 'Richmond Hill'},CAN,{'default': 'ON'},STL,Jordan Binnington
+8480981,https://assets.nhle.com/mugs/nhl/20242025/STL/8480981.png,Joel,Hofer,30.0,G,L,77,179,196,81,2000-07-30,{'default': 'Winnipeg'},CAN,{'default': 'MB'},STL,Joel Hofer
+8474150,https://assets.nhle.com/mugs/nhl/20242025/CGY/8474150.png,Mikael,Backlund,11.0,C,L,72,206,183,93,1989-03-17,"{'default': 'Vasteras', 'cs': 'Västeras', 'fi': 'Västerås', 'sk': 'Västeras', 'sv': 'Västerås'}",SWE,,CGY,Mikael Backlund
+8476399,https://assets.nhle.com/mugs/nhl/20242025/CGY/8476399.png,Blake,Coleman,20.0,L,L,71,199,180,90,1991-11-28,{'default': 'Plano'},USA,{'default': 'TX'},CGY,Blake Coleman
+8482679,https://assets.nhle.com/mugs/nhl/20242025/CGY/8482679.png,Matt,Coronato,27.0,R,R,70,183,178,83,2002-11-14,{'default': 'Greenlawn'},USA,{'default': 'NY'},CGY,Matt Coronato
+8480797,https://assets.nhle.com/mugs/nhl/20242025/CGY/8480797.png,Joel,Farabee,86.0,L,L,72,186,183,84,2000-02-25,{'default': 'Syracuse'},USA,{'default': 'NY'},CGY,Joel Farabee
+8480028,https://assets.nhle.com/mugs/nhl/20242025/CGY/8480028.png,Morgan,Frost,16.0,C,L,72,193,183,88,1999-05-14,{'default': 'Aurora'},CAN,{'default': 'ON'},CGY,Morgan Frost
+8476456,https://assets.nhle.com/mugs/nhl/20242025/CGY/8476456.png,Jonathan,Huberdeau,10.0,L,L,73,200,185,91,1993-06-04,"{'default': 'Saint-Jerome', 'fr': 'Saint-Jérome'}",CAN,{'default': 'QC'},CGY,Jonathan Huberdeau
+8475172,https://assets.nhle.com/mugs/nhl/20242025/CGY/8475172.png,Nazem,Kadri,91.0,C,L,72,185,183,84,1990-10-06,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},CGY,Nazem Kadri
+8477993,https://assets.nhle.com/mugs/nhl/20242025/CGY/8477993.png,Justin,Kirkland,58.0,C,L,75,183,191,83,1996-08-02,{'default': 'Winnipeg'},CAN,{'default': 'MB'},CGY,Justin Kirkland
+8479066,https://assets.nhle.com/mugs/nhl/20242025/CGY/8479066.png,Ryan,Lomberg,70.0,L,L,69,184,175,83,1994-12-09,{'default': 'Richmond Hill'},CAN,{'default': 'ON'},CGY,Ryan Lomberg
+8477511,https://assets.nhle.com/mugs/nhl/20242025/CGY/8477511.png,Anthony,Mantha,39.0,R,L,77,234,196,106,1994-09-16,{'default': 'Longueuil'},CAN,{'default': 'QC'},CGY,Anthony Mantha
+8481028,https://assets.nhle.com/mugs/nhl/20242025/CGY/8481028.png,Martin,Pospisil,76.0,C,L,74,173,188,78,1999-11-19,{'default': 'Zvolen'},SVK,,CGY,Martin Pospisil
+8479291,https://assets.nhle.com/mugs/nhl/20242025/CGY/8479291.png,Kevin,Rooney,21.0,C,L,74,190,188,86,1993-05-21,{'default': 'Canton'},USA,{'default': 'MA'},CGY,Kevin Rooney
+8481068,https://assets.nhle.com/mugs/nhl/20242025/CGY/8481068.png,Yegor,Sharangovich,17.0,C,L,74,196,188,89,1998-06-06,{'default': 'Minsk'},BLR,,CGY,Yegor Sharangovich
+8484234,https://assets.nhle.com/mugs/nhl/20242025/CGY/8484234.png,Aydar,Suniev,36.0,L,L,74,198,188,90,2004-11-16,"{'default': 'Kazan', 'cs': 'Kazaň', 'sk': 'Kazaň'}",RUS,,CGY,Aydar Suniev
+8482074,https://assets.nhle.com/mugs/nhl/20242025/CGY/8482074.png,Connor,Zary,47.0,C,L,72,178,183,81,2001-09-25,{'default': 'Saskatoon'},CAN,{'default': 'SK'},CGY,Connor Zary
+8478397,https://assets.nhle.com/mugs/nhl/20242025/CGY/8478397.png,Rasmus,Andersson,4.0,D,R,73,202,185,92,1996-10-27,{'default': 'Malmo'},SWE,,CGY,Rasmus Andersson
+8480860,https://assets.nhle.com/mugs/nhl/20242025/CGY/8480860.png,Kevin,Bahl,7.0,D,L,78,230,198,104,2000-06-27,{'default': 'New Westminster'},CAN,{'default': 'BC'},CGY,Kevin Bahl
+8479402,https://assets.nhle.com/mugs/nhl/20242025/CGY/8479402.png,Jake,Bean,24.0,D,L,73,191,185,87,1998-06-09,{'default': 'Calgary'},CAN,{'default': 'AB'},CGY,Jake Bean
+8477810,https://assets.nhle.com/mugs/nhl/20242025/CGY/8477810.png,Joel,Hanley,44.0,D,L,71,186,180,84,1991-06-08,{'default': 'Keswick'},CAN,{'default': 'ON'},CGY,Joel Hanley
+8482624,https://assets.nhle.com/mugs/nhl/20242025/CGY/8482624.png,Daniil,Miromanov,62.0,D,R,76,207,193,94,1997-07-11,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,CGY,Daniil Miromanov
+8481167,https://assets.nhle.com/mugs/nhl/20242025/CGY/8481167.png,Brayden,Pachal,94.0,D,R,74,202,188,92,1999-08-23,{'default': 'Estevan'},CAN,{'default': 'SK'},CGY,Brayden Pachal
+8484768,https://assets.nhle.com/mugs/nhl/20242025/CGY/8484768.png,Zayne,Parekh,89.0,D,R,72,179,183,81,2006-02-15,{'default': 'Markham'},CAN,{'default': 'ON'},CGY,Zayne Parekh
+8482470,https://assets.nhle.com/mugs/nhl/20242025/CGY/8482470.png,Ilya,Solovyov,98.0,D,L,75,208,191,94,2000-07-20,{'default': 'Mogilev'},BLR,,CGY,Ilya Solovyov
+8477346,https://assets.nhle.com/mugs/nhl/20242025/CGY/8477346.png,MacKenzie,Weegar,52.0,D,R,72,206,183,93,1994-01-07,{'default': 'Ottawa'},CAN,{'default': 'ON'},CGY,MacKenzie Weegar
+8478435,https://assets.nhle.com/mugs/nhl/20242025/CGY/8478435.png,Dan,Vladar,80.0,G,L,77,209,196,95,1997-08-20,"{'default': 'Prague', 'cs': 'Praha', 'de': 'Prag', 'fi': 'Praha', 'sk': 'Praha', 'sv': 'Prag'}",CZE,,CGY,Dan Vladar
+8481692,https://assets.nhle.com/mugs/nhl/20242025/CGY/8481692.png,Dustin,Wolf,32.0,G,L,72,166,183,75,2001-04-16,{'default': 'Gilroy'},USA,{'default': 'CA'},CGY,Dustin Wolf
+8479414,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479414.png,Nathan,Bastian,14.0,R,R,76,205,193,93,1997-12-06,{'default': 'Kitchener'},CAN,{'default': 'ON'},NJD,Nathan Bastian
+8479407,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479407.png,Jesper,Bratt,63.0,L,L,70,175,178,79,1998-07-30,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,NJD,Jesper Bratt
+8481032,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481032.png,Paul,Cotter,47.0,C,L,74,213,188,97,1999-11-16,{'default': 'Canton'},USA,{'default': 'MI'},NJD,Paul Cotter
+8475413,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475413.png,Justin,Dowling,37.0,C,L,70,180,178,82,1990-10-01,{'default': 'Calgary'},CAN,{'default': 'AB'},NJD,Justin Dowling
+8481518,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481518.png,Nolan,Foote,29.0,L,L,75,196,191,89,2000-11-29,{'default': 'Denver'},USA,{'default': 'CO'},NJD,Nolan Foote
+8479996,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479996.png,Cody,Glass,12.0,C,R,75,201,191,91,1999-04-01,{'default': 'Winnipeg'},CAN,{'default': 'MB'},NJD,Cody Glass
+8483531,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483531.png,Brian,Halonen,48.0,L,R,72,207,183,94,1999-01-11,{'default': 'Delano'},USA,{'default': 'MN'},NJD,Brian Halonen
+8482635,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482635.png,Mike,Hardman,39.0,L,L,74,205,188,93,1999-02-05,{'default': 'Hanover'},USA,{'default': 'MA'},NJD,Mike Hardman
+8475287,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475287.png,Erik,Haula,56.0,L,L,71,191,180,87,1991-03-23,"{'default': 'Pori', 'sv': 'Björneborg'}",FIN,,NJD,Erik Haula
+8480002,https://assets.nhle.com/mugs/nhl/20242025/NJD/8480002.png,Nico,Hischier,13.0,C,L,73,200,185,91,1999-01-04,{'default': 'Maters'},CHE,,NJD,Nico Hischier
+8481559,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481559.png,Jack,Hughes,86.0,C,L,71,175,180,79,2001-05-14,{'default': 'Orlando'},USA,{'default': 'FL'},NJD,Jack Hughes
+8477508,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477508.png,Curtis,Lazar,42.0,C,R,72,203,183,92,1995-02-02,{'default': 'Salmon Arm'},CAN,{'default': 'BC'},NJD,Curtis Lazar
+8481594,https://assets.nhle.com/mugs/nhl/20242025/NJD/8481594.png,Nathan,Légaré,16.0,R,R,72,200,183,91,2001-01-11,{'default': 'Montréal'},CAN,{'default': 'QC'},NJD,Nathan Légaré
+8477073,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477073.png,Kurtis,MacDermid,23.0,L,L,77,233,196,106,1994-03-25,"{'default': 'Quebec City', 'fr': 'Québec'}",CAN,{'default': 'QC'},NJD,Kurtis MacDermid
+8483397,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483397.png,Marc,McLaughlin,21.0,C,R,72,202,183,92,1999-07-26,{'default': 'North Billerica'},USA,{'default': 'MA'},NJD,Marc McLaughlin
+8478414,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478414.png,Timo,Meier,28.0,R,L,73,220,185,100,1996-10-08,{'default': 'Herisau'},CHE,,NJD,Timo Meier
+8482110,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482110.png,Dawson,Mercer,91.0,C,R,72,180,183,82,2001-10-27,{'default': 'Carbonear'},CAN,{'default': 'NL'},NJD,Dawson Mercer
+8476474,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476474.png,Stefan,Noesen,11.0,R,R,73,205,185,93,1993-02-12,{'default': 'Plano'},USA,{'default': 'TX'},NJD,Stefan Noesen
+8476292,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476292.png,Ondrej,Palat,18.0,L,L,72,194,183,88,1991-03-28,"{'default': 'Frydek-Mistek', 'cs': 'Frýdek-Místek', 'fi': 'Frýdek-Místek', 'sk': 'Frýdek-Místek'}",CZE,,NJD,Ondrej Palat
+8478466,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478466.png,Daniel,Sprong,10.0,R,R,72,195,183,88,1997-03-17,{'default': 'Amsterdam'},NLD,,NJD,Daniel Sprong
+8475193,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475193.png,Tomas,Tatar,90.0,L,L,70,173,178,78,1990-12-01,"{'default': 'Ilava', 'cs': 'Iľava', 'sk': 'Iľava'}",SVK,,NJD,Tomas Tatar
+8483429,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483429.png,Seamus,Casey,24.0,D,R,70,162,178,73,2004-01-08,{'default': 'Miami'},USA,{'default': 'FL'},NJD,Seamus Casey
+8479395,https://assets.nhle.com/mugs/nhl/20242025/NJD/8479395.png,Dennis,Cholowski,44.0,D,L,74,210,188,95,1998-02-15,{'default': 'Langley'},CAN,{'default': 'BC'},NJD,Dennis Cholowski
+8475455,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475455.png,Brenden,Dillon,5.0,D,L,76,225,193,102,1990-11-13,{'default': 'New Westminster'},CAN,{'default': 'BC'},NJD,Brenden Dillon
+8475208,https://assets.nhle.com/mugs/nhl/20242025/NJD/8475208.png,Brian,Dumoulin,2.0,D,L,76,214,193,97,1991-09-06,{'default': 'Biddeford'},USA,{'default': 'ME'},NJD,Brian Dumoulin
+8476462,https://assets.nhle.com/mugs/nhl/20242025/NJD/8476462.png,Dougie,Hamilton,7.0,D,R,78,230,198,104,1993-06-17,{'default': 'Toronto'},CAN,{'default': 'ON'},NJD,Dougie Hamilton
+8482684,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482684.png,Luke,Hughes,43.0,D,L,74,198,188,90,2003-09-09,{'default': 'Manchester'},USA,{'default': 'NH'},NJD,Luke Hughes
+8480192,https://assets.nhle.com/mugs/nhl/20242025/NJD/8480192.png,Johnathan,Kovacevic,8.0,D,R,77,223,196,101,1997-07-12,{'default': 'Hamilton'},CAN,{'default': 'ON'},NJD,Johnathan Kovacevic
+8483495,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483495.png,Simon,Nemec,17.0,D,R,73,190,185,86,2004-02-15,{'default': 'Liptovský Mikuláš'},SVK,,NJD,Simon Nemec
+8477488,https://assets.nhle.com/mugs/nhl/20242025/NJD/8477488.png,Brett,Pesce,22.0,D,R,75,206,191,93,1994-11-15,{'default': 'Tarrytown'},USA,{'default': 'NY'},NJD,Brett Pesce
+8478399,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478399.png,Jonas,Siegenthaler,71.0,D,L,74,218,188,99,1997-05-06,{'default': 'Zurich'},CHE,,NJD,Jonas Siegenthaler
+8482873,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482873.png,Topias,Vilen,38.0,D,L,73,194,185,88,2003-04-01,"{'default': 'Lahti', 'sv': 'Lahtis'}",FIN,,NJD,Topias Vilen
+8478841,https://assets.nhle.com/mugs/nhl/20242025/NJD/8478841.png,Colton,White,45.0,D,L,73,187,185,85,1997-05-03,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},NJD,Colton White
+8474596,https://assets.nhle.com/mugs/nhl/20242025/NJD/8474596.png,Jake,Allen,34.0,G,L,74,197,188,89,1990-08-07,{'default': 'Fredericton'},CAN,{'default': 'NB'},NJD,Jake Allen
+8482076,https://assets.nhle.com/mugs/nhl/20242025/NJD/8482076.png,Nico,Daws,50.0,G,L,76,205,193,93,2000-12-22,"{'default': 'Munich', 'cs': 'Mnichov', 'de': 'München', 'fi': 'München', 'sk': 'Mnichov', 'sv': 'München'}",DEU,,NJD,Nico Daws
+8474593,https://assets.nhle.com/mugs/nhl/20242025/NJD/8474593.png,Jacob,Markstrom,25.0,G,L,78,207,198,94,1990-01-31,{'default': 'Gavle'},SWE,,NJD,Jacob Markstrom
+8483659,https://assets.nhle.com/mugs/nhl/20242025/NJD/8483659.png,Isaac,Poulter,65.0,G,L,74,174,188,79,2001-09-12,{'default': 'Winnipeg'},CAN,{'default': 'MB'},NJD,Isaac Poulter
+8476981,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476981.png,Josh,Anderson,17.0,R,R,75,226,191,103,1994-05-07,{'default': 'Burlington'},CAN,{'default': 'ON'},MTL,Josh Anderson
+8476469,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476469.png,Joel,Armia,40.0,R,R,75,216,191,98,1993-05-31,"{'default': 'Pori', 'sv': 'Björneborg'}",FIN,,MTL,Joel Armia
+8481540,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481540.png,Cole,Caufield,13.0,R,R,68,175,173,79,2001-01-02,{'default': 'Mosinee'},USA,{'default': 'WI'},MTL,Cole Caufield
+8481523,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481523.png,Kirby,Dach,77.0,C,R,76,221,193,100,2001-01-21,{'default': 'Fort Saskatchewan'},CAN,{'default': 'AB'},MTL,Kirby Dach
+8484984,https://assets.nhle.com/mugs/nhl/20242025/MTL/8484984.png,Ivan,Demidov,93.0,R,L,73,192,185,87,2005-12-10,{'default': 'Sergiyev Posad'},RUS,,MTL,Ivan Demidov
+8477989,https://assets.nhle.com/mugs/nhl/20242025/MTL/8477989.png,Christian,Dvorak,28.0,C,L,73,190,185,86,1996-02-02,{'default': 'Palos'},USA,{'default': 'IL'},MTL,Christian Dvorak
+8478133,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478133.png,Jake,Evans,71.0,C,R,72,190,183,86,1996-06-02,{'default': 'Toronto'},CAN,{'default': 'ON'},MTL,Jake Evans
+8475848,https://assets.nhle.com/mugs/nhl/20242025/MTL/8475848.png,Brendan,Gallagher,11.0,R,R,69,185,175,84,1992-05-06,{'default': 'Edmonton'},CAN,{'default': 'AB'},MTL,Brendan Gallagher
+8482476,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482476.png,Emil,Heineman,51.0,L,L,74,198,188,90,2001-11-16,{'default': 'Leksand'},SWE,,MTL,Emil Heineman
+8479339,https://assets.nhle.com/mugs/nhl/20242025/MTL/8479339.png,Patrik,Laine,92.0,R,R,76,208,193,94,1998-04-19,"{'default': 'Tampere', 'sv': 'Tammerfors'}",FIN,,MTL,Patrik Laine
+8481618,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481618.png,Alex,Newhook,15.0,C,L,71,200,180,91,2001-01-28,"{'default': ""St. John's""}",CAN,{'default': 'NL'},MTL,Alex Newhook
+8479543,https://assets.nhle.com/mugs/nhl/20242025/MTL/8479543.png,Michael,Pezzetta,55.0,L,L,73,219,185,99,1998-03-13,{'default': 'Toronto'},CAN,{'default': 'ON'},MTL,Michael Pezzetta
+8483515,https://assets.nhle.com/mugs/nhl/20242025/MTL/8483515.png,Juraj,Slafkovský,20.0,L,L,75,225,191,102,2004-03-30,"{'default': 'Kosice', 'cs': 'Košice', 'fi': 'Košice', 'sk': 'Košice'}",SVK,,MTL,Juraj Slafkovský
+8480018,https://assets.nhle.com/mugs/nhl/20242025/MTL/8480018.png,Nick,Suzuki,14.0,C,R,71,207,180,94,1999-08-10,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},MTL,Nick Suzuki
+8478851,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478851.png,Alexandre,Carrier,45.0,D,R,71,174,180,79,1996-10-08,"{'default': 'Quebec City', 'fr': 'Québec'}",CAN,{'default': 'QC'},MTL,Alexandre Carrier
+8482087,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482087.png,Kaiden,Guhle,21.0,D,L,75,202,191,92,2002-01-18,{'default': 'Edmonton'},CAN,{'default': 'AB'},MTL,Kaiden Guhle
+8483457,https://assets.nhle.com/mugs/nhl/20242025/MTL/8483457.png,Lane,Hutson,48.0,D,L,69,162,175,73,2004-02-14,{'default': 'Holland'},USA,{'default': 'MI'},MTL,Lane Hutson
+8476875,https://assets.nhle.com/mugs/nhl/20242025/MTL/8476875.png,Mike,Matheson,8.0,D,L,74,196,188,89,1994-02-27,{'default': 'Pointe-Claire'},CAN,{'default': 'QC'},MTL,Mike Matheson
+8475233,https://assets.nhle.com/mugs/nhl/20242025/MTL/8475233.png,David,Savard,58.0,D,R,73,235,185,107,1990-10-22,{'default': 'St-Hyacinthe'},CAN,{'default': 'QC'},MTL,David Savard
+8481593,https://assets.nhle.com/mugs/nhl/20242025/MTL/8481593.png,Jayden,Struble,47.0,D,L,72,207,183,94,2001-09-08,{'default': 'Cumberland'},USA,{'default': 'RI'},MTL,Jayden Struble
+8482964,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482964.png,Arber,Xhekaj,72.0,D,L,76,240,193,109,2001-01-30,{'default': 'Hamilton'},CAN,{'default': 'ON'},MTL,Arber Xhekaj
+8482487,https://assets.nhle.com/mugs/nhl/20242025/MTL/8482487.png,Jakub,Dobes,75.0,G,L,76,215,193,98,2001-05-27,{'default': 'Ostrava'},CZE,,MTL,Jakub Dobes
+8478470,https://assets.nhle.com/mugs/nhl/20242025/MTL/8478470.png,Sam,Montembeault,35.0,G,L,75,218,191,99,1996-10-30,{'default': 'Becancour'},CAN,{'default': 'QC'},MTL,Sam Montembeault
+8482496,https://assets.nhle.com/mugs/nhl/20242025/VAN/8482496.png,Nils,Aman,88.0,C,L,74,179,188,81,2000-02-07,{'default': 'Avesta'},SWE,,VAN,Nils Aman
+8476927,https://assets.nhle.com/mugs/nhl/20242025/VAN/8476927.png,Teddy,Blueger,53.0,C,L,72,185,183,84,1994-08-15,"{'default': 'Riga', 'fi': 'Riika'}",LVA,,VAN,Teddy Blueger
+8478444,https://assets.nhle.com/mugs/nhl/20242025/VAN/8478444.png,Brock,Boeser,6.0,R,R,73,208,185,94,1997-02-25,{'default': 'Burnsville'},USA,{'default': 'MN'},VAN,Brock Boeser
+8480078,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480078.png,Filip,Chytil,72.0,C,L,74,210,188,95,1999-09-05,"{'default': 'Kromeriz', 'cs': 'Kroměříž', 'sk': 'Kroměříž'}",CZE,,VAN,Filip Chytil
+8478498,https://assets.nhle.com/mugs/nhl/20242025/VAN/8478498.png,Jake,DeBrusk,74.0,L,L,73,198,185,90,1996-10-17,{'default': 'Edmonton'},CAN,{'default': 'AB'},VAN,Jake DeBrusk
+8478856,https://assets.nhle.com/mugs/nhl/20242025/VAN/8478856.png,Conor,Garland,8.0,R,R,70,165,178,75,1996-03-11,{'default': 'Scituate'},USA,{'default': 'MA'},VAN,Conor Garland
+8481535,https://assets.nhle.com/mugs/nhl/20242025/VAN/8481535.png,Nils,Hoglander,21.0,L,L,69,185,175,84,2000-12-20,{'default': 'Bockträsk'},SWE,,VAN,Nils Hoglander
+8478057,https://assets.nhle.com/mugs/nhl/20242025/VAN/8478057.png,Dakota,Joshua,81.0,C,L,75,206,191,93,1996-05-15,{'default': 'Dearborn'},USA,{'default': 'MI'},VAN,Dakota Joshua
+8482055,https://assets.nhle.com/mugs/nhl/20242025/VAN/8482055.png,Drew,O'Connor,18.0,L,L,76,209,193,95,1998-06-09,{'default': 'Chatham'},USA,{'default': 'NJ'},VAN,Drew O'Connor
+8480012,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480012.png,Elias,Pettersson,40.0,C,L,74,176,188,80,1998-11-12,{'default': 'Sundsvall'},SWE,,VAN,Elias Pettersson
+8480748,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480748.png,Kiefer,Sherwood,44.0,L,R,72,194,183,88,1995-03-31,{'default': 'Columbus'},USA,{'default': 'OH'},VAN,Kiefer Sherwood
+8480459,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480459.png,Pius,Suter,24.0,C,L,71,179,180,81,1996-05-24,{'default': 'Zurich'},CHE,,VAN,Pius Suter
+8475762,https://assets.nhle.com/mugs/nhl/20242025/VAN/8475762.png,Derek,Forbort,27.0,D,L,76,216,193,98,1992-03-04,{'default': 'Duluth'},USA,{'default': 'MN'},VAN,Derek Forbort
+8479425,https://assets.nhle.com/mugs/nhl/20242025/VAN/8479425.png,Filip,Hronek,17.0,D,R,72,190,183,86,1997-11-02,"{'default': 'Hradec Kralove', 'cs': 'Hradec Králové', 'fi': 'Hradec Králové', 'sk': 'Hradec Králové'}",CZE,,VAN,Filip Hronek
+8480800,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480800.png,Quinn,Hughes,43.0,D,L,70,180,178,82,1999-10-14,{'default': 'Orlando'},USA,{'default': 'FL'},VAN,Quinn Hughes
+8478454,https://assets.nhle.com/mugs/nhl/20242025/VAN/8478454.png,Noah,Juulsen,47.0,D,R,74,201,188,91,1997-04-02,{'default': 'Surrey'},CAN,{'default': 'BC'},VAN,Noah Juulsen
+8474574,https://assets.nhle.com/mugs/nhl/20242025/VAN/8474574.png,Tyler,Myers,57.0,D,R,80,229,203,104,1990-02-01,{'default': 'Houston'},USA,{'default': 'TX'},VAN,Tyler Myers
+8483678,https://assets.nhle.com/mugs/nhl/20242025/VAN/8483678.png,Elias,Pettersson,25.0,D,L,74,185,188,84,2004-02-16,"{'default': 'Vasteras', 'cs': 'Västeras', 'fi': 'Västerås', 'sk': 'Västeras', 'sv': 'Västerås'}",SWE,,VAN,Elias Pettersson
+8477969,https://assets.nhle.com/mugs/nhl/20242025/VAN/8477969.png,Marcus,Pettersson,29.0,D,L,77,174,196,79,1996-05-08,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,VAN,Marcus Pettersson
+8477967,https://assets.nhle.com/mugs/nhl/20242025/VAN/8477967.png,Thatcher,Demko,35.0,G,L,76,192,193,87,1995-12-08,{'default': 'San Diego'},USA,{'default': 'CA'},VAN,Thatcher Demko
+8480947,https://assets.nhle.com/mugs/nhl/20242025/VAN/8480947.png,Kevin,Lankinen,32.0,G,L,74,190,188,86,1995-04-28,"{'default': 'Helsinki', 'cs': 'Helsinky', 'sk': 'Helsinky', 'sv': 'Helsingfors'}",FIN,,VAN,Kevin Lankinen
+8475760,https://assets.nhle.com/mugs/nhl/20242025/UTA/8475760.png,Nick,Bjugstad,17.0,C,R,77,205,196,93,1992-07-17,{'default': 'Minneapolis'},USA,{'default': 'MN'},UTA,Nick Bjugstad
+8479619,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479619.png,Michael,Carcone,53.0,L,L,69,182,175,83,1996-05-19,{'default': 'Ajax'},CAN,{'default': 'ON'},UTA,Michael Carcone
+8483431,https://assets.nhle.com/mugs/nhl/20242025/UTA/8483431.png,Logan,Cooley,92.0,C,L,72,191,183,87,2004-05-04,{'default': 'Pittsburgh'},USA,{'default': 'PA'},UTA,Logan Cooley
+8478474,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478474.png,Lawson,Crouse,67.0,L,L,76,214,193,97,1997-06-23,{'default': 'Mt. Brydges'},CAN,{'default': 'ON'},UTA,Lawson Crouse
+8482659,https://assets.nhle.com/mugs/nhl/20242025/UTA/8482659.png,Josh,Doan,91.0,R,R,74,198,188,90,2002-02-01,{'default': 'Scottsdale'},USA,{'default': 'AZ'},UTA,Josh Doan
+8482699,https://assets.nhle.com/mugs/nhl/20242025/UTA/8482699.png,Dylan,Guenther,11.0,R,R,73,191,185,87,2003-04-10,{'default': 'Edmonton'},CAN,{'default': 'AB'},UTA,Dylan Guenther
+8480849,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480849.png,Barrett,Hayton,27.0,C,L,73,200,185,91,2000-06-09,{'default': 'Peterborough'},CAN,{'default': 'ON'},UTA,Barrett Hayton
+8479343,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479343.png,Clayton,Keller,9.0,C,L,70,175,178,79,1998-07-29,{'default': 'Chesterfield'},USA,{'default': 'MO'},UTA,Clayton Keller
+8477021,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477021.png,Alexander,Kerfoot,15.0,C,L,71,185,180,84,1994-08-11,{'default': 'Vancouver'},CAN,{'default': 'BC'},UTA,Alexander Kerfoot
+8481711,https://assets.nhle.com/mugs/nhl/20242025/UTA/8481711.png,Matias,Maccelli,63.0,L,L,71,185,180,84,2000-10-14,"{'default': 'Turku', 'sv': 'Åbo'}",FIN,,UTA,Matias Maccelli
+8480855,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480855.png,Jack,McBain,22.0,C,L,76,219,193,99,2000-01-06,{'default': 'Toronto'},CAN,{'default': 'ON'},UTA,Jack McBain
+8477070,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477070.png,Liam,O'Brien,38.0,C,L,73,215,185,98,1994-07-29,{'default': 'Halifax'},CAN,{'default': 'NS'},UTA,Liam O'Brien
+8477951,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477951.png,Nick,Schmaltz,8.0,C,R,72,184,183,83,1996-02-23,{'default': 'Madison'},USA,{'default': 'WI'},UTA,Nick Schmaltz
+8478831,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478831.png,Kevin,Stenlund,82.0,C,R,75,213,191,97,1996-09-20,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,UTA,Kevin Stenlund
+8474145,https://assets.nhle.com/mugs/nhl/20242025/UTA/8474145.png,Robert,Bortuzzo,41.0,D,R,76,206,193,93,1989-03-18,{'default': 'Thunder Bay'},CAN,{'default': 'ON'},UTA,Robert Bortuzzo
+8474013,https://assets.nhle.com/mugs/nhl/20242025/UTA/8474013.png,Ian,Cole,28.0,D,L,73,237,185,108,1989-02-21,{'default': 'Ann Arbor'},USA,{'default': 'MI'},UTA,Ian Cole
+8480084,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480084.png,Nick,DeSimone,57.0,D,R,74,194,188,88,1994-11-21,{'default': 'East Amherst'},USA,{'default': 'NY'},UTA,Nick DeSimone
+8480434,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480434.png,Sean,Durzi,50.0,D,R,73,196,185,89,1998-10-21,{'default': 'Mississauga'},CAN,{'default': 'ON'},UTA,Sean Durzi
+8480891,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480891.png,Michael,Kesselring,7.0,D,R,77,215,196,98,2000-01-13,{'default': 'New Hampton'},USA,{'default': 'NH'},UTA,Michael Kesselring
+8478507,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478507.png,John,Marino,6.0,D,R,73,200,185,91,1997-05-21,{'default': 'North Easton'},USA,{'default': 'MA'},UTA,John Marino
+8476874,https://assets.nhle.com/mugs/nhl/20242025/UTA/8476874.png,Olli,Määttä,2.0,D,L,74,207,188,94,1994-08-22,{'default': 'Jyväskylä'},FIN,,UTA,Olli Määttä
+8479410,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479410.png,Mikhail,Sergachev,98.0,D,L,75,212,191,96,1998-06-25,"{'default': 'Nizhnekamsk', 'cs': 'Nižněkamsk', 'fi': 'Nižnekamsk', 'sk': 'Nižněkamsk', 'sv': 'Nizhnekampsk'}",RUS,,UTA,Mikhail Sergachev
+8478971,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478971.png,Connor,Ingram,39.0,G,L,73,218,185,99,1997-03-31,{'default': 'Saskatoon'},CAN,{'default': 'SK'},UTA,Connor Ingram
+8478872,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478872.png,Karel,Vejmelka,70.0,G,R,76,221,193,100,1996-05-25,"{'default': 'Trebic', 'cs': 'Třebíč', 'fi': 'Třebíč ', 'sk': 'Třebíč'}",CZE,,UTA,Karel Vejmelka
+8479944,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8479944.png,Zachary,Aston-Reese,27.0,C,L,73,200,185,91,1994-08-10,{'default': 'Staten Island'},USA,{'default': 'NY'},CBJ,Zachary Aston-Reese
+8482475,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8482475.png,Yegor,Chinakhov,59.0,R,L,73,201,185,91,2001-02-01,{'default': 'Omsk'},RUS,,CBJ,Yegor Chinakhov
+8479941,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8479941.png,Justin,Danforth,17.0,R,R,68,188,173,85,1993-03-15,{'default': 'Oshawa'},CAN,{'default': 'ON'},CBJ,Justin Danforth
+8484166,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8484166.png,Adam,Fantilli,19.0,C,L,74,199,188,90,2004-10-12,{'default': 'Nobleton'},CAN,{'default': 'ON'},CBJ,Adam Fantilli
+8478432,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8478432.png,Christian,Fischer,36.0,R,R,74,212,188,96,1997-04-15,{'default': 'Chicago'},USA,{'default': 'IL'},CBJ,Christian Fischer
+8476432,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8476432.png,Boone,Jenner,38.0,C,L,74,203,188,92,1993-06-15,{'default': 'Dorchester'},CAN,{'default': 'ON'},CBJ,Boone Jenner
+8482660,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8482660.png,Kent,Johnson,91.0,C,L,72,180,183,82,2002-10-18,{'default': 'Port Moody'},CAN,{'default': 'BC'},CBJ,Kent Johnson
+8479316,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8479316.png,Luke,Kunin,11.0,C,R,72,197,183,89,1997-12-04,{'default': 'Chesterfield'},USA,{'default': 'MO'},CBJ,Luke Kunin
+8476374,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8476374.png,Sean,Kuraly,7.0,C,L,74,215,188,98,1993-01-20,{'default': 'Niagara Falls'},USA,{'default': 'NY'},CBJ,Sean Kuraly
+8478099,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8478099.png,Kevin,Labanc,62.0,R,R,71,185,180,84,1995-12-12,{'default': 'Brooklyn'},USA,{'default': 'NY'},CBJ,Kevin Labanc
+8480893,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8480893.png,Kirill,Marchenko,86.0,R,R,75,197,191,89,2000-07-21,{'default': 'Barnaul'},RUS,,CBJ,Kirill Marchenko
+8477497,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8477497.png,Sean,Monahan,23.0,C,L,74,197,188,89,1994-10-12,{'default': 'Brampton'},CAN,{'default': 'ON'},CBJ,Sean Monahan
+8479671,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8479671.png,Mathieu,Olivier,24.0,R,R,73,226,185,103,1997-02-11,{'default': 'Biloxi'},USA,{'default': 'MS'},CBJ,Mathieu Olivier
+8482705,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8482705.png,Cole,Sillinger,4.0,C,L,73,202,185,92,2003-05-16,{'default': 'Columbus'},USA,{'default': 'OH'},CBJ,Cole Sillinger
+8474037,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8474037.png,James,van Riemsdyk,21.0,L,L,75,209,191,95,1989-05-04,{'default': 'Middletown'},USA,{'default': 'NJ'},CBJ,James van Riemsdyk
+8481716,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8481716.png,Dmitri,Voronkov,10.0,L,L,77,227,196,103,2000-09-10,{'default': 'Angarsk'},RUS,,CBJ,Dmitri Voronkov
+8485469,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8485469.png,Jack,Williams,29.0,R,R,71,185,180,84,2002-03-02,{'default': 'Biddeford'},USA,{'default': 'ME'},CBJ,Jack Williams
+8481161,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8481161.png,Jake,Christiansen,2.0,D,L,72,197,183,89,1999-09-12,{'default': 'West Vancouver'},CAN,{'default': 'BC'},CBJ,Jake Christiansen
+8479371,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8479371.png,Dante,Fabbro,15.0,D,R,72,189,183,86,1998-06-20,{'default': 'Coquitlam'},CAN,{'default': 'BC'},CBJ,Dante Fabbro
+8475790,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8475790.png,Erik,Gudbranson,44.0,D,R,77,222,196,101,1992-01-07,{'default': 'Ottawa'},CAN,{'default': 'ON'},CBJ,Erik Gudbranson
+8480887,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8480887.png,Jordan,Harris,22.0,D,L,71,187,180,85,2000-07-07,{'default': 'Haverhill'},USA,{'default': 'MA'},CBJ,Jordan Harris
+8471677,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8471677.png,Jack,Johnson,3.0,D,L,74,225,188,102,1987-01-13,{'default': 'Indianapolis'},USA,{'default': 'IN'},CBJ,Jack Johnson
+8478500,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8478500.png,Ivan,Provorov,9.0,D,L,73,213,185,97,1997-01-13,"{'default': 'Yaroslavl', 'cs': 'Jaroslavl', 'fi': 'Jaroslavl', 'sk': 'Jaroslavl'}",RUS,,CBJ,Ivan Provorov
+8476923,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8476923.png,Damon,Severson,78.0,D,R,74,204,188,93,1994-08-07,{'default': 'Melville'},CAN,{'default': 'SK'},CBJ,Damon Severson
+8478460,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8478460.png,Zach,Werenski,8.0,D,L,74,211,188,96,1997-07-19,{'default': 'Grosse Pointe'},USA,{'default': 'MI'},CBJ,Zach Werenski
+8478007,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8478007.png,Elvis,Merzlikins,90.0,G,L,75,190,191,86,1994-04-13,"{'default': 'Riga', 'fi': 'Riika'}",LVA,,CBJ,Elvis Merzlikins
+8480193,https://assets.nhle.com/mugs/nhl/20242025/CBJ/8480193.png,Daniil,Tarasov,40.0,G,L,77,203,196,92,1999-03-27,"{'default': 'Novokuznetsk', 'cs': 'Novokuzněck', 'sk': 'Novokuzněck'}",RUS,,CBJ,Daniil Tarasov
+8481013,https://assets.nhle.com/mugs/nhl/20242025/DET/8481013.png,Jonatan,Berggren,48.0,R,L,71,197,180,89,2000-07-16,{'default': 'Uppsala'},SWE,,DET,Jonatan Berggren
+8477456,https://assets.nhle.com/mugs/nhl/20242025/DET/8477456.png,J.T.,Compher,37.0,L,R,72,190,183,86,1995-04-08,{'default': 'Northbrook'},USA,{'default': 'IL'},DET,J.T. Compher
+8477429,https://assets.nhle.com/mugs/nhl/20242025/DET/8477429.png,Andrew,Copp,18.0,C,L,73,203,185,92,1994-07-08,{'default': 'Ann Arbor'},USA,{'default': 'MI'},DET,Andrew Copp
+8479337,https://assets.nhle.com/mugs/nhl/20242025/DET/8479337.png,Alex,DeBrincat,93.0,R,R,68,180,173,82,1997-12-18,{'default': 'Farmington Hills'},USA,{'default': 'MI'},DET,Alex DeBrincat
+8474141,https://assets.nhle.com/mugs/nhl/20242025/DET/8474141.png,Patrick,Kane,88.0,R,L,70,177,178,80,1988-11-19,{'default': 'Buffalo'},USA,{'default': 'NY'},DET,Patrick Kane
+8483464,https://assets.nhle.com/mugs/nhl/20242025/DET/8483464.png,Marco,Kasper,92.0,C,L,73,183,185,83,2004-04-08,{'default': 'Innsbruck'},AUT,,DET,Marco Kasper
+8477946,https://assets.nhle.com/mugs/nhl/20242025/DET/8477946.png,Dylan,Larkin,71.0,C,L,73,199,185,90,1996-07-30,{'default': 'Waterford'},USA,{'default': 'MI'},DET,Dylan Larkin
+8482802,https://assets.nhle.com/mugs/nhl/20242025/DET/8482802.png,Carter,Mazur,43.0,L,R,72,170,183,77,2002-03-28,{'default': 'Jackson'},USA,{'default': 'MI'},DET,Carter Mazur
+8477353,https://assets.nhle.com/mugs/nhl/20242025/DET/8477353.png,Tyler,Motte,14.0,C,L,70,194,178,88,1995-03-10,{'default': 'St. Clair'},USA,{'default': 'MI'},DET,Tyler Motte
+8479992,https://assets.nhle.com/mugs/nhl/20242025/DET/8479992.png,Michael,Rasmussen,27.0,C,L,78,220,198,100,1999-04-17,{'default': 'Surrey'},CAN,{'default': 'BC'},DET,Michael Rasmussen
+8482078,https://assets.nhle.com/mugs/nhl/20242025/DET/8482078.png,Lucas,Raymond,23.0,L,R,71,188,180,85,2002-03-28,"{'default': 'Gothenburg', 'cs': 'Göteborg', 'de': 'Göteborg', 'fi': 'Göteborg', 'fr': 'Göteborg', 'sk': 'Göteborg', 'sv': 'Göteborg'}",SWE,,DET,Lucas Raymond
+8475225,https://assets.nhle.com/mugs/nhl/20242025/DET/8475225.png,Craig,Smith,15.0,C,R,73,203,185,92,1989-09-05,{'default': 'Madison'},USA,{'default': 'WI'},DET,Craig Smith
+8475765,https://assets.nhle.com/mugs/nhl/20242025/DET/8475765.png,Vladimir,Tarasenko,11.0,R,L,73,219,185,99,1991-12-13,"{'default': 'Yaroslavl', 'cs': 'Jaroslavl', 'fi': 'Jaroslavl', 'sk': 'Jaroslavl'}",RUS,,DET,Vladimir Tarasenko
+8475279,https://assets.nhle.com/mugs/nhl/20242025/DET/8475279.png,Ben,Chiarot,8.0,D,L,75,224,191,102,1991-05-09,{'default': 'Hamilton'},CAN,{'default': 'ON'},DET,Ben Chiarot
+8482762,https://assets.nhle.com/mugs/nhl/20242025/DET/8482762.png,Simon,Edvinsson,77.0,D,L,78,209,198,95,2003-02-05,{'default': 'Kungsbacka'},SWE,,DET,Simon Edvinsson
+8476979,https://assets.nhle.com/mugs/nhl/20242025/DET/8476979.png,Erik,Gustafsson,56.0,D,L,73,189,185,86,1992-03-14,"{'default': 'Nynashamn', 'cs': 'Nynäshamn', 'fi': 'Nynäshamn', 'sk': 'Nynäshamn', 'sv': 'Nynäshamn'}",SWE,,DET,Erik Gustafsson
+8475718,https://assets.nhle.com/mugs/nhl/20242025/DET/8475718.png,Justin,Holl,3.0,D,R,76,194,193,88,1992-01-30,{'default': 'Tonka Bay'},USA,{'default': 'MN'},DET,Justin Holl
+8481607,https://assets.nhle.com/mugs/nhl/20242025/DET/8481607.png,Albert,Johansson,20.0,D,L,72,168,183,76,2001-01-04,{'default': 'Karlstad'},SWE,,DET,Albert Johansson
+8478021,https://assets.nhle.com/mugs/nhl/20242025/DET/8478021.png,William,Lagesson,84.0,D,L,74,211,188,96,1996-02-22,"{'default': 'Gothenburg', 'cs': 'Göteborg', 'de': 'Göteborg', 'fi': 'Göteborg', 'fr': 'Göteborg', 'sk': 'Göteborg', 'sv': 'Göteborg'}",SWE,,DET,William Lagesson
+8473507,https://assets.nhle.com/mugs/nhl/20242025/DET/8473507.png,Jeff,Petry,46.0,D,R,75,208,191,94,1987-12-09,{'default': 'Ann Arbor'},USA,{'default': 'MI'},DET,Jeff Petry
+8481542,https://assets.nhle.com/mugs/nhl/20242025/DET/8481542.png,Moritz,Seider,53.0,D,R,75,205,191,93,2001-04-06,{'default': 'Zell'},DEU,,DET,Moritz Seider
+8479312,https://assets.nhle.com/mugs/nhl/20242025/DET/8479312.png,Alex,Lyon,34.0,G,L,73,196,185,89,1992-12-09,{'default': 'Baudette'},USA,{'default': 'MN'},DET,Alex Lyon
+8475852,https://assets.nhle.com/mugs/nhl/20242025/DET/8475852.png,Petr,Mrazek,43.0,G,L,74,188,188,85,1992-02-14,{'default': 'Ostrava'},CZE,,DET,Petr Mrazek
+8475660,https://assets.nhle.com/mugs/nhl/20242025/DET/8475660.png,Cam,Talbot,39.0,G,L,76,200,193,91,1987-07-05,{'default': 'Caledonia'},CAN,{'default': 'ON'},DET,Cam Talbot
+8477979,https://assets.nhle.com/mugs/nhl/20242025/NYR/8477979.png,Nicolas,Aube-Kubel,96.0,R,R,72,213,183,97,1996-05-10,{'default': 'Slave Lake'},CAN,{'default': 'AB'},NYR,Nicolas Aube-Kubel
+8482132,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482132.png,Brett,Berard,65.0,L,L,69,175,175,79,2002-09-09,{'default': 'Providence'},USA,{'default': 'RI'},NYR,Brett Berard
+8477380,https://assets.nhle.com/mugs/nhl/20242025/NYR/8477380.png,Jonny,Brodzinski,22.0,C,R,72,211,183,96,1993-06-19,{'default': 'Ham Lake'},USA,{'default': 'MN'},NYR,Jonny Brodzinski
+8475842,https://assets.nhle.com/mugs/nhl/20242025/NYR/8475842.png,Sam,Carrick,39.0,C,R,72,202,183,92,1992-02-04,{'default': 'Markham'},CAN,{'default': 'ON'},NYR,Sam Carrick
+8482157,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482157.png,Will,Cuylle,50.0,L,L,75,212,191,96,2002-02-05,{'default': 'Toronto'},CAN,{'default': 'ON'},NYR,Will Cuylle
+8481726,https://assets.nhle.com/mugs/nhl/20242025/NYR/8481726.png,Adam,Edstrom,84.0,C,L,79,241,201,109,2000-10-12,{'default': 'Karlstad'},SWE,,NYR,Adam Edstrom
+8481560,https://assets.nhle.com/mugs/nhl/20242025/NYR/8481560.png,Arthur,Kaliyev,34.0,R,L,74,210,188,95,2001-06-26,{'default': 'Tashkent'},UZB,,NYR,Arthur Kaliyev
+8482109,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482109.png,Alexis,Lafrenière,13.0,L,L,74,196,188,89,2001-10-11,{'default': 'St-Eustache'},CAN,{'default': 'QC'},NYR,Alexis Lafrenière
+8476468,https://assets.nhle.com/mugs/nhl/20242025/NYR/8476468.png,J.T.,Miller,8.0,L,L,73,218,185,99,1993-03-14,{'default': 'East Palestine'},USA,{'default': 'OH'},NYR,J.T. Miller
+8482747,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482747.png,Brennan,Othmann,78.0,L,L,72,192,183,87,2003-01-05,{'default': 'Pickering'},CAN,{'default': 'ON'},NYR,Brennan Othmann
+8478550,https://assets.nhle.com/mugs/nhl/20242025/NYR/8478550.png,Artemi,Panarin,10.0,L,R,72,177,183,80,1991-10-30,{'default': 'Korkino'},RUS,,NYR,Artemi Panarin
+8481704,https://assets.nhle.com/mugs/nhl/20242025/NYR/8481704.png,Juuso,Parssinen,71.0,C,L,75,212,191,96,2001-02-01,{'default': 'Hameenlinna'},FIN,,NYR,Juuso Parssinen
+8484210,https://assets.nhle.com/mugs/nhl/20242025/NYR/8484210.png,Gabe,Perreault,94.0,R,L,71,178,180,81,2005-05-07,{'default': 'Sherbrooke'},CAN,{'default': 'QC'},NYR,Gabe Perreault
+8482460,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482460.png,Matt,Rempe,73.0,C,R,81,255,206,116,2002-06-29,{'default': 'Calgary'},CAN,{'default': 'AB'},NYR,Matt Rempe
+8476389,https://assets.nhle.com/mugs/nhl/20242025/NYR/8476389.png,Vincent,Trocheck,16.0,C,R,71,188,180,85,1993-07-11,{'default': 'Pittsburgh'},USA,{'default': 'PA'},NYR,Vincent Trocheck
+8476459,https://assets.nhle.com/mugs/nhl/20242025/NYR/8476459.png,Mika,Zibanejad,93.0,C,R,74,203,188,92,1993-04-18,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,NYR,Mika Zibanejad
+8478840,https://assets.nhle.com/mugs/nhl/20242025/NYR/8478840.png,Will,Borgen,17.0,D,R,75,204,191,93,1996-12-19,{'default': 'Moorhead'},USA,{'default': 'MN'},NYR,Will Borgen
+8475177,https://assets.nhle.com/mugs/nhl/20242025/NYR/8475177.png,Calvin,de Haan,44.0,D,L,73,192,185,87,1991-05-09,{'default': 'Carp'},CAN,{'default': 'ON'},NYR,Calvin de Haan
+8479323,https://assets.nhle.com/mugs/nhl/20242025/NYR/8479323.png,Adam,Fox,23.0,D,R,71,180,180,82,1998-02-17,{'default': 'Jericho'},USA,{'default': 'NY'},NYR,Adam Fox
+8481708,https://assets.nhle.com/mugs/nhl/20242025/NYR/8481708.png,Zac,Jones,6.0,D,L,71,190,180,86,2000-10-18,{'default': 'Richmond'},USA,{'default': 'VA'},NYR,Zac Jones
+8480817,https://assets.nhle.com/mugs/nhl/20242025/NYR/8480817.png,K'Andre,Miller,79.0,D,L,77,210,196,95,2000-01-21,{'default': 'St. Paul'},USA,{'default': 'MN'},NYR,K'Andre Miller
+8482073,https://assets.nhle.com/mugs/nhl/20242025/NYR/8482073.png,Braden,Schneider,4.0,D,R,76,213,193,97,2001-09-20,{'default': 'Prince Albert'},CAN,{'default': 'SK'},NYR,Braden Schneider
+8477369,https://assets.nhle.com/mugs/nhl/20242025/NYR/8477369.png,Carson,Soucy,24.0,D,L,77,208,196,94,1994-07-27,{'default': 'Viking'},CAN,{'default': 'AB'},NYR,Carson Soucy
+8480001,https://assets.nhle.com/mugs/nhl/20242025/NYR/8480001.png,Urho,Vaakanainen,18.0,D,L,74,205,188,93,1999-01-01,{'default': 'Joensuu'},FIN,,NYR,Urho Vaakanainen
+8471734,https://assets.nhle.com/mugs/nhl/20242025/NYR/8471734.png,Jonathan,Quick,32.0,G,L,73,220,185,100,1986-01-21,{'default': 'Milford'},USA,{'default': 'CT'},NYR,Jonathan Quick
+8478048,https://assets.nhle.com/mugs/nhl/20242025/NYR/8478048.png,Igor,Shesterkin,31.0,G,L,73,195,185,88,1995-12-30,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,NYR,Igor Shesterkin
+8478445,https://assets.nhle.com/mugs/nhl/20242025/NYI/8478445.png,Mathew,Barzal,13.0,C,R,73,190,185,86,1997-05-26,{'default': 'Coquitlam'},CAN,{'default': 'BC'},NYI,Mathew Barzal
+8475231,https://assets.nhle.com/mugs/nhl/20242025/NYI/8475231.png,Casey,Cizikas,53.0,C,L,71,194,180,88,1991-02-27,{'default': 'Toronto'},CAN,{'default': 'ON'},NYI,Casey Cizikas
+8477407,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477407.png,Anthony,Duclair,11.0,L,L,72,200,183,91,1995-08-26,{'default': 'Pointe-Claire'},CAN,{'default': 'QC'},NYI,Anthony Duclair
+8478115,https://assets.nhle.com/mugs/nhl/20242025/NYI/8478115.png,Pierre,Engvall,18.0,L,L,77,215,196,98,1996-05-31,{'default': 'Ljungby'},SWE,,NYI,Pierre Engvall
+8477392,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477392.png,Hudson,Fasching,20.0,R,R,75,209,191,95,1995-07-28,{'default': 'Apple Valley'},USA,{'default': 'MN'},NYI,Hudson Fasching
+8483553,https://assets.nhle.com/mugs/nhl/20242025/NYI/8483553.png,Marc,Gatcomb,16.0,C,R,74,195,188,88,1999-07-22,{'default': 'Woburn'},USA,{'default': 'MA'},NYI,Marc Gatcomb
+8481601,https://assets.nhle.com/mugs/nhl/20242025/NYI/8481601.png,Simon,Holmstrom,10.0,R,L,74,215,188,98,2001-05-24,"{'default': 'Tranas', 'fi': 'Tranås', 'sv': 'Tranås'}",SWE,,NYI,Simon Holmstrom
+8477500,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477500.png,Bo,Horvat,14.0,C,L,73,215,185,98,1995-04-05,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},NYI,Bo Horvat
+8475314,https://assets.nhle.com/mugs/nhl/20242025/NYI/8475314.png,Anders,Lee,27.0,L,L,75,231,191,105,1990-07-03,{'default': 'Edina'},USA,{'default': 'MN'},NYI,Anders Lee
+8481237,https://assets.nhle.com/mugs/nhl/20242025/NYI/8481237.png,Kyle,MacLean,32.0,C,L,73,194,185,88,1999-04-29,{'default': 'Livingston'},USA,{'default': 'NJ'},NYI,Kyle MacLean
+8474709,https://assets.nhle.com/mugs/nhl/20242025/NYI/8474709.png,Matt,Martin,17.0,L,L,75,215,191,98,1989-05-08,{'default': 'Windsor'},CAN,{'default': 'ON'},NYI,Matt Martin
+8476419,https://assets.nhle.com/mugs/nhl/20242025/NYI/8476419.png,Jean-Gabriel,Pageau,44.0,C,R,71,195,180,88,1992-11-11,{'default': 'Ottawa'},CAN,{'default': 'ON'},NYI,Jean-Gabriel Pageau
+8475151,https://assets.nhle.com/mugs/nhl/20242025/NYI/8475151.png,Kyle,Palmieri,21.0,C,R,71,195,180,88,1991-02-01,{'default': 'Smithtown'},USA,{'default': 'NY'},NYI,Kyle Palmieri
+8484958,https://assets.nhle.com/mugs/nhl/20242025/NYI/8484958.png,Maxim,Tsyplakov,7.0,R,L,75,210,191,95,1998-09-19,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,NYI,Maxim Tsyplakov
+8480871,https://assets.nhle.com/mugs/nhl/20242025/NYI/8480871.png,Adam,Boqvist,34.0,D,R,72,191,183,87,2000-08-15,{'default': 'Falun'},SWE,,NYI,Adam Boqvist
+8477950,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477950.png,Tony,DeAngelo,4.0,D,R,71,180,180,82,1995-10-24,{'default': 'Sewell'},USA,{'default': 'NJ'},NYI,Tony DeAngelo
+8480865,https://assets.nhle.com/mugs/nhl/20242025/NYI/8480865.png,Noah,Dobson,8.0,D,R,76,200,193,91,2000-01-07,{'default': 'Summerside'},CAN,{'default': 'PE'},NYI,Noah Dobson
+8476429,https://assets.nhle.com/mugs/nhl/20242025/NYI/8476429.png,Scott,Mayfield,24.0,D,R,77,213,196,97,1992-10-14,{'default': 'St. Louis'},USA,{'default': 'MO'},NYI,Scott Mayfield
+8476917,https://assets.nhle.com/mugs/nhl/20242025/NYI/8476917.png,Adam,Pelech,3.0,D,L,75,210,191,95,1994-08-16,{'default': 'Toronto'},CAN,{'default': 'ON'},NYI,Adam Pelech
+8481059,https://assets.nhle.com/mugs/nhl/20242025/NYI/8481059.png,Scott,Perunovich,26.0,D,L,70,175,178,79,1998-08-18,{'default': 'Hibbing'},USA,{'default': 'MN'},NYI,Scott Perunovich
+8477506,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477506.png,Ryan,Pulock,6.0,D,R,74,220,188,100,1994-10-06,{'default': 'Dauphin'},CAN,{'default': 'MB'},NYI,Ryan Pulock
+8476422,https://assets.nhle.com/mugs/nhl/20242025/NYI/8476422.png,Mike,Reilly,2.0,D,L,74,191,188,87,1993-07-13,{'default': 'Chicago'},USA,{'default': 'IL'},NYI,Mike Reilly
+8481014,https://assets.nhle.com/mugs/nhl/20242025/NYI/8481014.png,Alexander,Romanov,28.0,D,L,73,220,185,100,2000-01-06,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,NYI,Alexander Romanov
+8477405,https://assets.nhle.com/mugs/nhl/20242025/NYI/8477405.png,Marcus,Hogberg,50.0,G,L,77,234,196,106,1994-11-25,"{'default': 'Orebro', 'cs': 'Örebro', 'fi': 'Örebro', 'sk': 'Örebro', 'sv': 'Örebro'}",SWE,,NYI,Marcus Hogberg
+8478009,https://assets.nhle.com/mugs/nhl/20242025/NYI/8478009.png,Ilya,Sorokin,30.0,G,L,76,211,193,96,1995-08-04,"{'default': 'Mezhdurechensk', 'fi': 'Mezhduretshensk'}",RUS,,NYI,Ilya Sorokin
+8473575,https://assets.nhle.com/mugs/nhl/20242025/NYI/8473575.png,Semyon,Varlamov,40.0,G,L,74,201,188,91,1988-04-27,{'default': 'Samara'},RUS,,NYI,Semyon Varlamov
+8478569,https://assets.nhle.com/mugs/nhl/20242025/PIT/8478569.png,Noel,Acciari,55.0,C,R,71,209,180,95,1991-12-01,{'default': 'Johnston'},USA,{'default': 'RI'},PIT,Noel Acciari
+8471675,https://assets.nhle.com/mugs/nhl/20242025/PIT/8471675.png,Sidney,Crosby,87.0,C,L,71,200,180,91,1987-08-07,{'default': 'Cole Harbour'},CAN,{'default': 'NS'},PIT,Sidney Crosby
+8480980,https://assets.nhle.com/mugs/nhl/20242025/PIT/8480980.png,Connor,Dewar,19.0,C,L,70,192,178,87,1999-06-26,{'default': 'The Pas'},CAN,{'default': 'MB'},PIT,Connor Dewar
+8475763,https://assets.nhle.com/mugs/nhl/20242025/PIT/8475763.png,Kevin,Hayes,13.0,R,L,77,216,196,98,1992-05-08,{'default': 'Dorchester'},USA,{'default': 'MA'},PIT,Kevin Hayes
+8478046,https://assets.nhle.com/mugs/nhl/20242025/PIT/8478046.png,Danton,Heinen,43.0,L,L,74,195,188,88,1995-07-05,{'default': 'Langley'},CAN,{'default': 'BC'},PIT,Danton Heinen
+8478147,https://assets.nhle.com/mugs/nhl/20242025/PIT/8478147.png,Bokondji,Imama,14.0,L,L,73,221,185,100,1996-08-03,{'default': 'Montréal'},CAN,{'default': 'QC'},PIT,Bokondji Imama
+8481481,https://assets.nhle.com/mugs/nhl/20242025/PIT/8481481.png,Blake,Lizotte,46.0,C,L,69,173,175,78,1997-12-13,{'default': 'Lindstrom'},USA,{'default': 'MN'},PIT,Blake Lizotte
+8471215,https://assets.nhle.com/mugs/nhl/20242025/PIT/8471215.png,Evgeni,Malkin,71.0,C,L,77,210,196,95,1986-07-31,{'default': 'Magnitogorsk'},RUS,,PIT,Evgeni Malkin
+8483487,https://assets.nhle.com/mugs/nhl/20242025/PIT/8483487.png,Rutger,McGroarty,2.0,R,L,73,203,185,92,2004-03-30,{'default': 'Lincoln'},USA,{'default': 'NE'},PIT,Rutger McGroarty
+8476442,https://assets.nhle.com/mugs/nhl/20242025/PIT/8476442.png,Matt,Nieto,83.0,L,L,71,189,180,86,1992-11-05,{'default': 'Long Beach'},USA,{'default': 'CA'},PIT,Matt Nieto
+8478438,https://assets.nhle.com/mugs/nhl/20242025/PIT/8478438.png,Tommy,Novak,18.0,C,L,73,179,185,81,1997-04-28,{'default': 'St. Paul'},USA,{'default': 'MN'},PIT,Tommy Novak
+8476483,https://assets.nhle.com/mugs/nhl/20242025/PIT/8476483.png,Rickard,Rakell,67.0,R,R,73,191,185,87,1993-05-05,{'default': 'Sundbyberg'},SWE,,PIT,Rickard Rakell
+8475810,https://assets.nhle.com/mugs/nhl/20242025/PIT/8475810.png,Bryan,Rust,17.0,R,R,71,198,180,90,1992-05-11,{'default': 'Pontiac'},USA,{'default': 'MI'},PIT,Bryan Rust
+8481577,https://assets.nhle.com/mugs/nhl/20242025/PIT/8481577.png,Philip,Tomasino,53.0,C,R,72,190,183,86,2001-07-28,{'default': 'Mississauga'},CAN,{'default': 'ON'},PIT,Philip Tomasino
+8477435,https://assets.nhle.com/mugs/nhl/20242025/PIT/8477435.png,Ryan,Graves,27.0,D,L,77,222,196,101,1995-05-21,{'default': 'Yarmouth'},CAN,{'default': 'NS'},PIT,Ryan Graves
+8476891,https://assets.nhle.com/mugs/nhl/20242025/PIT/8476891.png,Matt,Grzelcyk,24.0,D,L,70,180,178,82,1994-01-05,{'default': 'Charlestown'},USA,{'default': 'MA'},PIT,Matt Grzelcyk
+8480058,https://assets.nhle.com/mugs/nhl/20242025/PIT/8480058.png,P.O,Joseph,73.0,D,L,74,185,188,84,1999-07-01,{'default': 'Laval'},CAN,{'default': 'QC'},PIT,P.O Joseph
+8474578,https://assets.nhle.com/mugs/nhl/20242025/PIT/8474578.png,Erik,Karlsson,65.0,D,R,72,186,183,84,1990-05-31,{'default': 'Landsbro'},SWE,,PIT,Erik Karlsson
+8481609,https://assets.nhle.com/mugs/nhl/20242025/PIT/8481609.png,Vladislav,Kolyachonok,23.0,D,L,74,195,188,88,2001-05-26,{'default': 'Minsk'},BLR,,PIT,Vladislav Kolyachonok
+8471724,https://assets.nhle.com/mugs/nhl/20242025/PIT/8471724.png,Kris,Letang,58.0,D,R,72,193,183,88,1987-04-24,{'default': 'Montréal'},CAN,{'default': 'QC'},PIT,Kris Letang
+8478854,https://assets.nhle.com/mugs/nhl/20242025/PIT/8478854.png,Ryan,Shea,5.0,D,L,73,220,185,100,1997-02-11,{'default': 'Milton'},USA,{'default': 'MA'},PIT,Ryan Shea
+8479982,https://assets.nhle.com/mugs/nhl/20242025/PIT/8479982.png,Conor,Timmins,20.0,D,R,75,213,191,97,1998-09-18,{'default': 'St. Catharines'},CAN,{'default': 'ON'},PIT,Conor Timmins
+8477465,https://assets.nhle.com/mugs/nhl/20242025/PIT/8477465.png,Tristan,Jarry,35.0,G,L,74,195,188,88,1995-04-29,{'default': 'Surrey'},CAN,{'default': 'BC'},PIT,Tristan Jarry
+8477968,https://assets.nhle.com/mugs/nhl/20242025/PIT/8477968.png,Alex,Nedeljkovic,39.0,G,L,72,203,183,92,1996-01-07,{'default': 'Parma'},USA,{'default': 'OH'},PIT,Alex Nedeljkovic
+8484153,https://assets.nhle.com/mugs/nhl/20242025/ANA/8484153.png,Leo,Carlsson,91.0,C,L,75,203,191,92,2004-12-26,{'default': 'Karlstad'},SWE,,ANA,Leo Carlsson
+8477952,https://assets.nhle.com/mugs/nhl/20242025/ANA/8477952.png,Robby,Fabbri,13.0,C,L,71,185,180,84,1996-01-22,{'default': 'Mississauga'},CAN,{'default': 'ON'},ANA,Robby Fabbri
+8483445,https://assets.nhle.com/mugs/nhl/20242025/ANA/8483445.png,Cutter,Gauthier,61.0,L,L,74,201,188,91,2004-01-19,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,ANA,Cutter Gauthier
+8478424,https://assets.nhle.com/mugs/nhl/20242025/ANA/8478424.png,Jansen,Harkins,38.0,C,L,73,199,185,90,1997-05-23,{'default': 'Cleveland'},USA,{'default': 'OH'},ANA,Jansen Harkins
+8477527,https://assets.nhle.com/mugs/nhl/20242025/ANA/8477527.png,Ross,Johnston,44.0,L,L,77,232,196,105,1994-02-18,{'default': 'Charlottetown'},CAN,{'default': 'PE'},ANA,Ross Johnston
+8473986,https://assets.nhle.com/mugs/nhl/20242025/ANA/8473986.png,Alex,Killorn,17.0,L,L,73,192,185,87,1989-09-14,{'default': 'Halifax'},CAN,{'default': 'NS'},ANA,Alex Killorn
+8475184,https://assets.nhle.com/mugs/nhl/20242025/ANA/8475184.png,Chris,Kreider,,C,L,75,230,191,104,1991-04-30,{'default': 'Boxford'},USA,{'default': 'MA'},ANA,Chris Kreider
+8481517,https://assets.nhle.com/mugs/nhl/20242025/ANA/8481517.png,Brett,Leason,20.0,R,R,77,220,196,100,1999-04-30,{'default': 'Calgary'},CAN,{'default': 'AB'},ANA,Brett Leason
+8480806,https://assets.nhle.com/mugs/nhl/20242025/ANA/8480806.png,Isac,Lundestrom,21.0,C,L,72,191,183,87,1999-11-06,"{'default': 'Gallivare', 'cs': 'Gällivare', 'fi': 'Jällivaara', 'sk': 'Gällivare', 'sv': 'Gällivare'}",SWE,,ANA,Isac Lundestrom
+8476934,https://assets.nhle.com/mugs/nhl/20242025/ANA/8476934.png,Brock,McGinn,26.0,L,L,72,191,183,87,1994-02-02,{'default': 'Fergus'},CAN,{'default': 'ON'},ANA,Brock McGinn
+8482745,https://assets.nhle.com/mugs/nhl/20242025/ANA/8482745.png,Mason,McTavish,23.0,C,L,73,219,185,99,2003-01-30,{'default': 'Zurich'},CHE,,ANA,Mason McTavish
+8476458,https://assets.nhle.com/mugs/nhl/20242025/ANA/8476458.png,Ryan,Strome,16.0,C,R,73,192,185,87,1993-07-11,{'default': 'Mississauga'},CAN,{'default': 'ON'},ANA,Ryan Strome
+8478873,https://assets.nhle.com/mugs/nhl/20242025/ANA/8478873.png,Troy,Terry,19.0,R,R,72,191,183,87,1997-09-10,{'default': 'Denver'},USA,{'default': 'CO'},ANA,Troy Terry
+8478366,https://assets.nhle.com/mugs/nhl/20242025/ANA/8478366.png,Frank,Vatrano,77.0,R,L,71,206,180,93,1994-03-14,{'default': 'East Longmeadow'},USA,{'default': 'MA'},ANA,Frank Vatrano
+8485512,https://assets.nhle.com/mugs/nhl/20242025/ANA/8485512.png,Tim,Washe,42.0,C,L,75,215,191,98,2001-08-25,{'default': 'Detroit'},USA,{'default': 'MI'},ANA,Tim Washe
+8481533,https://assets.nhle.com/mugs/nhl/20242025/ANA/8481533.png,Trevor,Zegras,11.0,C,L,72,185,183,84,2001-03-20,{'default': 'Bedford'},USA,{'default': 'NY'},ANA,Trevor Zegras
+8475462,https://assets.nhle.com/mugs/nhl/20242025/ANA/8475462.png,Radko,Gudas,7.0,D,R,72,208,183,94,1990-06-05,"{'default': 'Prague', 'cs': 'Praha', 'de': 'Prag', 'fi': 'Praha', 'sk': 'Praha', 'sv': 'Prag'}",CZE,,ANA,Radko Gudas
+8481563,https://assets.nhle.com/mugs/nhl/20242025/ANA/8481563.png,Drew,Helleson,43.0,D,R,75,213,191,97,2001-03-26,{'default': 'Farmington'},USA,{'default': 'MN'},ANA,Drew Helleson
+8478430,https://assets.nhle.com/mugs/nhl/20242025/ANA/8478430.png,Oliver,Kylington,58.0,D,L,72,183,183,83,1997-05-19,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,ANA,Oliver Kylington
+8481605,https://assets.nhle.com/mugs/nhl/20242025/ANA/8481605.png,Jackson,LaCombe,2.0,D,L,74,205,188,93,2001-01-09,{'default': 'Eden Prairie'},USA,{'default': 'MN'},ANA,Jackson LaCombe
+8483490,https://assets.nhle.com/mugs/nhl/20242025/ANA/8483490.png,Pavel,Mintyukov,34.0,D,L,73,200,185,91,2003-11-25,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,ANA,Pavel Mintyukov
+8482178,https://assets.nhle.com/mugs/nhl/20242025/ANA/8482178.png,Ian,Moore,74.0,D,R,75,203,191,92,2002-01-04,{'default': 'Salt Lake City'},USA,{'default': 'UT'},ANA,Ian Moore
+8476885,https://assets.nhle.com/mugs/nhl/20242025/ANA/8476885.png,Jacob,Trouba,65.0,D,R,75,212,191,96,1994-02-26,{'default': 'Rochester'},USA,{'default': 'MI'},ANA,Jacob Trouba
+8482803,https://assets.nhle.com/mugs/nhl/20242025/ANA/8482803.png,Olen,Zellweger,51.0,D,L,70,187,178,85,2003-09-10,{'default': 'Calgary'},CAN,{'default': 'AB'},ANA,Olen Zellweger
+8480843,https://assets.nhle.com/mugs/nhl/20242025/ANA/8480843.png,Lukas,Dostal,1.0,G,L,74,190,188,86,2000-06-22,{'default': 'Brno'},CZE,,ANA,Lukas Dostal
+8476434,https://assets.nhle.com/mugs/nhl/20242025/ANA/8476434.png,John,Gibson,36.0,G,L,74,214,188,97,1993-07-14,{'default': 'Pittsburgh'},USA,{'default': 'PA'},ANA,John Gibson
+8484145,https://assets.nhle.com/mugs/nhl/20242025/BUF/8484145.png,Zach,Benson,9.0,L,L,70,170,178,77,2005-05-12,{'default': 'Chilliwack'},CAN,{'default': 'BC'},BUF,Zach Benson
+8478413,https://assets.nhle.com/mugs/nhl/20242025/BUF/8478413.png,Jordan,Greenway,12.0,L,L,78,231,198,105,1997-02-16,{'default': 'Canton'},USA,{'default': 'NY'},BUF,Jordan Greenway
+8481522,https://assets.nhle.com/mugs/nhl/20242025/BUF/8481522.png,Peyton,Krebs,19.0,C,L,72,186,183,84,2001-01-26,{'default': 'Calgary'},CAN,{'default': 'AB'},BUF,Peyton Krebs
+8478043,https://assets.nhle.com/mugs/nhl/20242025/BUF/8478043.png,Sam,Lafferty,81.0,C,R,74,205,188,93,1995-03-06,{'default': 'Hollidaysburg'},USA,{'default': 'PA'},BUF,Sam Lafferty
+8479359,https://assets.nhle.com/mugs/nhl/20242025/BUF/8479359.png,Beck,Malenstyn,29.0,L,L,75,209,191,95,1998-02-04,{'default': 'Delta'},CAN,{'default': 'BC'},BUF,Beck Malenstyn
+8480802,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480802.png,Ryan,McLeod,71.0,C,L,75,188,191,85,1999-09-21,{'default': 'Mississauga'},CAN,{'default': 'ON'},BUF,Ryan McLeod
+8480064,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480064.png,Josh,Norris,13.0,C,L,74,196,188,89,1999-05-05,{'default': 'Oxford'},USA,{'default': 'MI'},BUF,Josh Norris
+8482175,https://assets.nhle.com/mugs/nhl/20242025/BUF/8482175.png,JJ,Peterka,77.0,R,L,72,189,183,86,2002-01-14,"{'default': 'Munich', 'cs': 'Mnichov', 'de': 'München', 'fi': 'München', 'sk': 'Mnichov', 'sv': 'München'}",DEU,,BUF,JJ Peterka
+8482097,https://assets.nhle.com/mugs/nhl/20242025/BUF/8482097.png,Jack,Quinn,22.0,R,R,73,185,185,84,2001-09-19,{'default': 'Ottawa'},CAN,{'default': 'ON'},BUF,Jack Quinn
+8479420,https://assets.nhle.com/mugs/nhl/20242025/BUF/8479420.png,Tage,Thompson,72.0,C,R,78,220,198,100,1997-10-30,{'default': 'Phoenix'},USA,{'default': 'AZ'},BUF,Tage Thompson
+8477949,https://assets.nhle.com/mugs/nhl/20242025/BUF/8477949.png,Alex,Tuch,89.0,R,R,76,219,193,99,1996-05-10,{'default': 'Syracuse'},USA,{'default': 'NY'},BUF,Alex Tuch
+8475722,https://assets.nhle.com/mugs/nhl/20242025/BUF/8475722.png,Jason,Zucker,17.0,L,L,71,195,180,88,1992-01-16,{'default': 'Newport Beach'},USA,{'default': 'CA'},BUF,Jason Zucker
+8480879,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480879.png,Jacob,Bernard-Docker,24.0,D,R,73,198,185,90,2000-06-30,{'default': 'Canmore'},CAN,{'default': 'AB'},BUF,Jacob Bernard-Docker
+8480196,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480196.png,Jacob,Bryson,78.0,D,L,69,177,175,80,1997-11-18,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},BUF,Jacob Bryson
+8481524,https://assets.nhle.com/mugs/nhl/20242025/BUF/8481524.png,Bowen,Byram,4.0,D,L,73,205,185,93,2001-06-13,{'default': 'Cranbrook'},CAN,{'default': 'BC'},BUF,Bowen Byram
+8477365,https://assets.nhle.com/mugs/nhl/20242025/BUF/8477365.png,Connor,Clifton,75.0,D,R,71,195,180,88,1995-04-28,{'default': 'Matawan'},USA,{'default': 'NJ'},BUF,Connor Clifton
+8480839,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480839.png,Rasmus,Dahlin,26.0,D,L,75,204,191,93,2000-04-13,"{'default': 'Lidkoping', 'cs': 'Lidköping', 'fi': 'Lidköping', 'sk': 'Lidköping', 'sv': 'Lidköping'}",SWE,,BUF,Rasmus Dahlin
+8482671,https://assets.nhle.com/mugs/nhl/20242025/BUF/8482671.png,Owen,Power,25.0,D,L,78,226,198,103,2002-11-22,{'default': 'Mississauga'},CAN,{'default': 'ON'},BUF,Owen Power
+8480807,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480807.png,Mattias,Samuelsson,23.0,D,L,76,227,193,103,2000-03-14,"{'default': 'Philadelphia', 'fr': 'Philadelphie'}",USA,{'default': 'PA'},BUF,Mattias Samuelsson
+8480045,https://assets.nhle.com/mugs/nhl/20242025/BUF/8480045.png,Ukko-Pekka,Luukkonen,1.0,G,L,77,223,196,101,1999-03-09,"{'default': 'Espoo', 'sv': 'Esbo'}",FIN,,BUF,Ukko-Pekka Luukkonen
+8473503,https://assets.nhle.com/mugs/nhl/20242025/BUF/8473503.png,James,Reimer,47.0,G,L,74,200,188,91,1988-03-15,{'default': 'Morweena'},CAN,{'default': 'MB'},BUF,James Reimer
+8482665,https://assets.nhle.com/mugs/nhl/20242025/SEA/8482665.png,Matty,Beniers,10.0,C,L,74,181,188,82,2002-11-05,{'default': 'Hingham'},USA,{'default': 'MA'},SEA,Matty Beniers
+8477444,https://assets.nhle.com/mugs/nhl/20242025/SEA/8477444.png,Andre,Burakovsky,95.0,L,L,75,203,191,92,1995-02-09,{'default': 'Klagenfurt'},AUT,,SEA,Andre Burakovsky
+8474586,https://assets.nhle.com/mugs/nhl/20242025/SEA/8474586.png,Jordan,Eberle,7.0,R,R,71,180,180,82,1990-05-15,{'default': 'Regina'},CAN,{'default': 'SK'},SEA,Jordan Eberle
+8479591,https://assets.nhle.com/mugs/nhl/20242025/SEA/8479591.png,Michael,Eyssimont,21.0,C,L,72,191,183,87,1996-09-09,{'default': 'Littleton'},USA,{'default': 'CO'},SEA,Michael Eyssimont
+8477401,https://assets.nhle.com/mugs/nhl/20242025/SEA/8477401.png,John,Hayden,15.0,C,R,75,223,191,101,1995-02-14,{'default': 'Chicago'},USA,{'default': 'IL'},SEA,John Hayden
+8481554,https://assets.nhle.com/mugs/nhl/20242025/SEA/8481554.png,Kaapo,Kakko,84.0,R,L,73,215,185,98,2001-02-13,"{'default': 'Turku', 'sv': 'Åbo'}",FIN,,SEA,Kaapo Kakko
+8481789,https://assets.nhle.com/mugs/nhl/20242025/SEA/8481789.png,Tye,Kartye,12.0,L,L,71,202,180,92,2001-04-30,{'default': 'Kingston'},CAN,{'default': 'ON'},SEA,Tye Kartye
+8477955,https://assets.nhle.com/mugs/nhl/20242025/SEA/8477955.png,Jared,McCann,19.0,L,L,73,191,185,87,1996-05-31,{'default': 'Stratford'},CAN,{'default': 'ON'},SEA,Jared McCann
+8475768,https://assets.nhle.com/mugs/nhl/20242025/SEA/8475768.png,Jaden,Schwartz,17.0,C,L,70,185,178,84,1992-06-25,{'default': 'Wilcox'},CAN,{'default': 'SK'},SEA,Jaden Schwartz
+8476905,https://assets.nhle.com/mugs/nhl/20242025/SEA/8476905.png,Chandler,Stephenson,9.0,C,L,72,201,183,91,1994-04-22,{'default': 'Saskatoon'},CAN,{'default': 'SK'},SEA,Chandler Stephenson
+8480009,https://assets.nhle.com/mugs/nhl/20242025/SEA/8480009.png,Eeli,Tolvanen,20.0,R,L,70,182,178,83,1999-04-22,{'default': 'Vihti'},FIN,,SEA,Eeli Tolvanen
+8483524,https://assets.nhle.com/mugs/nhl/20242025/SEA/8483524.png,Shane,Wright,51.0,C,R,72,192,183,87,2004-01-05,{'default': 'Burlington'},CAN,{'default': 'ON'},SEA,Shane Wright
+8478407,https://assets.nhle.com/mugs/nhl/20242025/SEA/8478407.png,Vince,Dunn,29.0,D,L,72,200,183,91,1996-10-29,{'default': 'Mississauga'},CAN,{'default': 'ON'},SEA,Vince Dunn
+8482858,https://assets.nhle.com/mugs/nhl/20242025/SEA/8482858.png,Ryker,Evans,41.0,D,L,72,195,183,88,2001-12-13,{'default': 'Calgary'},CAN,{'default': 'AB'},SEA,Ryker Evans
+8476457,https://assets.nhle.com/mugs/nhl/20242025/SEA/8476457.png,Adam,Larsson,6.0,D,R,75,207,191,94,1992-11-12,"{'default': 'Skelleftea', 'fi': 'Skellefteå', 'sv': 'Skellefteå'}",SWE,,SEA,Adam Larsson
+8479372,https://assets.nhle.com/mugs/nhl/20242025/SEA/8479372.png,Joshua,Mahura,28.0,D,L,72,193,183,88,1998-05-05,"{'default': 'St. Albert', 'fr': 'St-Albert'}",CAN,{'default': 'AB'},SEA,Joshua Mahura
+8477986,https://assets.nhle.com/mugs/nhl/20242025/SEA/8477986.png,Brandon,Montour,62.0,D,R,72,199,183,90,1994-04-11,{'default': 'Brantford'},CAN,{'default': 'ON'},SEA,Brandon Montour
+8476467,https://assets.nhle.com/mugs/nhl/20242025/SEA/8476467.png,Jamie,Oleksiak,24.0,D,L,79,252,201,114,1992-12-21,{'default': 'Toronto'},CAN,{'default': 'ON'},SEA,Jamie Oleksiak
+8478916,https://assets.nhle.com/mugs/nhl/20242025/SEA/8478916.png,Joey,Daccord,35.0,G,L,74,201,188,91,1996-08-19,{'default': 'Boston'},USA,{'default': 'MA'},SEA,Joey Daccord
+8475831,https://assets.nhle.com/mugs/nhl/20242025/SEA/8475831.png,Philipp,Grubauer,31.0,G,L,73,188,185,85,1991-11-25,{'default': 'Rosenheim'},DEU,,SEA,Philipp Grubauer
+8481556,https://assets.nhle.com/mugs/nhl/20242025/BOS/8481556.png,John,Beecher,19.0,C,L,75,220,191,100,2001-04-05,{'default': 'Elmira'},USA,{'default': 'NY'},BOS,John Beecher
+8479987,https://assets.nhle.com/mugs/nhl/20242025/BOS/8479987.png,Morgan,Geekie,39.0,C,R,75,208,191,94,1998-07-20,{'default': 'Strathclair'},CAN,{'default': 'MB'},BOS,Morgan Geekie
+8480355,https://assets.nhle.com/mugs/nhl/20242025/BOS/8480355.png,Mark,Kastelic,47.0,C,R,76,227,193,103,1999-03-11,{'default': 'Phoenix'},USA,{'default': 'AZ'},BOS,Mark Kastelic
+8482177,https://assets.nhle.com/mugs/nhl/20242025/BOS/8482177.png,Marat,Khusnutdinov,92.0,C,L,71,176,180,80,2002-07-17,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,BOS,Marat Khusnutdinov
+8481043,https://assets.nhle.com/mugs/nhl/20242025/BOS/8481043.png,Cole,Koepke,45.0,L,L,73,207,185,94,1998-05-17,{'default': 'Two Harbors'},USA,{'default': 'MN'},BOS,Cole Koepke
+8480880,https://assets.nhle.com/mugs/nhl/20242025/BOS/8480880.png,Jakub,Lauko,94.0,C,L,73,193,185,88,2000-03-28,"{'default': 'Prague', 'cs': 'Praha', 'de': 'Prag', 'fi': 'Praha', 'sk': 'Praha', 'sv': 'Prag'}",CZE,,BOS,Jakub Lauko
+8477496,https://assets.nhle.com/mugs/nhl/20242025/BOS/8477496.png,Elias,Lindholm,28.0,C,R,73,202,185,92,1994-12-02,{'default': 'Boden'},SWE,,BOS,Elias Lindholm
+8479999,https://assets.nhle.com/mugs/nhl/20242025/BOS/8479999.png,Casey,Mittelstadt,11.0,C,L,73,195,185,88,1998-11-22,{'default': 'Eden Prairie'},USA,{'default': 'MN'},BOS,Casey Mittelstadt
+8477956,https://assets.nhle.com/mugs/nhl/20242025/BOS/8477956.png,David,Pastrnak,88.0,R,R,72,200,183,91,1996-05-25,"{'default': 'Havirov', 'cs': 'Havířov', 'fi': 'Havířov', 'sk': 'Havířov'}",CZE,,BOS,David Pastrnak
+8478401,https://assets.nhle.com/mugs/nhl/20242025/BOS/8478401.png,Pavel,Zacha,18.0,C,L,75,206,191,93,1997-04-06,{'default': 'Brno'},CZE,,BOS,Pavel Zacha
+8480035,https://assets.nhle.com/mugs/nhl/20242025/BOS/8480035.png,Henri,Jokiharju,20.0,D,R,72,200,183,91,1999-06-17,"{'default': 'Oulu', 'sv': 'Uleåborg'}",FIN,,BOS,Henri Jokiharju
+8476854,https://assets.nhle.com/mugs/nhl/20242025/BOS/8476854.png,Hampus,Lindholm,27.0,D,L,76,224,193,102,1994-01-20,{'default': 'Helsingborg'},SWE,,BOS,Hampus Lindholm
+8482511,https://assets.nhle.com/mugs/nhl/20242025/BOS/8482511.png,Mason,Lohrei,6.0,D,L,77,220,196,100,2001-01-17,{'default': 'Baton Rouge'},USA,{'default': 'LA'},BOS,Mason Lohrei
+8479325,https://assets.nhle.com/mugs/nhl/20242025/BOS/8479325.png,Charlie,McAvoy,73.0,D,R,73,213,185,97,1997-12-21,{'default': 'Long Beach'},USA,{'default': 'NY'},BOS,Charlie McAvoy
+8479369,https://assets.nhle.com/mugs/nhl/20242025/BOS/8479369.png,Andrew,Peeke,52.0,D,R,75,214,191,97,1998-03-17,{'default': 'Parkland'},USA,{'default': 'FL'},BOS,Andrew Peeke
+8478450,https://assets.nhle.com/mugs/nhl/20242025/BOS/8478450.png,Parker,Wotherspoon,29.0,D,L,73,192,185,87,1997-08-24,{'default': 'Surrey'},CAN,{'default': 'BC'},BOS,Parker Wotherspoon
+8477507,https://assets.nhle.com/mugs/nhl/20242025/BOS/8477507.png,Nikita,Zadorov,91.0,D,L,78,248,198,112,1995-04-16,"{'default': 'Moscow', 'cs': 'Moskva', 'de': 'Moskau', 'fi': 'Moskova', 'fr': 'Moscou', 'sk': 'Moskva', 'sv': 'Moskva'}",RUS,,BOS,Nikita Zadorov
+8476914,https://assets.nhle.com/mugs/nhl/20242025/BOS/8476914.png,Joonas,Korpisalo,70.0,G,L,75,199,191,90,1994-04-28,"{'default': 'Pori', 'sv': 'Björneborg'}",FIN,,BOS,Joonas Korpisalo
+8480280,https://assets.nhle.com/mugs/nhl/20242025/BOS/8480280.png,Jeremy,Swayman,1.0,G,L,75,195,191,88,1998-11-24,{'default': 'Anchorage'},USA,{'default': 'AK'},BOS,Jeremy Swayman
+8481553,https://assets.nhle.com/mugs/nhl/20242025/PHI/8481553.png,Bobby,Brink,10.0,R,R,68,169,173,77,2001-07-08,{'default': 'Minnetonka'},USA,{'default': 'MN'},PHI,Bobby Brink
+8480220,https://assets.nhle.com/mugs/nhl/20242025/PHI/8480220.png,Noah,Cates,27.0,L,L,74,194,188,88,1999-02-05,{'default': 'Stillwater'},USA,{'default': 'MN'},PHI,Noah Cates
+8476461,https://assets.nhle.com/mugs/nhl/20242025/PHI/8476461.png,Sean,Couturier,14.0,C,L,76,210,193,95,1992-12-07,{'default': 'Phoenix'},USA,{'default': 'AZ'},PHI,Sean Couturier
+8475235,https://assets.nhle.com/mugs/nhl/20242025/PHI/8475235.png,Nicolas,Deslauriers,44.0,L,L,73,218,185,99,1991-02-22,{'default': 'LaSalle'},CAN,{'default': 'QC'},PHI,Nicolas Deslauriers
+8485483,https://assets.nhle.com/mugs/nhl/20242025/PHI/8485483.png,Karsen,Dorwart,23.0,L,L,73,194,185,88,2002-09-17,{'default': 'Sherwood'},USA,{'default': 'OR'},PHI,Karsen Dorwart
+8482159,https://assets.nhle.com/mugs/nhl/20242025/PHI/8482159.png,Tyson,Foerster,71.0,R,R,74,215,188,98,2002-01-18,{'default': 'Alliston'},CAN,{'default': 'ON'},PHI,Tyson Foerster
+8477903,https://assets.nhle.com/mugs/nhl/20242025/PHI/8477903.png,Garnet,Hathaway,19.0,R,R,74,212,188,96,1991-11-23,{'default': 'Naples'},USA,{'default': 'FL'},PHI,Garnet Hathaway
+8483461,https://assets.nhle.com/mugs/nhl/20242025/PHI/8483461.png,Devin,Kaplan,68.0,R,R,74,199,188,90,2004-01-10,{'default': 'Bridgewater'},USA,{'default': 'NJ'},PHI,Devin Kaplan
+8478439,https://assets.nhle.com/mugs/nhl/20242025/PHI/8478439.png,Travis,Konecny,11.0,R,R,70,192,178,87,1997-03-11,"{'default': 'London', 'sk': 'Londýn'}",CAN,{'default': 'ON'},PHI,Travis Konecny
+8484387,https://assets.nhle.com/mugs/nhl/20242025/PHI/8484387.png,Matvei,Michkov,39.0,R,L,70,172,178,78,2004-12-09,{'default': 'Perm'},RUS,,PHI,Matvei Michkov
+8481592,https://assets.nhle.com/mugs/nhl/20242025/PHI/8481592.png,Jakob,Pelletier,22.0,L,L,69,170,175,77,2001-03-07,{'default': 'Québec City'},CAN,{'default': 'QC'},PHI,Jakob Pelletier
+8480068,https://assets.nhle.com/mugs/nhl/20242025/PHI/8480068.png,Ryan,Poehling,25.0,C,L,74,204,188,93,1999-01-03,{'default': 'Lakeville'},USA,{'default': 'MN'},PHI,Ryan Poehling
+8480015,https://assets.nhle.com/mugs/nhl/20242025/PHI/8480015.png,Owen,Tippett,74.0,R,R,73,210,185,95,1999-02-16,{'default': 'Peterborough'},CAN,{'default': 'ON'},PHI,Owen Tippett
+8482142,https://assets.nhle.com/mugs/nhl/20242025/PHI/8482142.png,Jamie,Drysdale,9.0,D,R,71,185,180,84,2002-04-08,{'default': 'Toronto'},CAN,{'default': 'ON'},PHI,Jamie Drysdale
+8475176,https://assets.nhle.com/mugs/nhl/20242025/PHI/8475176.png,Ryan,Ellis,94.0,D,R,70,180,178,82,1991-01-03,{'default': 'Hamilton'},CAN,{'default': 'ON'},PHI,Ryan Ellis
+8477499,https://assets.nhle.com/mugs/nhl/20242025/PHI/8477499.png,Rasmus,Ristolainen,55.0,D,R,76,208,193,94,1994-10-27,"{'default': 'Turku', 'sv': 'Åbo'}",FIN,,PHI,Rasmus Ristolainen
+8477948,https://assets.nhle.com/mugs/nhl/20242025/PHI/8477948.png,Travis,Sanheim,6.0,D,L,76,222,193,101,1996-03-29,{'default': 'Elkhorn'},CAN,{'default': 'MB'},PHI,Travis Sanheim
+8476372,https://assets.nhle.com/mugs/nhl/20242025/PHI/8476372.png,Nick,Seeler,24.0,D,L,75,197,191,89,1993-06-03,{'default': 'Eden Prairie'},USA,{'default': 'MN'},PHI,Nick Seeler
+8481546,https://assets.nhle.com/mugs/nhl/20242025/PHI/8481546.png,Cam,York,8.0,D,L,72,194,183,88,2001-01-05,{'default': 'Anaheim'},USA,{'default': 'CA'},PHI,Cam York
+8481178,https://assets.nhle.com/mugs/nhl/20242025/PHI/8481178.png,Egor,Zamula,5.0,D,L,75,200,191,91,2000-03-30,"{'default': 'Chelyabinsk', 'cs': 'Čeljabinsk', 'fi': 'Tsheljabinsk', 'sk': 'Čeljabinsk'}",RUS,,PHI,Egor Zamula
+8481035,https://assets.nhle.com/mugs/nhl/20242025/PHI/8481035.png,Samuel,Ersson,33.0,G,L,75,194,191,88,1999-10-20,{'default': 'Falun'},SWE,,PHI,Samuel Ersson
+8478905,https://assets.nhle.com/mugs/nhl/20242025/PHI/8478905.png,Ivan,Fedotov,82.0,G,L,79,214,201,97,1996-11-28,"{'default': 'Lappeenranta', 'sv': 'Vilmanstrand'}",FIN,,PHI,Ivan Fedotov
+8482783,https://assets.nhle.com/mugs/nhl/20242025/PHI/8482783.png,Aleksei,Kolosov,35.0,G,L,73,185,185,84,2002-01-04,{'default': 'Minsk'},BLR,,PHI,Aleksei Kolosov
+8478047,https://assets.nhle.com/mugs/nhl/20242025/NSH/8478047.png,Michael,Bunting,58.0,L,L,72,186,183,84,1995-09-17,{'default': 'Scarborough'},CAN,{'default': 'ON'},NSH,Michael Bunting
+8482146,https://assets.nhle.com/mugs/nhl/20242025/NSH/8482146.png,Luke,Evangelista,77.0,R,R,72,183,183,83,2002-02-21,{'default': 'Toronto'},CAN,{'default': 'ON'},NSH,Luke Evangelista
+8476887,https://assets.nhle.com/mugs/nhl/20242025/NSH/8476887.png,Filip,Forsberg,9.0,L,R,73,205,185,93,1994-08-13,"{'default': 'Ostervala', 'cs': 'Östervala', 'fi': 'Östervala', 'sk': 'Östervala', 'sv': 'Östervåla'}",SWE,,NSH,Filip Forsberg
+8482742,https://assets.nhle.com/mugs/nhl/20242025/NSH/8482742.png,Zachary,L'Heureux,68.0,L,L,71,197,180,89,2003-05-15,{'default': 'Montréal'},CAN,{'default': 'QC'},NSH,Zachary L'Heureux
+8476539,https://assets.nhle.com/mugs/nhl/20242025/NSH/8476539.png,Jonathan,Marchessault,81.0,C,R,69,185,175,84,1990-12-27,{'default': 'Cap-Rouge'},CAN,{'default': 'QC'},NSH,Jonathan Marchessault
+8477446,https://assets.nhle.com/mugs/nhl/20242025/NSH/8477446.png,Michael,McCarron,47.0,R,R,78,232,198,105,1995-03-07,{'default': 'Grosse Pointe'},USA,{'default': 'MI'},NSH,Michael McCarron
+8475158,https://assets.nhle.com/mugs/nhl/20242025/NSH/8475158.png,Ryan,O'Reilly,90.0,C,L,73,207,185,94,1991-02-07,{'default': 'Clinton'},CAN,{'default': 'ON'},NSH,Ryan O'Reilly
+8476925,https://assets.nhle.com/mugs/nhl/20242025/NSH/8476925.png,Colton,Sissons,10.0,C,R,73,200,185,91,1993-11-05,{'default': 'North Vancouver'},CAN,{'default': 'BC'},NSH,Colton Sissons
+8482062,https://assets.nhle.com/mugs/nhl/20242025/NSH/8482062.png,Cole,Smith,36.0,L,L,75,195,191,88,1995-10-28,{'default': 'Brainerd'},USA,{'default': 'MN'},NSH,Cole Smith
+8474564,https://assets.nhle.com/mugs/nhl/20242025/NSH/8474564.png,Steven,Stamkos,91.0,C,R,73,193,185,88,1990-02-07,{'default': 'Markham'},CAN,{'default': 'ON'},NSH,Steven Stamkos
+8477944,https://assets.nhle.com/mugs/nhl/20242025/NSH/8477944.png,Jakub,Vrana,19.0,L,L,72,197,183,89,1996-02-28,"{'default': 'Prague', 'cs': 'Praha', 'de': 'Prag', 'fi': 'Praha', 'sk': 'Praha', 'sv': 'Prag'}",CZE,,NSH,Jakub Vrana
+8484241,https://assets.nhle.com/mugs/nhl/20242025/NSH/8484241.png,Matthew,Wood,52.0,R,R,77,205,196,93,2005-02-06,{'default': 'Nanaimo'},CAN,{'default': 'BC'},NSH,Matthew Wood
+8482111,https://assets.nhle.com/mugs/nhl/20242025/NSH/8482111.png,Justin,Barron,20.0,D,R,74,198,188,90,2001-11-15,{'default': 'Halifax'},CAN,{'default': 'NS'},NSH,Justin Barron
+8483565,https://assets.nhle.com/mugs/nhl/20242025/NSH/8483565.png,Nick,Blankenburg,37.0,D,R,69,177,175,80,1998-05-12,{'default': 'Washington'},USA,{'default': 'MI'},NSH,Nick Blankenburg
+8477971,https://assets.nhle.com/mugs/nhl/20242025/NSH/8477971.png,Andreas,Englund,8.0,D,L,76,200,193,91,1996-01-21,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,NSH,Andreas Englund
+8474600,https://assets.nhle.com/mugs/nhl/20242025/NSH/8474600.png,Roman,Josi,59.0,D,L,73,201,185,91,1990-06-01,"{'default': 'Bern', 'fr': 'Berne'}",CHE,,NSH,Roman Josi
+8478468,https://assets.nhle.com/mugs/nhl/20242025/NSH/8478468.png,Jeremy,Lauzon,3.0,D,L,75,225,191,102,1997-04-28,"{'default': ""Val-d'Or""}",CAN,{'default': 'QC'},NSH,Jeremy Lauzon
+8477851,https://assets.nhle.com/mugs/nhl/20242025/NSH/8477851.png,Jordan,Oesterle,82.0,D,L,72,181,183,82,1992-06-25,{'default': 'Dearborn Heights'},USA,{'default': 'MI'},NSH,Jordan Oesterle
+8476869,https://assets.nhle.com/mugs/nhl/20242025/NSH/8476869.png,Brady,Skjei,76.0,D,L,75,210,191,95,1994-03-26,{'default': 'Lakeville'},USA,{'default': 'MN'},NSH,Brady Skjei
+8482482,https://assets.nhle.com/mugs/nhl/20242025/NSH/8482482.png,Adam,Wilsby,83.0,D,L,73,188,185,85,2000-08-07,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,NSH,Adam Wilsby
+8481020,https://assets.nhle.com/mugs/nhl/20242025/NSH/8481020.png,Justus,Annunen,29.0,G,L,76,210,193,95,2000-03-11,{'default': 'Kempele'},FIN,,NSH,Justus Annunen
+8477424,https://assets.nhle.com/mugs/nhl/20242025/NSH/8477424.png,Juuse,Saros,74.0,G,L,71,180,180,82,1995-04-19,{'default': 'Forssa'},FIN,,NSH,Juuse Saros
+8484144,https://assets.nhle.com/mugs/nhl/20242025/CHI/8484144.png,Connor,Bedard,98.0,C,R,70,185,178,84,2005-07-17,{'default': 'North Vancouver'},CAN,{'default': 'BC'},CHI,Connor Bedard
+8477479,https://assets.nhle.com/mugs/nhl/20242025/CHI/8477479.png,Tyler,Bertuzzi,59.0,L,L,74,200,188,91,1995-02-24,{'default': 'Sudbury'},CAN,{'default': 'ON'},CHI,Tyler Bertuzzi
+8477450,https://assets.nhle.com/mugs/nhl/20242025/CHI/8477450.png,Jason,Dickinson,16.0,C,L,74,200,188,91,1995-07-04,{'default': 'Georgetown'},CAN,{'default': 'ON'},CHI,Jason Dickinson
+8477987,https://assets.nhle.com/mugs/nhl/20242025/CHI/8477987.png,Ryan,Donato,8.0,C,L,72,190,183,86,1996-04-09,{'default': 'Boston'},USA,{'default': 'MA'},CHI,Ryan Donato
+8473422,https://assets.nhle.com/mugs/nhl/20242025/CHI/8473422.png,Nick,Foligno,17.0,L,L,72,210,183,95,1987-10-31,{'default': 'Buffalo'},USA,{'default': 'NY'},CHI,Nick Foligno
+8483450,https://assets.nhle.com/mugs/nhl/20242025/CHI/8483450.png,Ryan,Greene,20.0,C,R,73,174,185,79,2003-10-21,"{'default': ""St. John's""}",CAN,{'default': 'NL'},CHI,Ryan Greene
+8480798,https://assets.nhle.com/mugs/nhl/20242025/CHI/8480798.png,Philipp,Kurashev,23.0,C,L,72,190,183,86,1999-10-12,"{'default': 'Munsingen', 'cs': 'Münsingen', 'fi': 'Münsingen', 'sk': 'Münsingen'}",CHE,,CHI,Philipp Kurashev
+8474034,https://assets.nhle.com/mugs/nhl/20242025/CHI/8474034.png,Patrick,Maroon,77.0,L,L,75,234,191,106,1988-04-23,{'default': 'St. Louis'},USA,{'default': 'MO'},CHI,Patrick Maroon
+8481624,https://assets.nhle.com/mugs/nhl/20242025/CHI/8481624.png,Ilya,Mikheyev,95.0,R,L,74,192,188,87,1994-10-10,{'default': 'Omsk'},RUS,,CHI,Ilya Mikheyev
+8484197,https://assets.nhle.com/mugs/nhl/20242025/CHI/8484197.png,Oliver,Moore,11.0,C,L,71,188,180,85,2005-01-22,{'default': 'Mounds View'},USA,{'default': 'MN'},CHI,Oliver Moore
+8483493,https://assets.nhle.com/mugs/nhl/20242025/CHI/8483493.png,Frank,Nazar,91.0,C,R,70,190,178,86,2004-01-14,{'default': 'Detroit'},USA,{'default': 'MI'},CHI,Frank Nazar
+8482117,https://assets.nhle.com/mugs/nhl/20242025/CHI/8482117.png,Lukas,Reichel,73.0,L,L,72,170,183,77,2002-05-17,{'default': 'Nürnberg'},DEU,,CHI,Lukas Reichel
+8482172,https://assets.nhle.com/mugs/nhl/20242025/CHI/8482172.png,Landon,Slaggert,84.0,L,L,72,180,183,82,2002-06-25,{'default': 'South Bend'},USA,{'default': 'IN'},CHI,Landon Slaggert
+8476882,https://assets.nhle.com/mugs/nhl/20242025/CHI/8476882.png,Teuvo,Teravainen,86.0,C,L,71,191,180,87,1994-09-11,"{'default': 'Helsinki', 'cs': 'Helsinky', 'sk': 'Helsinky', 'sv': 'Helsingfors'}",FIN,,CHI,Teuvo Teravainen
+8480813,https://assets.nhle.com/mugs/nhl/20242025/CHI/8480813.png,Joe,Veleno,90.0,C,L,73,201,185,91,2000-01-13,{'default': 'Montréal'},CAN,{'default': 'QC'},CHI,Joe Veleno
+8474673,https://assets.nhle.com/mugs/nhl/20242025/CHI/8474673.png,TJ,Brodie,78.0,D,L,74,187,188,85,1990-06-07,{'default': 'Chatham'},CAN,{'default': 'ON'},CHI,TJ Brodie
+8481806,https://assets.nhle.com/mugs/nhl/20242025/CHI/8481806.png,Louis,Crevier,46.0,D,R,80,228,203,103,2001-05-04,"{'default': 'Quebec City', 'fr': 'Québec'}",CAN,{'default': 'QC'},CHI,Louis Crevier
+8482176,https://assets.nhle.com/mugs/nhl/20242025/CHI/8482176.png,Wyatt,Kaiser,44.0,D,L,72,173,183,78,2002-07-31,{'default': 'Andover'},USA,{'default': 'MN'},CHI,Wyatt Kaiser
+8484783,https://assets.nhle.com/mugs/nhl/20242025/CHI/8484783.png,Artyom,Levshunov,55.0,D,R,74,208,188,94,2005-10-28,{'default': 'Zhlobin'},BLR,,CHI,Artyom Levshunov
+8474166,https://assets.nhle.com/mugs/nhl/20242025/CHI/8474166.png,Alec,Martinez,25.0,D,L,73,210,185,95,1987-07-26,{'default': 'Rochester Hills'},USA,{'default': 'MI'},CHI,Alec Martinez
+8476473,https://assets.nhle.com/mugs/nhl/20242025/CHI/8476473.png,Connor,Murphy,5.0,D,R,76,212,193,96,1993-03-26,{'default': 'Dublin'},USA,{'default': 'OH'},CHI,Connor Murphy
+8483506,https://assets.nhle.com/mugs/nhl/20242025/CHI/8483506.png,Sam,Rinzel,6.0,D,R,76,177,193,80,2004-06-25,{'default': 'Chanhassen'},USA,{'default': 'MN'},CHI,Sam Rinzel
+8481568,https://assets.nhle.com/mugs/nhl/20242025/CHI/8481568.png,Alex,Vlasic,72.0,D,L,78,217,198,98,2001-06-05,{'default': 'Wilmette'},USA,{'default': 'IL'},CHI,Alex Vlasic
+8481519,https://assets.nhle.com/mugs/nhl/20242025/CHI/8481519.png,Spencer,Knight,30.0,G,L,75,191,191,87,2001-04-19,{'default': 'Darien'},USA,{'default': 'CT'},CHI,Spencer Knight
+8482821,https://assets.nhle.com/mugs/nhl/20242025/CHI/8482821.png,Arvid,Soderblom,40.0,G,L,75,180,191,82,1999-08-19,{'default': 'Göteborg'},SWE,,CHI,Arvid Soderblom
+8482133,https://assets.nhle.com/mugs/nhl/20242025/SJS/8482133.png,Thomas,Bordeleau,17.0,C,L,70,180,178,82,2002-01-03,{'default': 'Houston'},USA,{'default': 'TX'},SJS,Thomas Bordeleau
+8484801,https://assets.nhle.com/mugs/nhl/20242025/SJS/8484801.png,Macklin,Celebrini,71.0,C,L,72,190,183,86,2006-06-13,{'default': 'North Vancouver'},CAN,{'default': 'BC'},SJS,Macklin Celebrini
+8474053,https://assets.nhle.com/mugs/nhl/20242025/SJS/8474053.png,Logan,Couture,39.0,C,L,73,206,185,93,1989-03-28,{'default': 'Guelph'},CAN,{'default': 'ON'},SJS,Logan Couture
+8480848,https://assets.nhle.com/mugs/nhl/20242025/SJS/8480848.png,Ty,Dellandrea,53.0,C,R,74,190,188,86,2000-07-21,{'default': 'Port Perry'},CAN,{'default': 'ON'},SJS,Ty Dellandrea
+8482667,https://assets.nhle.com/mugs/nhl/20242025/SJS/8482667.png,William,Eklund,72.0,L,L,71,181,180,82,2002-10-12,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,SJS,William Eklund
+8476624,https://assets.nhle.com/mugs/nhl/20242025/SJS/8476624.png,Barclay,Goodrow,23.0,R,L,74,209,188,95,1993-02-26,{'default': 'Toronto'},CAN,{'default': 'ON'},SJS,Barclay Goodrow
+8479393,https://assets.nhle.com/mugs/nhl/20242025/SJS/8479393.png,Noah,Gregor,9.0,C,L,72,201,183,91,1998-07-28,{'default': 'Beaumont'},CAN,{'default': 'AB'},SJS,Noah Gregor
+8479336,https://assets.nhle.com/mugs/nhl/20242025/SJS/8479336.png,Carl,Grundstrom,91.0,R,L,72,200,183,91,1997-12-01,"{'default': 'Umea', 'fi': 'Uumaja', 'sv': 'Umeå'}",SWE,,SJS,Carl Grundstrom
+8480011,https://assets.nhle.com/mugs/nhl/20242025/SJS/8480011.png,Klim,Kostin,10.0,C,L,76,232,193,105,1999-05-05,{'default': 'Penza'},RUS,,SJS,Klim Kostin
+8481042,https://assets.nhle.com/mugs/nhl/20242025/SJS/8481042.png,Nikolai,Kovalenko,15.0,R,L,70,180,178,82,1999-10-17,{'default': 'Raleigh'},USA,{'default': 'NC'},SJS,Nikolai Kovalenko
+8483481,https://assets.nhle.com/mugs/nhl/20242025/SJS/8483481.png,Cam,Lund,46.0,C,R,74,195,188,88,2004-06-07,{'default': 'Bridgewater'},USA,{'default': 'MA'},SJS,Cam Lund
+8484227,https://assets.nhle.com/mugs/nhl/20242025/SJS/8484227.png,Will,Smith,2.0,C,R,72,181,183,82,2005-03-17,{'default': 'Boston'},USA,{'default': 'MA'},SJS,Will Smith
+8475726,https://assets.nhle.com/mugs/nhl/20242025/SJS/8475726.png,Tyler,Toffoli,73.0,C,R,72,203,183,92,1992-04-24,{'default': 'Scarborough'},CAN,{'default': 'ON'},SJS,Tyler Toffoli
+8477505,https://assets.nhle.com/mugs/nhl/20242025/SJS/8477505.png,Alexander,Wennberg,21.0,C,L,74,190,188,86,1994-09-22,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,,SJS,Alexander Wennberg
+8479576,https://assets.nhle.com/mugs/nhl/20242025/SJS/8479576.png,Vincent,Desharnais,5.0,D,R,79,226,201,103,1996-05-29,{'default': 'Laval'},CAN,{'default': 'QC'},SJS,Vincent Desharnais
+8479983,https://assets.nhle.com/mugs/nhl/20242025/SJS/8479983.png,Mario,Ferraro,38.0,D,L,72,209,183,95,1998-09-17,{'default': 'Toronto'},CAN,{'default': 'ON'},SJS,Mario Ferraro
+8480043,https://assets.nhle.com/mugs/nhl/20242025/SJS/8480043.png,Timothy,Liljegren,37.0,D,R,73,201,185,91,1999-04-30,{'default': 'Kristianstad'},SWE,,SJS,Timothy Liljegren
+8482166,https://assets.nhle.com/mugs/nhl/20242025/SJS/8482166.png,Shakir,Mukhamadullin,85.0,D,L,76,200,193,91,2002-01-10,{'default': 'Ufa'},RUS,,SJS,Shakir Mukhamadullin
+8480172,https://assets.nhle.com/mugs/nhl/20242025/SJS/8480172.png,Jan,Rutta,84.0,D,R,75,204,191,93,1990-07-29,"{'default': 'Pisek', 'cs': 'Písek', 'fi': 'Písek', 'sk': 'Písek'}",CZE,,SJS,Jan Rutta
+8481567,https://assets.nhle.com/mugs/nhl/20242025/SJS/8481567.png,Henry,Thrun,3.0,D,L,74,210,188,95,2001-03-12,{'default': 'Southborough'},USA,{'default': 'MA'},SJS,Henry Thrun
+8471709,https://assets.nhle.com/mugs/nhl/20242025/SJS/8471709.png,Marc-Edouard,Vlasic,44.0,D,L,73,205,185,93,1987-03-30,{'default': 'Montréal'},CAN,{'default': 'QC'},SJS,Marc-Edouard Vlasic
+8480382,https://assets.nhle.com/mugs/nhl/20242025/SJS/8480382.png,Alexandar,Georgiev,40.0,G,L,73,178,185,81,1996-02-10,{'default': 'Ruse'},BGR,,SJS,Alexandar Georgiev
+8484312,https://assets.nhle.com/mugs/nhl/20242025/SJS/8484312.png,Georgi,Romanov,31.0,G,L,77,207,196,94,1999-12-15,"{'default': 'Yekaterinburg', 'cs': 'Jekatěrinburg', 'fi': 'Jekaterinburg', 'fr': 'Iekaterinbourg', 'sk': 'Jekatěrinburg'}",RUS,,SJS,Georgi Romanov
