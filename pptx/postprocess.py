@@ -20,7 +20,7 @@ import zipfile
 ROOT = pathlib.Path(__file__).resolve().parent
 THEME = sys.argv[1] if len(sys.argv) > 1 else "light"
 SRC = ROOT / "out" / f"deck-{THEME}.pptx"
-OUT = ROOT.parent / ("presentation.pptx" if THEME == "light" else "presentation-dark.pptx")
+OUT = ROOT.parent / ("presentation.pptx" if THEME == "light" else f"presentation-{THEME}.pptx")
 SPEC = json.loads((ROOT / "out" / f"anim-{THEME}.json").read_text(encoding="utf-8"))
 
 KINDS = ("sp", "pic", "graphicFrame", "cxnSp")

@@ -8,6 +8,7 @@
 |---|---|
 | [`presentation.pptx`](presentation.pptx) | **Основной файл для конкурса** — Microsoft PowerPoint, светлая тема (для проектора в освещённом зале) |
 | [`presentation-dark.pptx`](presentation-dark.pptx) | Та же презентация в тёмной теме — для затемнённого зала или большого экрана |
+| [`presentation-simple.pptx`](presentation-simple.pptx) | Простая версия: белый фон, Calibri, стандартные фигуры и диаграммы PowerPoint, только эффект «Выцветание» |
 | [`presentation.html`](presentation.html) | Интерактивная веб-версия (резерв: работает в любом браузере без интернета) |
 
 ## Соответствие Положению конкурса
