@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Эффект относительного возраста</title>
+<meta name="description" content="Защита проекта: почему хоккеисты рождаются в январе. Анализ 853 игроков НХЛ сезона 2024/25.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230b1b2e'/%3E%3Crect x='10' y='38' width='12' height='16' rx='3' fill='%232a78d6'/%3E%3Crect x='26' y='30' width='12' height='24' rx='3' fill='%23a9c6ec'/%3E%3Crect x='42' y='44' width='12' height='10' rx='3' fill='%23e2622f'/%3E%3C/svg%3E">
+<style>
+/*@CSS@*/
+</style>
+</head>
+<body>
+<main class="stage" aria-roledescription="презентация" aria-label="Эффект относительного возраста">
+  <div class="bg" aria-hidden="true"></div>
+  <canvas class="ice" width="1920" height="1080" aria-hidden="true"></canvas>
+  <div class="deck">
+<!--@SLIDES@-->
+  </div>
+  <div class="hud" aria-hidden="true">
+    <div class="counter"></div>
+    <div class="progress"></div>
+  </div>
+</main>
+
+<div class="sr-only" aria-live="polite" id="live"></div>
+
+<nav class="controls" aria-label="Управление презентацией">
+  <button type="button" data-act="prev" title="Назад (←)" aria-label="Назад"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
+  <button type="button" data-act="next" title="Вперёд (→, пробел)" aria-label="Вперёд"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
+  <span class="sep"></span>
+  <button type="button" data-act="overview" title="Все слайды (O)" aria-label="Все слайды"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg></button>
+  <button type="button" data-act="presenter" title="Окно докладчика (S)" aria-label="Окно докладчика"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="13" rx="2"/><path d="M8 21h8M12 17v4"/><path d="M6 9h7M6 12h4"/></svg></button>
+  <button type="button" data-act="theme" title="Тема: светлая / тёмная (T)" aria-label="Сменить тему"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3v18" /><path d="M12 3a9 9 0 0 1 0 18" fill="currentColor" stroke="none"/></svg></button>
+  <button type="button" data-act="fullscreen" title="Во весь экран (F)" aria-label="Во весь экран"><svg viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
+  <button type="button" data-act="help" title="Справка (H)" aria-label="Справка"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/></svg></button>
+</nav>
+
+<div class="blackout" aria-hidden="true"></div>
+<div class="toast" role="status"></div>
+<div class="goto" aria-hidden="true"></div>
+<div class="tip" aria-hidden="true"></div>
+<div class="notes-bar" aria-live="off"><div class="nb-head">Текст докладчика · N — скрыть</div><div class="nb-body"></div></div>
+
+<div class="help" role="dialog" aria-modal="true" aria-label="Справка">
+  <div class="help-card">
+    <h3>Управление презентацией</h3>
+    <p class="sub">Работает с клавиатуры, мыши, тачпада и пульта-кликера. Один клик — следующая фраза доклада.</p>
+    <div class="help-grid">
+      <div><kbd><span>→</span><span>Пробел</span></kbd>Вперёд (следующий шаг)</div>
+      <div><kbd><span>←</span></kbd>Назад</div>
+      <div><kbd><span>F</span></kbd>Во весь экран</div>
+      <div><kbd><span>S</span></kbd>Окно докладчика: текст, таймер, ответы</div>
+      <div><kbd><span>N</span></kbd>Текст доклада на этом экране</div>
+      <div><kbd><span>T</span></kbd>Светлая / тёмная тема</div>
+      <div><kbd><span>B</span><span>.</span></kbd>Чёрный экран (пауза)</div>
+      <div><kbd><span>O</span></kbd>Все слайды</div>
+      <div><kbd><span>5</span><span>Enter</span></kbd>Перейти к слайду 5</div>
+      <div><kbd><span>Home</span><span>End</span></kbd>В начало / к выводам</div>
+      <div><kbd><span>E</span></kbd>Правка: имя, направление, фото</div>
+      <div><kbd><span>Ctrl</span><span>S</span></kbd>Сохранить файл с правками и фото</div>
+      <div><kbd><span>M</span></kbd>Облегчённый режим для слабого ПК</div>
+      <div><kbd><span>Ctrl</span><span>P</span></kbd>PDF-версия (все слайды)</div>
+    </div>
+    <p class="tip"><b>Фото.</b> Перетащите картинку на рамку на слайде 6 «Загадка» (или нажмите E и дважды кликните по рамке), затем Ctrl+S — получится новый файл, где фото уже внутри и всё работает без интернета.<br><b>Тема.</b> Светлая — для проектора в освещённом классе, тёмная — для тёмного зала.</p>
+  </div>
+</div>
+
+<template id="qa">
+  <details open><summary>1. Может, в начале года просто рождается больше детей?</summary><p>Нет. В Канаде и России рождаемость по месяцам почти равномерна, а летом детей рождается даже немного больше. С поправкой на это эффект получается ещё сильнее.</p></details>
+  <details><summary>2. Почему у шведов эффекта нет?</summary><p>В Швеции детский хоккей строится на принципе «спорт для всех»: жёсткий отбор начинается позже, детей реже делят на сильных и слабых в раннем возрасте. Это косвенно подтверждает, что отложенный отбор работает. Но 80 человек — небольшая выборка, поэтому это предположение.</p></details>
+  <details><summary>3. Почему результат по россиянам не доказан?</summary><p>52 человека — слишком мало. p = 0,47: примерно в половине случаев такое распределение получилось бы случайно. Следующий этап — все российские игроки КХЛ и молодёжных сборных.</p></details>
+  <details><summary>4. Значит, родителям стоит планировать рождение детей?</summary><p>Нет. Эффект ослабевает с возрастом, а у «поздних» есть плюс — эффект аутсайдера. Правильнее менять систему отбора, а не дату рождения ребёнка.</p></details>
+  <details><summary>5. При чём тут психология, если дело в физиологии?</summary><p>Физиология даёт стартовую разницу в несколько месяцев. В разницу на всю карьеру её превращают психологические механизмы: ожидания тренера (эффект Пигмалиона), накопление преимуществ (эффект Матфея) и мотивация младших, которые чаще бросают спорт.</p></details>
+  <details><summary>6. Почему НХЛ, а не КХЛ?</summary><p>У НХЛ открытые и полные данные по составам, в лиге играют представители многих стран — можно сравнить страны. Анализ КХЛ — продолжение работы.</p></details>
+  <details><summary>+ Откуда «+51 %» про зарплаты?</summary><p>Fumarco, Gibbs, Jarvis, Rossi (PLoS ONE, 2017), составы НХЛ 2008–2016: среди 10 % самых высокооплачиваемых игроки, рождённые в IV квартале, получают на 51 % больше рождённых в I квартале.</p></details>
+  <details><summary>+ Номера по возрасту работают и в хоккее?</summary><p>Эксперимент Mann и van Ginneken (2017) проводился со скаутами футбольного клуба. В хоккейной репликации предварительные результаты неоднозначны — честно сказать, что метод нужно проверять для каждого вида спорта.</p></details>
+  <details><summary>+ Справка по игрокам</summary><p>Шестёркин — 30.12.1995, «Везина Трофи» 2022. Панарин — 30.10.1991, не выбран на драфте; с февраля 2026 играет за «Лос-Анджелес Кингз». Мичков — 09.12.2004. Демидов — 10.12.2005. Встреча Барнсли: юниорский матч в Летбридже (Канада), 1984; статья — 1985.</p></details>
+</template>
+
+<script>
+/*@JS@*/
+</script>
+</body>
+</html>
