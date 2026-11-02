@@ -1,0 +1,12 @@
+{
+  "name": "rae-pptx",
+  "private": true,
+  "description": "Сборка PowerPoint-версии презентации «Эффект относительного возраста»",
+  "scripts": {
+    "assets": "node build_assets.js",
+    "deck": "node build_deck.js && python3 postprocess.py"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
